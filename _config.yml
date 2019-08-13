@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Stephanie Wang"
 title_separator          : "-"
 name                     : &name "Stephanie Wang"
 description              : &description "PhD candidate at UCLA"
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Stephanie Wang"
+  name             : # "Stephanie Wang"
   avatar           : "profile.jpg"
-  bio              : "PhD candidate at UCLA, mathematicians interested in physics-based simulations"
+  bio              : "PhD candidate at UCLA, mathematician, interested in physics-based simulations"
   location         : "Los Angeles, CA"
-  employer         : "University of California - Los Angeles"
+  employer         : # "University of California - Los Angeles"
   pubmed           : 
   googlescholar    : 
   email            :
