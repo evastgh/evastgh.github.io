@@ -1,20 +1,12 @@
 ---
-title: "Under construction..."
+title: "Linear Algebra and Applications"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: https://ccle.ucla.edu/course/view/19S-MATH33A-4
+venue: "UCLA, Department of Mathematics"
+date: 2019-06-18
+location: "Los Angeles, CA"
 ---
 
-> This is a description of a teaching experience. You can use markdown like any other post.
+Introduction to linear algebra: systems of linear equations, matrix algebra, linear independence, subspaces, bases and dimension, orthogonality, least-squares methods, determinants, eigenvalues and eigenvectors, matrix diagonalization, and symmetric matrices.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
