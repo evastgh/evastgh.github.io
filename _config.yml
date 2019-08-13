@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Stephanie Wang"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Stephanie Wang"
+description              : &description "PhD candidate at UCLA"
 url                      : https://evastgh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "evastgh/evastgh.github.io"
@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Stephanie Wang"
-  avatar           : "profile.jpg"
-  bio              : "PhD Candidate at University of California - Los Angeles (UCLA), mathematicians interested in physics-based simulations"
-  location         : "Los Angeles, CA, United States"
-  employer         : 
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  avatar           : "files/profile.jpg"
+  bio              : "PhD candidate at UCLA, mathematicians interested in physics-based simulations"
+  location         : "Los Angeles, CA"
+  employer         : "University of California - Los Angeles"
+  pubmed           : 
+  googlescholar    : 
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Stephanie_Wang7"
+  researchgate     : # "https://www.researchgate.net/profile/Stephanie_Wang7"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/evastgh"
+  github           : "evastgh"
   google_plus      :
   keybase          :
   instagram        :
