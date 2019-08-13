@@ -16,7 +16,20 @@ I lived in Taiwan for the most of my life before moving to California to start m
 
 I was introduced to bouldering in early 2017 and it has made the meaning of my life. I also cook. See gallery.
 
-## Publications
+
+Publications
+======
+
+### Simulation and Visualization of Ductile Fracture with the Material Point Method
+**S. Wang**, M. Ding, T. Gast, L. Zhu, S. Gagniere, C. Jiang, J. Teran
+ACM SIGGRAPH/Eurographics Symposium on Computer Animation **(Best Paper Awardee)** (PACM-CGIT), 2019
+[Paper (pdf)](files/fracture_paper.pdf)
+
+### Hybrid Material Point Method for Frictional Contact with Diverse Materials
+X. Han, T. Gast, Q. Guo, **S. Wang**, C. Jiang, J. Teran
+ACM SIGGRAPH/Eurographics Symposium on Computer Animation (PACM-CGIT), 2019
+[Paper (pdf)](files/hybrid_mpm_paper.pdf)
+
 
 Publications
 ======
