@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I'm a fifth year PhD student at [UCLA in Computational Applied Mathematics (CAM)](https://www.math.ucla.edu/research/cam). I'm interested in Physics-Based Simulations and their applications in Computer Graphics. I'm also interested in general Differential Equations and Computational Mathematics. My advisor is [Joseph Teran](https://www.math.ucla.edu/~jteran/).
 
-A data-driven personal website
+I was the chef organizer of [Women in Math at UCLA](https://www.math.ucla.edu/grad/women-in-math) and created the [Women In Math Mentorship Program](https://www.math.ucla.edu/grad/women-in-math-mentorship-program) _(note the acronym)_. I am currently serving as the Graduate Student Organization President and a member in the [Math and Physical Sciences Council](https://www.math.ucla.edu/~mpsc/math/).
+
+I lived in Taiwan for the most of my life before moving to California to start my graduate studies. I received my B.S. in Mathematics at [National Taiwan University](http://www.math.ntu.edu.tw/en). After graduating I did a year-long internship as a research assistant at the 3D Geometry Computation Lab at [Shing-Tung Yau Center](http://yaucenter.nctu.edu.tw/en/) at National Chiao-Tung University. My academic experience in Taiwan has been very fruitful and prepared me well for the challenges in my graduate program. 
+
+I was introduced to bouldering in early 2017 and it has made the meaning of my life. I also cook. See gallery.
+
+## Publications
+
+Publications
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
