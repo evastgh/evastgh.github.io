@@ -20,14 +20,16 @@ I was introduced to bouldering in early 2017 and it has made the meaning of my l
 Publications
 ======
 
+![fracture](/images/fracture_cover.png)
 ### Simulation and Visualization of Ductile Fracture with the Material Point Method
-**S. Wang**, M. Ding, T. Gast, L. Zhu, S. Gagniere, C. Jiang, J. Teran
-ACM SIGGRAPH/Eurographics Symposium on Computer Animation **(Best Paper Awardee)** (PACM-CGIT), 2019
+**S. Wang**, M. Ding, T. Gast, L. Zhu, S. Gagniere, C. Jiang, J. Teran  
+ACM SIGGRAPH/Eurographics Symposium on Computer Animation **(Best Paper Awardee)** (PACM-CGIT), 2019  
 [Paper (pdf)](files/fracture_paper.pdf)
 
+![hybrid](/images/hybrid_cover.png)
 ### Hybrid Material Point Method for Frictional Contact with Diverse Materials
-X. Han, T. Gast, Q. Guo, **S. Wang**, C. Jiang, J. Teran
-ACM SIGGRAPH/Eurographics Symposium on Computer Animation (PACM-CGIT), 2019
+X. Han, T. Gast, Q. Guo, **S. Wang**, C. Jiang, J. Teran  
+ACM SIGGRAPH/Eurographics Symposium on Computer Animation (PACM-CGIT), 2019  
 [Paper (pdf)](files/hybrid_mpm_paper.pdf)
 
 
