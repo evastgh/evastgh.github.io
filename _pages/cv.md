@@ -17,10 +17,16 @@ Education
 
 Work Experience
 ======
-* Summer 2019: Exchange Scholar
+* Summer 2019: Research Scholar
   * Ecole Polytechnique Federale de Lausanne, _Lausanne, Switzerland_
   * Duties included: consulting and snow simulations for engineering purposes
   * Supervisor: Professor Johan Gaume
+
+* Spring 2019: Course Instructor
+  * UCLA, _Los Angeles, CA_
+  * Principal instructor of Math 33 A: Linear Algebra and Applications
+  * Duties included: designing and giving lectures, preparing homework and exams problems
+  * Supervisor: Professor Olga Redko
   
 * Summer 2018: Technology Intern
   * Walt Disney Animation Stuio, _Burbank, CA_
