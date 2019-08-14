@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "evast [at] g.ucla.edu"
+    email                : "md5"
   generatedFields:
     date:
       type               : "date"
@@ -87,7 +87,7 @@ author:
   employer         : # "University of California - Los Angeles"
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "evast [at] g.ucla.edu"
   researchgate     : "https://www.researchgate.net/profile/Stephanie_Wang7"
   uri              :
   bitbucket        :
