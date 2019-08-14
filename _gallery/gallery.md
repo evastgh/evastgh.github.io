@@ -1,6 +1,10 @@
 ---
 title: "Climbing"
-excerpt: "<br/><img src='/images/tram.png'><br/><img src='/images/cliffs.png'><br/><img src='/images/duoclimb.png'><br/><img src='/images/ptdume.png'>"
+excerpt: ""
 collection: gallery
 ---
 
+![tramway](/images/tram.png)
+![cube](/images/cliffs.png)
+![duoclimb](/images/duoclimb.png)
+![ptdume](/images/ptdume.png)
