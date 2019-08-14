@@ -14,7 +14,7 @@ I was the chief organizer of [Women in Math at UCLA](https://www.math.ucla.edu/g
 
 I lived in Taiwan for the most of my life before moving to California to start my graduate studies. I received my B.S. in Mathematics at [National Taiwan University](http://www.math.ntu.edu.tw/en). My academic experience in Taiwan has been very fruitful and prepared me well for the challenges in my graduate program. 
 
-I was introduced to rock climbing in early 2017 and it had become my major hobby.
+I was introduced to rock climbing in early 2017 and it had become my major hobby. See [Gallery](/gallery/).
 
 
 Publications
