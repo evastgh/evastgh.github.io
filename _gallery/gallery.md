@@ -4,13 +4,22 @@ excerpt: "Some cool climbing photos"
 collection: gallery
 ---
 
-![tramway](/images/tram.png)
+![tramway](/images/tram.jpg)
+
 > Tramway, Palm Springs, CA
-![cube](/images/cliffs.png)
+
+![cube](/images/cliffs.JPG)
+
 > Cliffs of Id, Culver City, CA
-![duoclimb](/images/duoclimb.png)
+
+![duoclimb](/images/duoclimb.PNG)
+
 > Cliffs of Id, Culver City, CA
-![ptdume](/images/ptdume.png)
+
+![ptdume](/images/ptdume.JPG)
+
 > Point Dume, Malibu, CA
-![wengen](/images/wengen.png)
+
+![wengen](/images/wengen.JPG)
+
 > Wengen, Switzerland
