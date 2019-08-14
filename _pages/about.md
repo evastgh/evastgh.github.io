@@ -24,7 +24,7 @@ Publications
 > ### Simulation and Visualization of Ductile Fracture with the Material Point Method
 > **S. Wang**, M. Ding, T. Gast, L. Zhu, S. Gagniere, C. Jiang, J. Teran  
 > ACM SIGGRAPH/Eurographics Symposium on Computer Animation **(Best Paper Awardee)** (PACM-CGIT), 2019  
-> Paper [(pdf)](files/fracture_paper.pdf) Video [(coming soon)]()
+> Paper [(pdf)](files/fracture_paper.pdf) Video [(Vimeo)](https://vimeo.com/353779419)
 
 ![hybrid](/images/hybrid_cover.png)
 > ### Hybrid Material Point Method for Frictional Contact with Diverse Materials
