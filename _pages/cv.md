@@ -15,7 +15,7 @@ Education
 * M.S. in Mathematics, UCLA, 2016
 * B.S. in Sciences, National Taiwan University, 2013
 
-Work experience
+Work Experience
 ======
 * Summer 2019: Exchange Scholar
   * Ecole Polytechnique Federale de Lausanne, _Lausanne, Switzerland_
@@ -38,12 +38,12 @@ Publications
 * S. Wang, M. Ding, T. Gast, L. Zhu, S. Gagniere, C. Jiang, J. Teran, Simulation and Visualization of Ductile Fracture with the Material Point Method ACM SIGGRAPH/Eurographics Symposium on Computer Animation, 2019 **(Best Paper Awardee)**
 * X. Han, T. Gast, Q. Guo, S. Wang, C. Jiang, J. Teran, A Hybrid Material Point Method for Frictional Contact with Diverse Materials ACM SIGGRAPH/Eurographics Symposium on Computer Animation, 2019
   
-Service and leadership
+Service and Leadership
 ======
 * _(current)_ President of Graduate Student Organization of Math Dept UCLA, since 2017
 * _(current)_ Department Representative in Math and Physical Sciences Council, since 2017
-* Chef Organizer for Women in Math UCLA, 2016-2018
-* Funder of Women in Math Mentorship Program UCLA, 2018
+* Chief Organizer for Women in Math UCLA, 2016-2018
+* Founder of Women in Math Mentorship Program UCLA, 2018
 * Volunteer at Explore Your Universe, 2018
 * Volunteer at AWiSES, 2016
 * Vice President of Lambda Club, NTU, 2012
