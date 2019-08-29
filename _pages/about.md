@@ -32,4 +32,16 @@ Publications
 > ACM SIGGRAPH/Eurographics Symposium on Computer Animation (PACM-CGIT), 2019  
 > Paper [(pdf)](files/hybrid_mpm_paper.pdf) Video [(YouTube)](https://www.youtube.com/watch?v=OQLYHusPAfw)
 
+> ### Role Detection in Bicycle-Sharing Networks Using Multilayer Stochastic Block Models  
+> J. Carlen, J. Pont, C. Mentus, S. Chang, **S. Wang**, M. Porter  
+> Paper [(arXiv)](https://arxiv.org/abs/1908.09440) 
+
+
+Invited Talks
+======
+
+Simulation and Visualization of Ductile Fracture with the Material Point Method  
+August 28th, 2019, **ETH Zurich**  
+Slides [(pdf)](files/slides_20190828_ETHZ.pdf)
+
 
