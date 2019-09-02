@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+[TL;DR (one-page resume)](/files/resume.pdf)  
+
 I'm a fifth year PhD student at University of California in [Computational Applied Mathematics (CAM)](https://www.math.ucla.edu/research/cam). I'm interested in physics-based simulations and their applications in computer graphics; my major focuses are particle based methods (Material Point Method and its improvements). I'm also interested in (partial) differential equations especially the ones involving optimization problems (e.g. optimal transport). My advisor is Prof. [Joseph Teran](https://www.math.ucla.edu/~jteran/). This summer, I am working at the [Snow and Avalanche Simulation Laboratory of Ecole Polytechnique Federale de Lausanne](https://www.epfl.ch/labs/slab/) with Prof. [Johan Gaume](https://people.epfl.ch/johan.gaume) on simulations of snow and tire interaction.
 
 I was the chief organizer of [Women in Math at UCLA](https://www.math.ucla.edu/grad/women-in-math) and created the [Women In Math Mentorship Program](https://www.math.ucla.edu/grad/women-in-math-mentorship-program). I am currently serving as the Graduate Student Organization President and a member in the [Math and Physical Sciences Council](https://www.math.ucla.edu/~mpsc/math/).
