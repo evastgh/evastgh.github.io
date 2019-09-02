@@ -23,3 +23,7 @@ collection: gallery
 ![wengen](/images/wengen.JPG)
 
 > Wengen, Switzerland
+
+![diablerets](/images/diablerets.jpeg)
+
+> Les Diablerets, Switzerland
