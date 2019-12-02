@@ -19,12 +19,17 @@ I was introduced to rock climbing in early 2017 and it had become my major hobby
 
 Publications
 ======
+![baking](/images/baking_cover.png)
+> ### A thermomechanical material point method for baking and cooking
+> M. Ding, X. Han, **S. Wang**, T. Gast, J. Teran  
+> ACM Transactions on Graphics (SIGGRAPH Asia 2019)  
+> Paper [(pdf)](files/baking_paper.pdf) Video [(YouTube)](https://www.youtube.com/watch?v=iBpolaB4DqA)
 
 ![fracture](/images/fracture_cover.png)
 > ### Simulation and Visualization of Ductile Fracture with the Material Point Method
 > **S. Wang**, M. Ding, T. Gast, L. Zhu, S. Gagniere, C. Jiang, J. Teran  
 > ACM SIGGRAPH/Eurographics Symposium on Computer Animation **(Best Paper Awardee)** (PACM-CGIT), 2019  
-> Paper [(pdf)](files/fracture_paper.pdf) Video [(Vimeo)](https://vimeo.com/353779419)
+> Paper [(pdf)](files/fracture_paper.pdf) Video [(YouTube)](https://www.youtube.com/watch?v=JsHeG0nk7JU)
 
 ![hybrid](/images/hybrid_cover.png)
 > ### Hybrid Material Point Method for Frictional Contact with Diverse Materials
