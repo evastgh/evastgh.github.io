@@ -10,10 +10,12 @@ redirect_from:
 
 [TL;DR (one-page resume)](/files/resume.pdf)  
 
-I am expecting to receive my PhD in [Computational Applied Mathematics at University of California -- Los Angeles](https://www.math.ucla.edu/research/cam) in Summer 2020. My interests are in physics-based simulations and their applications in computer graphics; my major focus is Material Point Method and its improvements. I am also interested in partial differential equations especially the ones involving optimization problems (e.g. optimal transport). My advisor is Prof. [Joseph Teran](https://www.math.ucla.edu/~jteran/). This summer, I am working at the [Snow and Avalanche Simulation Laboratory of Ecole Polytechnique Federale de Lausanne](https://www.epfl.ch/labs/slab/) with Prof. [Johan Gaume](https://people.epfl.ch/johan.gaume) on simulations of snow and tire interaction.
+I am expecting to receive my PhD in [Computational Applied Mathematics at University of California -- Los Angeles](https://www.math.ucla.edu/research/cam) in Summer 2020. My interests are in physics-based simulations and their applications in computer graphics; my major focus is Material Point Method and its improvements. I am also interested in partial differential equations, especially the ones involving optimization problems (e.g. optimal transport). My advisor is Prof. [Joseph Teran](https://www.math.ucla.edu/~jteran/). In Summer 2019, I worked at the [Snow and Avalanche Simulation Laboratory of Ecole Polytechnique Federale de Lausanne](https://www.epfl.ch/labs/slab/) with Prof. [Johan Gaume](https://people.epfl.ch/johan.gaume) on simulations of snow and tire interaction.
 
-I was the chief organizer of [Women in Math at UCLA](https://www.math.ucla.edu/grad/women-in-math) and created the [Women In Math Mentorship Program](https://www.math.ucla.edu/grad/women-in-math-mentorship-program). I am currently serving as the Graduate Student Organization President and a member in the [Math and Physical Sciences Council](https://www.math.ucla.edu/~mpsc/math/).
+**Community Service**  
+I was the chief organizer of [Women in Math at UCLA](https://www.math.ucla.edu/grad/women-in-math) and created the [Women In Math Mentorship Program](https://www.math.ucla.edu/grad/women-in-math-mentorship-program). I am currently serving as the president of the Math Grad Student Organization and representing in the [Math and Physical Sciences Council](https://www.math.ucla.edu/~mpsc/math/).
 
+**Personal**  
 I was introduced to rock climbing in early 2017 and it had become my major hobby. See [Gallery](/gallery/).
 
 
@@ -47,6 +49,7 @@ Invited Talks
 
 Simulation and Visualization of Ductile Fracture with the Material Point Method  
 August 28th, 2019, **ETH Zurich**  
+September 9th, 2019, **Inria Grenoble**  
 Slides [(pdf)](files/slides_20190828_ETHZ.pdf)
 
 
