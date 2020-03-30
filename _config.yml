@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Stephanie Wang"
 title_separator          : "-"
 name                     : &name "Stephanie Wang"
-description              : &description "PhD candidate at UCLA"
+description              : &description "Assistant Adjunct Professor, UCLA Mathematics"
 url                      : https://evastgh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "evastgh/evastgh.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : # "Stephanie Wang"
   avatar           : "profile.jpg"
-  bio              : "PhD candidate at UCLA, mathematician, interested in physics-based simulations"
+  bio              : "PhD in Mathematics, interested in physics-based simulations"
   location         : "Los Angeles, CA"
   employer         : # "University of California - Los Angeles"
   pubmed           : 
