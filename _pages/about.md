@@ -8,19 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-[TL;DR (one-page resume)](/files/resume.pdf)  
+[TL;DR (one-page resume)](/files/resume.pdf)   
+[TL;DR (CV)](/files/cv.pdf)  
 
-I am expecting to receive my PhD in [Computational Applied Mathematics at University of California -- Los Angeles](https://www.math.ucla.edu/research/cam) in Summer 2020. My interests are in physics-based simulations and their applications in computer graphics; my major focus is Material Point Method and its improvements. I am also interested in partial differential equations, especially the ones involving optimization problems (e.g. optimal transport). My advisor is Prof. [Joseph Teran](https://www.math.ucla.edu/~jteran/). In Summer 2019, I worked at the [Snow and Avalanche Simulation Laboratory of Ecole Polytechnique Federale de Lausanne](https://www.epfl.ch/labs/slab/) with Prof. [Johan Gaume](https://people.epfl.ch/johan.gaume) on simulations of snow and tire interaction.
+I received my PhD in [Computational Applied Mathematics at University of California -- Los Angeles](https://www.math.ucla.edu/research/cam) in March 2020. My interests are in physics-based simulations and their applications in computer graphics; my major focus is Material Point Method and its improvements. I am also interested in partial differential equations, especially the ones involving optimization problems (e.g. optimal transport). My PhD advisor was Prof. [Joseph Teran](https://www.math.ucla.edu/~jteran/). Right now, I am studyiing regularity theory for minimizers of polyconvex functionals with Prof. [Wilfrid Gangbo](https://www.math.ucla.edu/~wgangbo/) at UCLA.
 
 **Community Service**  
-I was the chief organizer of [Women in Math at UCLA](https://www.math.ucla.edu/grad/women-in-math) and created the [Women In Math Mentorship Program](https://www.math.ucla.edu/grad/women-in-math-mentorship-program). I am currently serving as the president of the Math Grad Student Organization and representing in the [Math and Physical Sciences Council](https://www.math.ucla.edu/~mpsc/math/).
+I was the chief organizer of [Women in Math at UCLA](https://www.math.ucla.edu/grad/women-in-math) during 2016-2018 and created the [Women In Math Mentorship Program](https://www.math.ucla.edu/grad/women-in-math-mentorship-program) in 2017. I served as the president of the Math Grad Student Organization during 2018-2020 and represented in the [Math and Physical Sciences Council](https://www.math.ucla.edu/~mpsc/math/) during 2017-2020.
 
 **Personal**  
-I was introduced to rock climbing in early 2017 and it had become my major hobby. See [Gallery](/gallery/).
+My stay-at-home hobbies during the COVID-19 lockdown include body-weight strength training, cooking, and Animal Crossing.
 
 
 Publications
 ======
+
+> ### A Material Point Method for Elastoplasticity with Ductile Fracture and Frictional Contact
+> **Stephanie Wang**
+> Doctoral Dissertation, University of California--Los Angeles, 2020.
+
 ![baking](/images/baking_cover.png)
 > ### A thermomechanical material point method for baking and cooking
 > M. Ding, X. Han, **S. Wang**, T. Gast, J. Teran  
