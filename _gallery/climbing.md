@@ -1,6 +1,6 @@
 ---
 title: "Climbing"
-excerpt: "Some cool climbing photos"
+excerpt: ""
 collection: gallery
 ---
 

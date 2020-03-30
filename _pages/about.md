@@ -11,7 +11,10 @@ redirect_from:
 [TL;DR (one-page resume)](/files/resume.pdf)   
 [TL;DR (CV)](/files/cv.pdf)  
 
-I received my PhD in [Computational Applied Mathematics at University of California -- Los Angeles](https://www.math.ucla.edu/research/cam) in March 2020. My interests are in physics-based simulations and their applications in computer graphics; my major focus is Material Point Method and its improvements. I am also interested in partial differential equations, especially the ones involving optimization problems (e.g. optimal transport). My PhD advisor was Prof. [Joseph Teran](https://www.math.ucla.edu/~jteran/). Right now, I am studyiing regularity theory for minimizers of polyconvex functionals with Prof. [Wilfrid Gangbo](https://www.math.ucla.edu/~wgangbo/) at UCLA.
+My research interests are in physics-based simulations, partial differential equations, and optimization problems. 
+I received my PhD in [Computational Applied Mathematics at University of California -- Los Angeles](https://www.math.ucla.edu/research/cam) in March 2020. 
+My Doctoral Dissertation was on Material Point Method and its improvements. I was advised by Prof. [Joseph Teran](https://www.math.ucla.edu/~jteran/). 
+Right now, I am studying regularity theory for minimizers of polyconvex functionals with Prof. [Wilfrid Gangbo](https://www.math.ucla.edu/~wgangbo/) at UCLA. 
 
 **Community Service**  
 I was the chief organizer of [Women in Math at UCLA](https://www.math.ucla.edu/grad/women-in-math) during 2016-2018 and created the [Women In Math Mentorship Program](https://www.math.ucla.edu/grad/women-in-math-mentorship-program) in 2017. I served as the president of the Math Grad Student Organization during 2018-2020 and represented in the [Math and Physical Sciences Council](https://www.math.ucla.edu/~mpsc/math/) during 2017-2020.
