@@ -41,7 +41,7 @@ Publications
 
 > ### Role Detection in Bicycle-Sharing Networks Using Multilayer Stochastic Block Models  
 > J. Carlen, J. Pont, C. Mentus, S. Chang, **S. Wang**, M. Porter  
-> Paper [(arXiv)](https://arxiv.org/abs/1908.09440) 
+> Preprint [(arXiv)](https://arxiv.org/abs/1908.09440) 
 
 ![fracture](/images/fracture_cover.png)
 > ### Simulation and Visualization of Ductile Fracture with the Material Point Method
