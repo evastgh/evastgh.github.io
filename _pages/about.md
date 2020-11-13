@@ -11,16 +11,17 @@ redirect_from:
 [TL;DR (one-page resume)](/files/resume.pdf)   
 [TL;DR (CV)](/files/cv.pdf)  
 
-My research interests are in physics-based simulations, partial differential equations, and optimization problems. 
+My research interests are in partial differential equations and optimization, with applications in computer graphics (physics simulation and geometric processing). 
+Right now, I am a Postdoc at [department of Computer Science and Engineering at University of San Diego](https://cse.ucsd.edu/) working with Prof. [Albert Chern](https://cseweb.ucsd.edu/~alchern/). 
 I received my PhD in [Computational Applied Mathematics at University of California -- Los Angeles](https://www.math.ucla.edu/research/cam) in March 2020. 
-My Doctoral Dissertation was on Material Point Method and its improvements. I was advised by Prof. [Joseph Teran](https://www.math.ucla.edu/~jteran/). 
-Right now, I am studying regularity theory for minimizers of polyconvex functionals with Prof. [Wilfrid Gangbo](https://www.math.ucla.edu/~wgangbo/) at UCLA. 
+My Doctoral Dissertation was on Material Point Method and its improvements, advised by Prof. [Joseph Teran](https://www.math.ucla.edu/~jteran/). 
 
 **Community Service**  
-I was the chief organizer of [Women in Math at UCLA](https://www.math.ucla.edu/grad/women-in-math) during 2016-2018 and created the [Women In Math Mentorship Program](https://www.math.ucla.edu/grad/women-in-math-mentorship-program) in 2017. I served as the president of the Math Grad Student Organization during 2018-2020 and represented in the [Math and Physical Sciences Council](https://www.math.ucla.edu/~mpsc/math/) during 2017-2020.
+I was the chief organizer of [Women in Math at UCLA](https://www.math.ucla.edu/grad/women-in-math) during 2016-2018 and created the [Women In Math Mentorship Program](https://www.math.ucla.edu/grad/women-in-math-mentorship-program) in 2017. I served as the president of the Math Grad Student Organization during 2018-2020 and represented in the [Math and Physical Sciences Council](https://www.math.ucla.edu/~mpsc/math/) during 2017-2020, contributing to general grad student advoacy and community work.
 
 **Personal**  
-My stay-at-home hobbies during the COVID-19 lockdown include body-weight strength training, cooking, and breading flowers on a previously deserted island (ACNH).
+My hobbies before COVID-19 were rock climbine and snowshoeing. Unfortunately, neiter are really available in SoCal due to the pandemic and wildfire. 
+My stay-at-home hobbies include cooking, body-weight training, and watching wholesome TV shows. 
 
 
 Publications
