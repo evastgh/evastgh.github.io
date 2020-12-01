@@ -20,7 +20,7 @@ My Doctoral Dissertation was on Material Point Method and its improvements, advi
 I was the chief organizer of [Women in Math at UCLA](https://www.math.ucla.edu/grad/women-in-math) during 2016-2018 and created the [Women In Math Mentorship Program](https://www.math.ucla.edu/grad/women-in-math-mentorship-program) in 2017. I served as the president of the Math Grad Student Organization during 2018-2020 and represented in the [Math and Physical Sciences Council](https://www.math.ucla.edu/~mpsc/math/) during 2017-2020, contributing to general grad student advoacy and community work.
 
 **Personal**  
-My hobbies before COVID-19 were rock climbine and snowshoeing. Unfortunately, neiter are really available in SoCal due to the pandemic and wildfire. 
+My hobbies before COVID-19 were rock climbing and snowshoeing. Unfortunately, neither are really available in SoCal due to the pandemic and wildfire. 
 My stay-at-home hobbies include cooking, body-weight training, and watching wholesome TV shows. 
 
 
