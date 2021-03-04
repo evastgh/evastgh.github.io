@@ -60,7 +60,7 @@ Invited Talks
 ======
 
 [_Talk Title Unavailable due to SIGGRAPH technical paper submission policy_]  
-Dec 15th, 2020, **CMU**
+Dec 15th, 2020, **CMU**  
 Slides [_unavailable_]
 
 Simulation and Visualization of Ductile Fracture with the Material Point Method  
