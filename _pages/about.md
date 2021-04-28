@@ -17,11 +17,12 @@ I received my PhD in [Computational Applied Mathematics at University of Califor
 My Doctoral Dissertation was on Material Point Method and its improvements, advised by Prof. [Joseph Teran](https://www.math.ucla.edu/~jteran/). 
 
 **Community Service**  
-I was the chief organizer of [Women in Math at UCLA](https://www.math.ucla.edu/grad/women-in-math) during 2016-2018 and created the [Women In Math Mentorship Program](https://www.math.ucla.edu/grad/women-in-math-mentorship-program) in 2017. I served as the president of the Math Grad Student Organization during 2018-2020 and represented in the [Math and Physical Sciences Council](https://www.math.ucla.edu/~mpsc/math/) during 2017-2020, contributing to general grad student advoacy and community work.
+During my time at UCLA, I took on the leader role of several student organizations including [Women in Math at UCLA](https://www.math.ucla.edu/grad/women-in-math), Math Grad Student Organization, and [Math and Physical Sciences Council](https://www.math.ucla.edu/~mpsc/math/).  
+I also created the [Women In Math Mentorship Program](https://www.math.ucla.edu/grad/women-in-math-mentorship-program) in 2017.  
 
 **Personal**  
-My hobbies before COVID-19 were rock climbing and snowshoeing. Unfortunately, neither are really available in SoCal due to the pandemic and wildfire. 
-My stay-at-home hobbies include cooking, body-weight training, and watching wholesome TV shows. 
+My hobbies before COVID-19 were rock climbing and snowshoeing. Unfortunately, neither are really available in SoCal due to the pandemic and the wildfire. 
+My stay-at-home leisure activities include cooking, body-weight training, and watching wholesome TV shows. 
 
 
 Publications
