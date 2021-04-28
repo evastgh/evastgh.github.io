@@ -27,6 +27,12 @@ My stay-at-home hobbies include cooking, body-weight training, and watching whol
 Publications
 ======
 
+![mincurr](/images/mincurr_cover.jpg)
+> ### Computing minimal surfaces with differential forms
+> **Stephanie Wang** and Albert Chern
+> ACM Transactions on Graphics (SIGGRAPH 2021)
+> Paper [(pdf)](files/mincurr_paper.pdf) Video [(Vimeo)](https://vimeo.com/542904902) [(Houdini code)](files/mincurr_demo_04282021.hipnc)
+
 > ### A Material Point Method for Elastoplasticity with Ductile Fracture and Frictional Contact
 > **Stephanie Wang**
 > Doctoral Dissertation, University of California--Los Angeles, 2020.
@@ -47,7 +53,7 @@ Publications
 > ### Simulation and Visualization of Ductile Fracture with the Material Point Method
 > **S. Wang**, M. Ding, T. Gast, L. Zhu, S. Gagniere, C. Jiang, J. Teran  
 > ACM SIGGRAPH/Eurographics Symposium on Computer Animation **(Best Paper Awardee)** (PACM-CGIT), 2019  
-> Paper [(pdf)](files/fracture_paper.pdf) Video [(YouTube)](https://www.youtube.com/watch?v=JsHeG0nk7JU) Tech Doc [(pdf)](files/fracture_tech_doc.pdf)
+> Paper [(pdf)](files/fracture_paper.pdf) Video [(YouTube)](https://www.youtube.com/watch?v=JsHeG0nk7JU)[(Vimeo)](https://vimeo.com/353779419) Tech Doc [(pdf)](files/fracture_tech_doc.pdf)
 
 ![hybrid](/images/hybrid_cover.png)
 > ### Hybrid Material Point Method for Frictional Contact with Diverse Materials
@@ -59,9 +65,11 @@ Publications
 Invited Talks
 ======
 
-[_Talk Title Unavailable due to SIGGRAPH technical paper submission policy_]  
-Dec 15th, 2020, **CMU**  
-Slides [_unavailable_]
+[Capturing Surfaces using Differential Forms]  
+Apr 23th, 2020, **UCSD Pixel Cafe**  
+Jan 12th, 2020, **UCSD CCoM**  
+Dec 15th, 2020, **CMU Graphics Lab**  
+Slides [_available soon_]
 
 Simulation and Visualization of Ductile Fracture with the Material Point Method  
 May 7th, 2020, **GAMES Webinar**  
