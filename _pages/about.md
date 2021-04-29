@@ -66,7 +66,7 @@ Publications
 Invited Talks
 ======
 
-[Capturing Surfaces using Differential Forms]  
+Capturing Surfaces using Differential Forms
 Apr 23th, 2020, **UCSD Pixel Cafe**  
 Jan 12th, 2020, **UCSD CCoM**  
 Dec 15th, 2020, **CMU Graphics Lab**  
