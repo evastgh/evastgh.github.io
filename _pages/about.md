@@ -70,7 +70,7 @@ Invited Talks
 Apr 23th, 2020, **UCSD Pixel Cafe**  
 Jan 12th, 2020, **UCSD CCoM**  
 Dec 15th, 2020, **CMU Graphics Lab**  
-Slides [_available soon_]
+Slides [(pdf)](files/slides_20210423_PixelCafe.pdf)
 
 Simulation and Visualization of Ductile Fracture with the Material Point Method  
 May 7th, 2020, **GAMES Webinar**  
