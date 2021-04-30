@@ -11,6 +11,8 @@ redirect_from:
 [TL;DR (one-page resume)](/files/resume.pdf)   
 [TL;DR (CV)](/files/cv.pdf)  
 
+![banner](/images/banner_lowres.gif)
+
 My research interests are in partial differential equations and optimization, with applications in computer graphics (physics simulation and geometric processing). 
 Right now, I am a Postdoc at [department of Computer Science and Engineering at University of San Diego](https://cse.ucsd.edu/) working with Prof. [Albert Chern](https://cseweb.ucsd.edu/~alchern/). 
 I received my PhD in [Computational Applied Mathematics at University of California -- Los Angeles](https://www.math.ucla.edu/research/cam) in March 2020. 
