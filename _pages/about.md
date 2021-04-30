@@ -33,7 +33,7 @@ Publications
 > ### Computing minimal surfaces with differential forms
 > **Stephanie Wang** and Albert Chern
 > ACM Transactions on Graphics (SIGGRAPH 2021)
-> Paper [(pdf)](files/mincurr_paper.pdf) Video [(Vimeo)](https://vimeo.com/542904902)[(YouTube)](https://youtu.be/8PfBtblK3N8) Source code [(Houdini file)](files/mincurr_demo_04282021.hipnc) Houdini Demo [(Vimeo)](https://vimeo.com/543382749)
+> Paper [(pdf)](files/mincurr_paper.pdf) Video [(Vimeo)](https://vimeo.com/542904902)[(YouTube)](https://www.youtube.com/watch?v=HP-DSHth2ck) Source code [(Houdini file)](files/mincurr_demo_04282021.hipnc) Houdini Demo [(Vimeo)](https://vimeo.com/543382749)
 
 > ### A Material Point Method for Elastoplasticity with Ductile Fracture and Frictional Contact
 > **Stephanie Wang**
