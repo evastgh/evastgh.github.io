@@ -22,8 +22,8 @@ During my time at UCLA, I took on the leader role of several student organizatio
 I also created the [Women In Math Mentorship Program](https://www.math.ucla.edu/grad/women-in-math-mentorship-program) in 2017.  
 
 **Personal**  
-My hobbies before COVID-19 were rock climbing and snowshoeing. Unfortunately, neither are really available in SoCal due to the pandemic and the wildfire. 
-My stay-at-home leisure activities include cooking, body-weight training, and watching wholesome TV shows. 
+My hobbies are rock climbing and hiking. Still waiting to get back to the climbing gyms... 
+WiGRAPH featured me in an interview and you can find more about me [here](https://www.wigraph.org/post-postdocs.html)!
 
 
 Publications
