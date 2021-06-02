@@ -8,6 +8,6 @@ date: 2021-03-01
 location: ""
 ---
 
-![dried_fruit_country_bread](/gallery/drie_fruit_country_bread.jpeg)
+![dried_fruit_country_bread](/gallery/dried_fruit_country_bread.jpeg)
 
 Obligatory post-pandemic bread-making show-off...
