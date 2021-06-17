@@ -29,6 +29,10 @@ WiGRAPH featured me in an interview and you can find more about me [here](https:
 Publications
 ======
 
+> ### Computational micromechanics of porous brittle solids
+> L. Blatny, H. Löwe, **S. Wang**, J. Gaume
+> Computers and Geotechnics, 2021
+
 ![mincurr](/images/mincurr_cover.jpg)
 > ### Computing minimal surfaces with differential forms
 > **Stephanie Wang** and Albert Chern  
