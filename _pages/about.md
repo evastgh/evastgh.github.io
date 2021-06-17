@@ -45,7 +45,6 @@ Publications
 > Doctoral Dissertation, University of California--Los Angeles, 2020.
 > [(pdf)](files/StephanieWang_dissertation_March2020.pdf)
 
-
 ![baking](/images/baking_cover.png)
 > ### A thermomechanical material point method for baking and cooking
 > M. Ding, X. Han, **S. Wang**, T. Gast, J. Teran  
