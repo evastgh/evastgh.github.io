@@ -51,10 +51,6 @@ Publications
 > ACM Transactions on Graphics (SIGGRAPH Asia 2019)  
 > Paper [(pdf)](files/baking_paper.pdf) Video [(YouTube)](https://www.youtube.com/watch?v=iBpolaB4DqA) Tech Doc [(pdf)](files/baking_tech_doc.pdf)
 
-> ### Role Detection in Bicycle-Sharing Networks Using Multilayer Stochastic Block Models  (preprint)
-> J. Carlen, J. Pont, C. Mentus, S. Chang, **S. Wang**, M. Porter  
-> Preprint [(arXiv)](https://arxiv.org/abs/1908.09440) 
-
 ![fracture](/images/fracture_cover.png)
 > ### Simulation and Visualization of Ductile Fracture with the Material Point Method
 > **S. Wang**, M. Ding, T. Gast, L. Zhu, S. Gagniere, C. Jiang, J. Teran  
