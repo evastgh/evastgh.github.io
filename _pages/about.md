@@ -22,7 +22,7 @@ During my time at UCLA, I took on the leader role of several student organizatio
 I also created the [Women In Math Mentorship Program](https://www.math.ucla.edu/grad/women-in-math-mentorship-program) in 2017.  
 
 **Personal**  
-My hobbies are rock climbing and hiking. Still waiting to get back to the climbing gyms... 
+I spent most of my free time climbing, hiking, and [cooking](https://evastgh.github.io/gallery/). 
 WiGRAPH featured me in an interview and you can find more about me [here](https://www.wigraph.org/post-postdocs.html)!
 
 
