@@ -32,6 +32,7 @@ Publications
 > ### Computational micromechanics of porous brittle solids
 > L. Blatny, H. Löwe, **S. Wang**, J. Gaume
 > Computers and Geotechnics, 2021
+> [Science Direct link](https://www.sciencedirect.com/science/article/pii/S0266352X21002822)
 
 ![mincurr](/images/mincurr_cover.jpg)
 > ### Computing minimal surfaces with differential forms
