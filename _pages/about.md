@@ -35,7 +35,7 @@ Publications
 > [Science Direct link](https://www.sciencedirect.com/science/article/pii/S0266352X21002822)
 
 ![mincurr](/images/mincurr_cover.jpg)
-> ### Computing minimal surfaces with differential forms ([(replicability verified)](http://www.replicabilitystamp.org/#https-github-com-evastgh-minimal-current)
+> ### Computing minimal surfaces with differential forms [(replicability verified)](http://www.replicabilitystamp.org/#https-github-com-evastgh-minimal-current)
 > **Stephanie Wang** and Albert Chern  
 > ACM Transactions on Graphics (SIGGRAPH 2021)  
 > Paper [(pdf)](files/mincurr_paper.pdf) Video [(Vimeo)](https://vimeo.com/542904902)[(YouTube)](https://www.youtube.com/watch?v=HP-DSHth2ck) 15-min talk [(Vimeo)](https://vimeo.com/558315135)  
