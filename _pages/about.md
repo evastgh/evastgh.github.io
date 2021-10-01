@@ -38,7 +38,7 @@ Publications
 > ### Computing minimal surfaces with differential forms ([(replicability verified)](http://www.replicabilitystamp.org/#https-github-com-evastgh-minimal-current)
 > **Stephanie Wang** and Albert Chern  
 > ACM Transactions on Graphics (SIGGRAPH 2021)  
-> Paper [(pdf)](files/mincurr_paper.pdf) Video [(Vimeo)](https://vimeo.com/542904902)[(YouTube)](https://www.youtube.com/watch?v=HP-DSHth2ck) 
+> Paper [(pdf)](files/mincurr_paper.pdf) Video [(Vimeo)](https://vimeo.com/542904902)[(YouTube)](https://www.youtube.com/watch?v=HP-DSHth2ck) 15-min talk [(Vimeo)](https://vimeo.com/558315135)  
 > Source code [(Houdini file)](files/mincurr_demo_04282021.hipnc) Houdini Demo [(Vimeo)](https://vimeo.com/543382749)
 
 > ### A Material Point Method for Elastoplasticity with Ductile Fracture and Frictional Contact
