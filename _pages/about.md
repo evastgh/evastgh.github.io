@@ -30,15 +30,15 @@ Publications
 ======
 
 > ### Computational micromechanics of porous brittle solids
-> L. Blatny, H. Löwe, **S. Wang**, J. Gaume
-> Computers and Geotechnics, 2021
+> L. Blatny, H. Löwe, **S. Wang**, J. Gaume  
+> Computers and Geotechnics, 2021  
 > [Science Direct link](https://www.sciencedirect.com/science/article/pii/S0266352X21002822)
 
 ![mincurr](/images/mincurr_cover.jpg)
-> ### Computing minimal surfaces with differential forms [(replicability verified)](http://www.replicabilitystamp.org/#https-github-com-evastgh-minimal-current)
+> ### Computing minimal surfaces with differential forms ([replicability verified](http://www.replicabilitystamp.org/#https-github-com-evastgh-minimal-current))
 > **Stephanie Wang** and Albert Chern  
 > ACM Transactions on Graphics (SIGGRAPH 2021)  
-> Paper [(pdf)](files/mincurr_paper.pdf) Video [(Vimeo)](https://vimeo.com/542904902)[(YouTube)](https://www.youtube.com/watch?v=HP-DSHth2ck) 15-min talk [(Vimeo)](https://vimeo.com/558315135)  
+> Paper [(pdf)](files/mincurr_paper.pdf) Video [(Vimeo)](https://vimeo.com/542904902) SIGGRAPH talk [(Vimeo)](https://vimeo.com/558315135)  
 > Source code [(Houdini file)](files/mincurr_demo_04282021.hipnc) Houdini Demo [(Vimeo)](https://vimeo.com/543382749)
 
 > ### A Material Point Method for Elastoplasticity with Ductile Fracture and Frictional Contact
@@ -70,15 +70,15 @@ Invited Talks
 
 Capturing Surfaces using Differential Forms  
 Oct 1st, 2021, **Toronto Geometry Colloquium** [(YouTube)](https://www.youtube.com/watch?v=EKnPi7R3P2M)  
-Sep 24th, 2021, **Geometry Workshop in Obergurgl**  (in-person in Obergurgl, Austria)
-Apr 23rd, 2021, **UCSD Pixel Cafe**  
-Jan 12th, 2021, **UCSD CCoM**  
-Dec 15th, 2020, **CMU Graphics Lab**  
+Sep 24th, 2021, **Geometry Workshop in Obergurgl**  (in-person in Obergurgl, Austria)  
+Apr 23rd, 2021, **UCSD Pixel Cafe** (virtual)  
+Jan 12th, 2021, **UCSD CCoM** (virtual)  
+Dec 15th, 2020, **CMU Graphics Lab** (virtual)   
 Slides [(pdf, updated Oct 1, 2021)](files/slides_20210423_PixelCafe.pdf)
 Slides [(pdf, updated Apr 23, 2021)](files/slides_20210423_PixelCafe.pdf)  
 
 Simulation and Visualization of Ductile Fracture with the Material Point Method  
-May 7th, 2020, **GAMES Webinar**  
+May 7th, 2020, **GAMES Webinar** (virtual)  
 August 28th, 2019, **ETH Zurich**  
 September 9th, 2019, **Inria Grenoble**  
 Slides [(pdf)](files/slides_20190828_ETHZ.pdf)
