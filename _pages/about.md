@@ -69,10 +69,14 @@ Invited Talks
 ======
 
 Capturing Surfaces using Differential Forms  
-Apr 23th, 2020, **UCSD Pixel Cafe**  
-Jan 12th, 2020, **UCSD CCoM**  
+
+Oct 1st, 2021, **Toronto Geometry Colloquium** [(YouTube)](https://www.youtube.com/watch?v=EKnPi7R3P2M)
+Sep 24th, 2021, **Geometry Workshop in Obergurgl**
+Apr 23rd, 2021, **UCSD Pixel Cafe**  
+Jan 12th, 2021, **UCSD CCoM**  
 Dec 15th, 2020, **CMU Graphics Lab**  
-Slides [(pdf)](files/slides_20210423_PixelCafe.pdf)
+Slides [(pdf, updated Oct 1, 2021)](files/slides_20210423_PixelCafe.pdf)
+Slides [(pdf, updated Apr 23, 2021)](files/slides_20210423_PixelCafe.pdf)  
 
 Simulation and Visualization of Ductile Fracture with the Material Point Method  
 May 7th, 2020, **GAMES Webinar**  
