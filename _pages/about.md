@@ -69,7 +69,7 @@ Invited Talks
 ======
 
 Capturing Surfaces using Differential Forms  
-Oct 1st, 2021, **Toronto Geometry Colloquium** [(YouTube)](https://www.youtube.com/watch?v=EKnPi7R3P2M)  
+Oct 1st, 2021, **Toronto Geometry Colloquium** [(full content available on YouTube)](https://www.youtube.com/watch?v=EKnPi7R3P2M)  
 Sep 24th, 2021, **Geometry Workshop in Obergurgl**  (in-person in Obergurgl, Austria)  
 Apr 23rd, 2021, **UCSD Pixel Cafe** (virtual)  
 Jan 12th, 2021, **UCSD CCoM** (virtual)  
