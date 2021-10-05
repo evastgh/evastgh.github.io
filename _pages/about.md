@@ -44,7 +44,7 @@ Publications
 > ### A Material Point Method for Elastoplasticity with Ductile Fracture and Frictional Contact
 > **Stephanie Wang**
 > Doctoral Dissertation, University of California--Los Angeles, 2020.
-> [(pdf)](files/StephanieWang_dissertation_March2020.pdf)
+> [(ProQuest link)](https://www.proquest.com/docview/2389768700?pq-origsite=gscholar&fromopenview=true)
 
 ![baking](/images/baking_cover.png)
 > ### A thermomechanical material point method for baking and cooking
