@@ -74,7 +74,7 @@ Sep 24th, 2021, **Geometry Workshop in Obergurgl**  (in-person in Obergurgl, Aus
 Apr 23rd, 2021, **UCSD Pixel Cafe** (virtual)  
 Jan 12th, 2021, **UCSD CCoM** (virtual)  
 Dec 15th, 2020, **CMU Graphics Lab** (virtual)   
-Slides [(pdf, updated Oct 1, 2021)](files/slides_20210423_PixelCafe.pdf)
+Slides [(pdf, updated Oct 1, 2021)](files/slides_20211001_Obergurgl.pdf)
 Slides [(pdf, updated Apr 23, 2021)](files/slides_20210423_PixelCafe.pdf)  
 
 Simulation and Visualization of Ductile Fracture with the Material Point Method  
