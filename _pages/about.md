@@ -69,6 +69,9 @@ Invited Talks
 ======
 
 Capturing Surfaces using Differential Forms  
+Nov 29th, 2021 **MIT CSAIL** (in-person in Cambridge, Massachusetts)  
+Nov 22nd, 2021 **Autodesk** (virtual)  
+Nov 16th, 2021 **Online Seminar Geometric Analysis** (virtual)  
 Oct 1st, 2021, **Toronto Geometry Colloquium** [(full content available on YouTube)](https://www.youtube.com/watch?v=EKnPi7R3P2M)  
 Sep 24th, 2021, **Geometry Workshop in Obergurgl**  (in-person in Obergurgl, Austria)  
 Apr 23rd, 2021, **UCSD Pixel Cafe** (virtual)  
