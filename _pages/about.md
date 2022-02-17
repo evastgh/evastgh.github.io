@@ -69,6 +69,7 @@ Invited Talks
 ======
 
 Capturing Surfaces using Differential Forms  
+Feb 16th, 2022 **NCSU** (virtual)
 Nov 29th, 2021 **MIT CSAIL** (in-person in Cambridge, Massachusetts)  
 Nov 22nd, 2021 **Autodesk** (virtual)  
 Nov 16th, 2021 **Online Seminar Geometric Analysis** (virtual)  
@@ -82,6 +83,7 @@ Slides [(pdf, updated Apr 23, 2021)](files/slides_20210423_PixelCafe.pdf)
 
 Simulation and Visualization of Ductile Fracture with the Material Point Method  
 May 7th, 2020, **GAMES Webinar** (virtual)  
+November 4th, 2019, **College of the Holy Cross** (virtual)  
 August 28th, 2019, **ETH Zurich**  
 September 9th, 2019, **Inria Grenoble**  
 Slides [(pdf)](files/slides_20190828_ETHZ.pdf)
