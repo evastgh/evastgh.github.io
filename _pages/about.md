@@ -69,7 +69,7 @@ Invited Talks
 ======
 
 Capturing Surfaces using Differential Forms  
-Feb 16th, 2022 **NCSU** (virtual)
+Feb 16th, 2022 **NCSU** (virtual)  
 Nov 29th, 2021 **MIT CSAIL** (in-person in Cambridge, Massachusetts)  
 Nov 22nd, 2021 **Autodesk** (virtual)  
 Nov 16th, 2021 **Online Seminar Geometric Analysis** (virtual)  
