@@ -13,7 +13,7 @@ redirect_from:
 
 
 My research interests are in partial differential equations and optimization, with applications in computer graphics (physics simulation and geometric processing). 
-Right now, I am a Postdoc at [department of Computer Science and Engineering at University of San Diego](https://cse.ucsd.edu/) working with Prof. [Albert Chern](https://cseweb.ucsd.edu/~alchern/). 
+Right now, I am a Postdoc at [department of Computer Science and Engineering at University of California -- San Diego](https://cse.ucsd.edu/) working with Prof. [Albert Chern](https://cseweb.ucsd.edu/~alchern/). 
 I received my PhD in [Computational Applied Mathematics at University of California -- Los Angeles](https://www.math.ucla.edu/research/cam) in March 2020. 
 My Doctoral Dissertation was on Material Point Method and its improvements, advised by Prof. [Joseph Teran](https://www.math.ucla.edu/~jteran/). 
 
