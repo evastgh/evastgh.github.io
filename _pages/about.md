@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-[TL;DR (one-page resume)](/files/resume.pdf)   
-[TL;DR (CV)](/files/cv.pdf)  
+[TL;DR (one-page resume)](/files/Resume_Stephanie_Wang.pdf)   
+[TL;DR (CV)](/files/CV_Stephanie_Wang.pdf)  
 
 
 My research interests are in partial differential equations and optimization, with applications in computer graphics (physics simulation and geometric processing). 
