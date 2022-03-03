@@ -28,10 +28,10 @@ I spent most of my free time climbing, hiking, and cooking (see [gallery](https:
 Publications
 ======
 
-![deepcurr](/images/hands_latent.jpg)
+![deepcurr](/images/hands_latent.gif)
 > ### DeepCurrents: Learning Implicit Representations of Shapes with Boundaries
-> D. Palmer, D. Smirnov, **S. Wang**, A. Chern, J. Solomon
-> Computer Vision and Pattern Recognition (CVPR) 2022 (accepted)
+> D. Palmer, D. Smirnov, **S. Wang**, A. Chern, J. Solomon  
+> Computer Vision and Pattern Recognition (CVPR) 2022 (accepted)  
 > [arXiv](https://arxiv.org/abs/2111.09383)
 
 > ### Computational micromechanics of porous brittle solids
