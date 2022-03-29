@@ -34,6 +34,7 @@ Publications
 > Computer Vision and Pattern Recognition (CVPR) 2022 (accepted)  
 > [arXiv](https://arxiv.org/abs/2111.09383)
 
+![brittle](/images/brittle_cover.jpg)
 > ### Computational micromechanics of porous brittle solids
 > L. Blatny, H. Löwe, **S. Wang**, J. Gaume  
 > Computers and Geotechnics, 2021  
