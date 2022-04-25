@@ -34,6 +34,7 @@ Publications
 > Computer Vision and Pattern Recognition (CVPR) 2022 (accepted)  
 > [arXiv](https://arxiv.org/abs/2111.09383) CVPR talk [(YouTube)](https://www.youtube.com/watch?v=OhJC3rtzeoU)  
 
+![bike](/images/bike_cover.png)
 > ### Role detection in bicycle-sharing networks using multilayer stochastic block models
 > J. Carlen, J. de Dios, C. Mentus, S. Chang, **S. Wang**, M. Porter  
 > Network Science, 2022  
