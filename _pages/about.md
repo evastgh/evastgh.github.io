@@ -32,7 +32,13 @@ Publications
 > ### DeepCurrents: Learning Implicit Representations of Shapes with Boundaries
 > D. Palmer, D. Smirnov, **S. Wang**, A. Chern, J. Solomon  
 > Computer Vision and Pattern Recognition (CVPR) 2022 (accepted)  
-> [arXiv](https://arxiv.org/abs/2111.09383)
+> [arXiv](https://arxiv.org/abs/2111.09383) CVPR talk [(YouTube)](https://www.youtube.com/watch?v=OhJC3rtzeoU)  
+
+> ### Role detection in bicycle-sharing networks using multilayer stochastic block models
+> J. Carlen, J. de Dios, C. Mentus, S. Chang, **S. Wang**, M. Porter  
+> Network Science, 2022  
+> [Cambridge Core Link](https://www.cambridge.org/core/journals/network-science/article/role-detection-in-bicyclesharing-networks-using-multilayer-stochastic-block-models/5D73728650C5C3E2DB9455FCDF46F0E2)
+
 
 ![brittle](/images/brittle_cover.jpg)
 > ### Computational micromechanics of porous brittle solids
