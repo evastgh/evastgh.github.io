@@ -11,7 +11,7 @@ redirect_from:
 [TL;DR (one-page resume)](/files/Resume_Stephanie_Wang.pdf)   
 [TL;DR (CV)](/files/CV_Stephanie_Wang.pdf)  
 
-**I'm currently on medical leave (March 2022 - ongoing) and all academic activities are on hold. You can still reach me through my emails, but I will take longer to reply. **
+**I'm currently on medical leave (March 2022 - ongoing) and all academic activities are on hold. You can still reach me through emails. **
 
 My research interests are in partial differential equations and optimization, with applications in computer graphics (physics simulation and geometric processing). 
 Right now, I am a Postdoc at [department of Computer Science and Engineering at University of California -- San Diego](https://cse.ucsd.edu/) working with Prof. [Albert Chern](https://cseweb.ucsd.edu/~alchern/). 
