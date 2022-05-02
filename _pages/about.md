@@ -11,6 +11,7 @@ redirect_from:
 [TL;DR (one-page resume)](/files/Resume_Stephanie_Wang.pdf)   
 [TL;DR (CV)](/files/CV_Stephanie_Wang.pdf)  
 
+**I'm currently on medical leave (March 2022 - ongoing) and all academic activities are on hold. You can still reach me through my emails, but I will take longer to reply. **
 
 My research interests are in partial differential equations and optimization, with applications in computer graphics (physics simulation and geometric processing). 
 Right now, I am a Postdoc at [department of Computer Science and Engineering at University of California -- San Diego](https://cse.ucsd.edu/) working with Prof. [Albert Chern](https://cseweb.ucsd.edu/~alchern/). 
@@ -18,11 +19,11 @@ I received my PhD in [Computational Applied Mathematics at University of Califor
 My Doctoral Dissertation was on Material Point Method and its improvements, advised by Prof. [Joseph Teran](https://www.math.ucla.edu/~jteran/). 
 
 **Community Service**  
-During my time at UCLA, I took on the leader role of several student organizations including [Women in Math at UCLA](https://www.math.ucla.edu/grad/women-in-math), Math Grad Student Organization, and [Math and Physical Sciences Council](https://www.math.ucla.edu/~mpsc/math/).  I created the [Women In Math Mentorship Program](https://www.math.ucla.edu/grad/women-in-math-mentorship-program) in 2017 to strengthen the community and encourage connection between undergraduate and graduate women in math.  
+During my time at UCLA, I took on the leader role of several student organizations including [Women in Math at UCLA](https://www.math.ucla.edu/grad/women-in-math), Math Grad Student Organization, and [Math and Physical Sciences Council](https://www.math.ucla.edu/~mpsc/math/).  In 2017, I created the [Women In Math Mentorship Program](https://www.math.ucla.edu/grad/women-in-math-mentorship-program) to strengthen the community and encourage connection between undergraduate and graduate women in math.  
 
 **Personal**  
 I spent most of my free time climbing, hiking, and cooking (see [gallery](https://evastgh.github.io/gallery/)). 
-[WiGRAPH](https://www.wigraph.org/) featured me in an interview and you can find more about me [here](https://www.wigraph.org/post-postdocs.html).
+[WiGRAPH](https://www.wigraph.org/) featured me in an interview and you can find more about me [here](https://www.wigraph.org/post-postdocs.html). 
 
 
 Publications
