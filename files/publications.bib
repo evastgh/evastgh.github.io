@@ -1,0 +1,112 @@
+@article{Nabizadeh:2022,
+  title={Covector Fluids},
+  author={Nabizadeh, Mohammad Sina and Wang, Stephanie and Ramamoorthi, Ravi and Chern, Albert},
+  journal={ACM Transactions on Graphics (TOG)},
+  volume={41},
+  number={4},
+  pages={113:1--113:15},
+  year={2022},
+  publisher={ACM New York, NY, USA}
+}
+
+@article{Palmer:2021,
+  title={{DeepCurrents}: Learning Implicit Representations of Shapes with Boundaries},
+  author={Palmer, David and Smirnov, Dmitriy and Wang, Stephanie and Chern, Albert and Solomon, Justin},
+  journal={arXiv:2111.09383},
+  year={2021},
+}
+
+@article{Blatny:2021,
+  title={Computational micromechanics of porous brittle solids},
+  author={Blatny, Lars and L{\"o}we, Henning and Wang, Stephanie and Gaume, Johan},
+  journal={Computers and Geotechnics},
+  volume={140},
+  pages={104284},
+  year={2021},
+  publisher={Elsevier}
+}
+
+@article{Wang:2021,
+  author = {Wang, Stephanie and Chern, Albert},
+  title = {Computing Minimal Surfaces with Differential Forms},
+  year = {2021},
+  issue_date = {August 2021},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  volume = {40},
+  number = {4},
+  issn = {0730-0301},
+  url = {https://doi.org/10.1145/3450626.3459781},
+  doi = {10.1145/3450626.3459781},
+  abstract = {We describe a new algorithm that solves a classical geometric problem: Find a surface of minimal area bordered by an arbitrarily prescribed boundary curve. Existing numerical methods face challenges due to the non-convexity of the problem. Using a representation of curves and surfaces via differential forms on the ambient space, we reformulate this problem as a convex optimization. This change of variables overcomes many difficulties in previous numerical attempts and allows us to find the global minimum across all possible surface topologies. The new algorithm is based on differential forms on the ambient space and does not require handling meshes. We adopt the Alternating Direction Method of Multiplier (ADMM) to find global minimal surfaces. The resulting algorithm is simple and efficient: it boils down to an alternation between a Fast Fourier Transform (FFT) and a pointwise shrinkage operation. We also show other applications of our solver in geometry processing such as surface reconstruction.},
+  journal = {ACM Trans. Graph.},
+  month = {July},
+  articleno = {113},
+  numpages = {14},
+  keywords = {minimal surface, Beckmann problem}
+}
+
+@book{Wang:2020,
+  title={A Material Point Method for Elastoplasticity with Ductile Fracture and Frictional Contact},
+  author={Wang, Stephanie},
+  year={2020},
+  publisher={University of California, Los Angeles}
+}
+
+@article{Ding:2019,
+  author = {Ding, Mengyuan and Han, Xuchen and Wang, Stephanie and Gast, Theodore F. and Teran, Joseph M.},
+  title = {A Thermomechanical Material Point Method for Baking and Cooking},
+  year = {2019},
+  issue_date = {December 2019},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  volume = {38},
+  number = {6},
+  issn = {0730-0301},
+  url = {https://doi.org/10.1145/3355089.3356537},
+  doi = {10.1145/3355089.3356537},
+  abstract = {We present a Material Point Method for visual simulation of baking breads, cookies, pancakes and similar materials that consist of dough or batter (mixtures of water, flour, eggs, fat, sugar and leavening agents). We develop a novel thermomechanical model using mixture theory to resolve interactions between individual water, gas and dough species. Heat transfer with thermal expansion is used to model thermal variations in material properties. Water-based mass transfer is resolved through the porous mixture, gas represents carbon dioxide produced by leavening agents in the baking process and dough is modeled as a viscoelastoplastic solid to represent its varied and complex rheological properties. Water content in the mixture reduces during the baking process according to Fick's Law which contributes to drying and cracking of crust at the material boundary. Carbon dioxide gas produced by leavening agents during baking creates internal pressure that causes rising. The viscoelastoplastic model for the dough is temperature dependent and is used to model melting and solidification. We discretize the governing equations using a novel Material Point Method designed to track the solid phase of the mixture.},
+  journal = {ACM Trans. Graph.},
+  month = {November},
+  articleno = {192},
+  numpages = {14},
+  keywords = {baking, material point method, physical simulation}
+}
+
+@article{Han:2019,
+  author = {Han, Xuchen and Gast, Theodore F. and Guo, Qi and Wang, Stephanie and Jiang, Chenfanfu and Teran, Joseph},
+  title = {A Hybrid Material Point Method for Frictional Contact with Diverse Materials},
+  year = {2019},
+  issue_date = {July 2019},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  volume = {2},
+  number = {2},
+  url = {https://doi.org/10.1145/3340258},
+  doi = {10.1145/3340258},
+  abstract = {We present a new hybrid Lagrangian Material Point Method for simulating elastic objects like hair, rubber, and soft tissues that utilizes a Lagrangian mesh for internal force computation and an Eulerian mesh for self collision as well as coupling with external materials. While recent Material Point Method (MPM) techniques allow for natural simulation of hyperelastic materials represented with Lagrangian meshes, they utilize an updated Lagrangian discretization where the Eulerian grid degrees of freedom are used to take variations of the potential energy. This often coarsens the degrees of freedom of the Lagrangian mesh and can lead to artifacts. We develop a hybrid approach that retains Lagrangian degrees of freedom while still allowing for natural coupling with other materials simulated with traditional MPM, e.g. sand, snow, etc. Furthermore, while recent MPM advances allow for resolution of frictional contact with codimensional simulation of hyperelasticity, they do not generalize to the case of volumetric materials. We show that our hybrid approach resolves these issues. We demonstrate the efficacy of our technique with examples that involve elastic soft tissues coupled with kinematic skeletons, extreme deformation, and coupling with multiple elastoplastic materials. Our approach also naturally allows for two-way rigid body coupling.},
+  journal = {Proc. ACM Comput. Graph. Interact. Tech.},
+  month = {July},
+  articleno = {17},
+  numpages = {24},
+  keywords = {Elasticity, MPM, Collision, Hair, Hybrid}
+}
+
+@article{Wang:2019,
+  author = {Wang, Stephanie and Ding, Mengyuan and Gast, Theodore F. and Zhu, Leyi and Gagniere, Steven and Jiang, Chenfanfu and Teran, Joseph M.},
+  title = {Simulation and Visualization of Ductile Fracture with the Material Point Method},
+  year = {2019},
+  issue_date = {July 2019},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  volume = {2},
+  number = {2},
+  url = {https://doi.org/10.1145/3340259},
+  doi = {10.1145/3340259},
+  abstract = {We present novel techniques for simulating and visualizing ductile fracture with the Material Point Method (MPM). We utilize traditional particle-based MPM [Stomakhin et al. 2013; Sulsky et al. 1994] as well as the Lagrangian energy formulation of [Jiang et al. 2015] that utilizes a tetrahedron mesh, rather than particle-based estimation of the deformation gradient and potential energy. We model failure and fracture via elastoplasticity with damage. Material is elastic until its deformation exceeds a Rankine or von Mises yield condition, at which point we use a softening model that shrinks the yield surface until a damage threshold is reached. Once damaged, the material Lam\'{e} coefficients are modified to represent failed material. We design visualization techniques for rendering the boundary of the material and its intersections with evolving crack surfaces. Our approach uses a simple and efficient element splitting strategy for tetrahedron meshes to represent crack surfaces that utilizes an extrapolation technique based on the MPM simulation. For traditional particle-based MPM we use an initial Delaunay tetrahedralization to connect randomly initialized MPM particles. Our visualization technique is a post-process and can be run after the MPM simulation for efficiency. We demonstrate our method with a number of challenging simulations of ductile failure with considerable and persistent self-contact.},
+  journal = {Proc. ACM Comput. Graph. Interact. Tech.},
+  month = {July},
+  articleno = {18},
+  numpages = {20},
+  keywords = {Fracture, Ductile, MPM, Elasticity, Plasticity}
+}
