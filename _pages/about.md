@@ -29,6 +29,12 @@ I spent most of my free time climbing, hiking, and cooking (see [gallery](https:
 Publications
 ======
 
+![covectorfluids](/images/covectorfluids_cover.jpeg)
+> ### Covector Fluids
+> M. Nabizadeh, **S. Wang**, R. Ramamoorthi, A. Chern  
+> ACM Transactions on Graphics (SIGGRAPH 2022) (accepted)  
+> Paper [(pdf)](https://cseweb.ucsd.edu/~viscomp/projects/SIG22CovectorFluids/paper/CovectorFluids.pdf) Video [(YouTube)](https://www.youtube.com/watch?v=jM1FNiVYofI&feature=emb_title)  
+
 ![deepcurr](/images/hands_latent.gif)
 > ### DeepCurrents: Learning Implicit Representations of Shapes with Boundaries
 > D. Palmer, D. Smirnov, **S. Wang**, A. Chern, J. Solomon  
@@ -40,7 +46,6 @@ Publications
 > J. Carlen, J. de Dios, C. Mentus, S. Chang, **S. Wang**, M. Porter  
 > Network Science, 2022  
 > [Cambridge Core Link](https://www.cambridge.org/core/journals/network-science/article/role-detection-in-bicyclesharing-networks-using-multilayer-stochastic-block-models/5D73728650C5C3E2DB9455FCDF46F0E2)
-
 
 ![brittle](/images/brittle_cover.jpg)
 > ### Computational micromechanics of porous brittle solids
