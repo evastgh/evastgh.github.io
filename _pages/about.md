@@ -13,17 +13,16 @@ redirect_from:
 
 **I'm currently on medical leave (March 2022 - ongoing) and all academic activities are on hold. You can still reach me through emails. **
 
-My research interests are in partial differential equations and optimization, with applications in computer graphics (physics simulation and geometric processing). 
-Right now, I am a Postdoc at [department of Computer Science and Engineering at University of California -- San Diego](https://cse.ucsd.edu/) working with Prof. [Albert Chern](https://cseweb.ucsd.edu/~alchern/). 
+I am a researcher specializing in geometric processing and physics-based simulations. My research goal is to bring mathematics advances from differential equations, optimization theory, and geometry into computer graphics and to develop new algorithms for architecture, fabrication, structural analysis, and animation. Right now, I am a Postdoc at [department of Computer Science and Engineering at University of California -- San Diego](https://cse.ucsd.edu/) working with Prof. [Albert Chern](https://cseweb.ucsd.edu/~alchern/). 
 I received my PhD in [Computational Applied Mathematics at University of California -- Los Angeles](https://www.math.ucla.edu/research/cam) in March 2020. 
 My Doctoral Dissertation was on Material Point Method and its improvements, advised by Prof. [Joseph Teran](https://www.math.ucla.edu/~jteran/). 
 
 **Community Service**  
-During my time at UCLA, I took on the leader role of several student organizations including [Women in Math at UCLA](https://www.math.ucla.edu/grad/women-in-math), Math Grad Student Organization, and [Math and Physical Sciences Council](https://www.math.ucla.edu/~mpsc/math/).  In 2017, I created the [Women In Math Mentorship Program](https://www.math.ucla.edu/grad/women-in-math-mentorship-program) to strengthen the community and encourage connection between undergraduate and graduate women in math.  
+I volunteer and organize for causes of the community. I served at [Women in Math at UCLA](https://www.math.ucla.edu/grad/women-in-math), UCLA Math Grad Student Organization, [UCLA Math and Physical Sciences Council](https://www.math.ucla.edu/~mpsc/math/), and [UCLA Grad Student Association](https://gsa.asucla.ucla.edu/) for years. In 2017 I created the [UCLA Women In Math Mentorship Program](https://www.math.ucla.edu/grad/women-in-math-mentorship-program) to strengthen the community and encourage connection between undergraduate and graduate women in math.  
 
 **Personal**  
 I spent most of my free time climbing, hiking, and cooking (see [gallery](https://evastgh.github.io/gallery/)). 
-[WiGRAPH](https://www.wigraph.org/) featured me in an interview and you can find more about me [here](https://www.wigraph.org/post-postdocs.html). 
+[WiGRAPH](https://www.wigraph.org/) featured me in an [interview](https://www.wigraph.org/post-postdocs.html) and you can find more about me there.
 
 
 Publications
