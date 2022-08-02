@@ -31,14 +31,14 @@ Publications
 ![covectorfluids](/images/covectorfluids_cover.jpeg)
 > ### Covector Fluids
 > M. Nabizadeh, **S. Wang**, R. Ramamoorthi, A. Chern  
-> ACM Transactions on Graphics (SIGGRAPH 2022) (accepted)  
+> ACM Transactions on Graphics (SIGGRAPH 2022)
 > Paper [(pdf)](https://cseweb.ucsd.edu/~viscomp/projects/SIG22CovectorFluids/paper/CovectorFluids.pdf) Video [(YouTube)](https://www.youtube.com/watch?v=jM1FNiVYofI&feature=emb_title)  
 
 ![deepcurr](/images/hands_latent.gif)
 > ### DeepCurrents: Learning Implicit Representations of Shapes with Boundaries
 > D. Palmer, D. Smirnov, **S. Wang**, A. Chern, J. Solomon  
-> Computer Vision and Pattern Recognition (CVPR) 2022 (accepted)  
-> [arXiv](https://arxiv.org/abs/2111.09383) CVPR talk [(YouTube)](https://www.youtube.com/watch?v=OhJC3rtzeoU)  
+> Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)  
+> Paper [(pdf)](https://openaccess.thecvf.com/content/CVPR2022/papers/Palmer_DeepCurrents_Learning_Implicit_Representations_of_Shapes_With_Boundaries_CVPR_2022_paper.pdf) CVPR talk [(YouTube)](https://www.youtube.com/watch?v=OhJC3rtzeoU)  
 
 ![bike](/images/bike_cover.png)
 > ### Role detection in bicycle-sharing networks using multilayer stochastic block models
