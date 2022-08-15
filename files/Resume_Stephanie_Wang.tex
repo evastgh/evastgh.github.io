@@ -1,9 +1,11 @@
 \documentclass[11pt,a4paper,unicode]{moderncv}
 
-\moderncvtheme{classic}
+\moderncvtheme{fancy}
+\definecolor{color1}{rgb}{0.22,0.45,0.45}
 \usepackage[utf8]{inputenc}
 
-\usepackage[top=.55in,bottom=.55in,left=.7in, right=.7in]{geometry}          % smaller number -> text takes more space
+\usepackage[top=.7in,bottom=.6in,left=.6in, right=.8in]{geometry}          % smaller number -> text takes more space
+% \usepackage[scale=0.89]{geometry}
 \AtBeginDocument{\recomputelengths}
 
 % The following lines include both bibentry and hyperref packages while resolving the clash
@@ -19,94 +21,112 @@
 \usepackage{enumitem} %customization for enumerate
 
 \firstname{Stephanie}
-\familyname{Wang}
-% \address{University of California, San Diego}{Department of Computer Science and Engineering}
+\familyname{Wang \vspace*{-4mm}}
 \email{evast@g.ucla.edu}
-\homepage{https://stephaniewang.page/}
+\homepage{stephaniewang.page}
 
+\renewcommand{\emailsymbol}{}
+\renewcommand{\homepagesymbol}{}
+\setlength{\hintscolumnwidth}{25mm}
+% \setlength{\separatorcolumnwidth}{3mm}
+\setlength{\maincolumnwidth}{20mm}
 
 \nopagenumbers{}                    
 
 \begin{document}
-\maketitle\vspace*{-13mm}
+\maketitle
 
+\vspace*{-2mm}
 \section{Education}
 %\cventry{years}{degree/job title}{institution/employer}{localization}{grade}{description}
-\cventry{Mar 2020}{Ph.D. in Mathematics}{UCLA}{3.88/4}{Dissertation advisor: Prof. Joseph Teran}
-{}
-% \cventry{Jun 2016}{M.S. in Mathematics}{UCLA}{}{} {} % {As a part of the PhD program.}
-\cventry{Jan 2013}{B.S. in Mathematics}{National Taiwan University}{}{3.64/4 \textit{magna cum laude}}
-{} % {Dean's Award of College of Science \textit{(magna cum laude)} \\ 3\textsuperscript{rd} place in Applied and Computational Mathematics in Yau's College Student Mathematics Contest}
+\cventry{2014-2020}{Ph.D. and M.S. in Mathematics}{UCLA}{}{Eugene V. Cota-Robles Fellow}{}
+\cventry{2009-2013}{B.S. in Mathematics}{National Taiwan University}{}{\textit{magna cum laude}}{}
 
-\vspace*{-3mm}
-\section{Positions}
 \vspace*{-2mm}
-\subsection{Research experience}
-\vspace*{-1mm}
-\cventry{2020-present}{Postdoc -- under Prof. \href{https://cseweb.ucsd.edu/~alchern/}{Albert Chern}}{UCSD}{}{San Diego, CA}{Geometry processing, physical simulation, inverse rendering, and geometry learning. Mentored students: 
-    \href{https://sinabiz.github.io/}{Mohammad Sina Nabizadeh},
-    \href{https://www.linkedin.com/in/shiyang-jia-a4aa6b174}{Shiyang Jia},
-    \href{https://chadmckell.com/}{Chad McKell}.
+\section{Positions}
+\subsection{Research}
+\cventry{2020-present}{Postdoc -- with Prof. \httplink[Albert Chern]{https://cseweb.ucsd.edu/~alchern/}}{UCSD}{}{San Diego, CA}{Geometry processing and physical simulation using mathematical insights from geometric measure theory, exterior calculus, partial differential equations, and optimization theory. Mentored PhD students: 
+    \httplink[Mohammad Sina Nabizadeh]{https://sinabiz.github.io/},
+    \httplink[Shiyang Jia]{https://www.linkedin.com/in/shiyang-jia-a4aa6b174},
+    \httplink[Chad McKell]{https://chadmckell.com/}.
 }
-\cventry{2019-2020}{Ph.D. Study -- under Prof. \href{about:blank}{Wilfrid Gangbo}}{UCLA}{}{Los Angeles, CA}{Regularity theory for minimizers of polyconvex functionals related to Navier-Stokes equation. }
-\cventry{2019 summer}{Summer Exchange -- under Prof. \href{https://people.epfl.ch/johan.gaume}{Johan Gaume}}{EPFL}{}{Lausanne, Switzerland}
-{Physics-based simulations, post-processing, and data analysis of snow and tire interaction and consulting at the Snow and Avalanche Simulation Laboratory. }
-\cventry{2016-2019}{Ph.D Study -- under Prof. \href{https://www.math.ucla.edu/~jteran/}{Joseph Teran}}{UCLA}{}{Los Angeles, CA}
-{Physics-based simulations for animation purposes using C++ programming, convex and nonconvex optimization, numerical PDEs, numerical linear algebra, parallel computing. }
-\cventry{2013-2014}{Research Assistant -- under Prof. \href{https://scholar.nycu.edu.tw/en/persons/wen-wei-lin}{Wen-Wei Lin}}{NCTU}{}{Hsinchu, Taiwan}{Generalized eigenvalue problems using MATLAB programming.}
+\cventry{2019-2020}{Ph.D. Study -- with Prof. \httplink[Wilfrid Gangbo]{https://www.math.ucla.edu/~wgangbo/}}{UCLA}{}{Los Angeles, CA}{Regularity theory for minimizers of polyconvex functionals related to Navier-Stokes equation. }
+\cventry{2019 summer}{Exchange Study -- with Prof. \httplink[Johan Gaume]{https://people.epfl.ch/johan.gaume}}{EPFL}{}{Lausanne, Switzerland}
+{Simulations, post-processing, and data analysis of snow and tire interaction; general consultation at the Snow and Avalanche Simulation Laboratory. }
+\cventry{2016-2019}{Ph.D Study -- with Prof. \httplink[Joseph Teran]{https://www.math.ucla.edu/~jteran/}}{UCLA}{}{Los Angeles, CA}
+{Physics-based simulations of various materials with Material Point Method and Finite Element Method, using continuum mechanics, convex and nonconvex optimization technique, numerical analysis, parallel computing, developing in C++ and Houdini. }
+% \cventry{2013-2014}{Research Assistant -- with Prof. \href{https://scholar.nycu.edu.tw/en/persons/wen-wei-lin}{Wen-Wei Lin}}{NCTU}{}{Hsinchu, Taiwan}{Generalized eigenvalue problems using MATLAB programming.}
 
-\vspace*{-1mm}
-\subsection{Industry Experience}
-\vspace*{-1mm}
-\cventry{2018 summer}{Technology Intern}{Walt Disney Animation Studio}{}{Burbank, CA}
-{R\&D for pioneering simulation technology in animated feature film, teaming with FX artists, numerical analysis, continuum mechanics, C++, HDK.}
+\subsection{Industry}
+\cventry{2018 summer}{Tech Intern}{Walt Disney Animation Studio}{}{Burbank, CA}
+{R\&D for pioneering simulation technology in animated feature films, teaming with VFX artists and developing in C++ and HDK. }
 
-\vspace*{-1mm}
-\subsection{Teaching Experience}
-\vspace*{-1mm}
+\subsection{Teaching}
 \cventry{2019-2020}{Assistant Adjunct Professor / Instructor}{UCLA Math Dept}{}{Los Angeles, CA}
 {Taught courses: linear algebra, machine learning (remote) and multivariable calculus (remote). }
-% \cventry{2019 spring}{Instructor}{UCLA Math Dept}{}{Los Angeles, CA}
-% {Taught course: linear algebra and applications. }
 \cventry{2015-2020}{Teaching Assistant}{UCLA Math Dept}{}{Los Angeles, CA}
-{Taught course: linear algebra and intro to mathematical proofs, undergrad and grad level numerical methods, intro, intermediate, and advanced C++ programming.}
+{Taught courses: linear algebra and intro to mathematical proofs, undergrad and grad level numerical methods, intro, intermediate, and advanced C++ programming.}
 % \cventry{2014 summer}{Course Organizer}{Formosan Summer School on Logic, Language, and Computation}{}{}{} % {Organized 2014 Formosan Summer School on Logic, Language, and Computation.}
 
 
 \vspace*{-2mm}
 \section{Skills}
-\cvline{Programming}{C++ (Eigen, tbb, gdb, valgrind), lua, MATLAB (CVX), zsh, \LaTeX, Houdini, Vim, git}
-\cvline{Mathematics}{Optimization, differential geometry, numerical and theoretical PDEs, scientific computing.}
-\cvline{Languages}{English and Mandarin Chinese - bilingual proficiency.}{}
-\cvline{Hobbies}{Rock climbing, hiking, and cooking}
+\cvline{Programming}{C++ (Eigen, tbb, gdb, valgrind), lua, MATLAB (CVX), \LaTeX, Vim, git, Houdini}
+\cvline{Math}{Optimization, differential geometry, numerical and theoretical PDEs, scientific computing}
+\cvline{Languages}{English and Mandarin Chinese - bilingual proficiency}{}
 
+% Note using moderncv + BibTeX because want to add hyperlinks manually
+% \nocite{*}
+% \bibliographystyle{plain}
+% \nobibliography{publications}
+% \renewcommand{\refname}{Selected Publications}
 
-\nocite{*}
-\bibliographystyle{plain}
-\nobibliography{publications}
-
-\vspace*{-2.5mm}
+\vspace*{-2mm}
 \section{Selected Publications}
-\begin{itemize}[leftmargin=1cm,itemsep=0.3ex]
-    \small
-    \item \bibentry{Nabizadeh:2022}
-        \href{https://dl.acm.org/doi/10.1145/3528223.3530120}{(ACM Digital Library)}
-    \item \bibentry{Palmer:2021}
-    \href{https://openaccess.thecvf.com/content/CVPR2022/papers/Palmer_DeepCurrents_Learning_Implicit_Representations_of_Shapes_With_Boundaries_CVPR_2022_paper.pdf}{(CVF Open Access)}
-    \item \bibentry{Wang:2021}
-        \href{https://dl.acm.org/doi/10.1145/3450626.3459781}{(ACM Digital Library)}
-    \item \bibentry{Ding:2019}
-    \href{https://dl.acm.org/doi/10.1145/3355089.3356537}{(ACM Digital Library)}
-    % \item \bibentry{Han:2019}
-    % \href{https://dl.acm.org/doi/10.1145/3340258}{(ACM Digital Library)} 
-    \item \bibentry{Wang:2019}
-    \href{https://dl.acm.org/doi/10.1145/3340259}{(ACM Digital Library)}
-\end{itemize}
-% \cvline{Aug 2021}{\textbf{Stephanie Wang} and Albert Chern, Computing Minimal Surfaces with Differential Forms, ACM Transactions on Graphics (SIGGRAPH 2021)}
-% \cvline{Mar 2020}{\textbf{Stephanie Wang}, A Material Point Method for Elastoplasticity with Ductile Fracture and Frictional Contact, Doctoral Dissertation, UCLA.}
-% \cvline{Nov 2019}{M. Ding, X. Han, \textbf{S. Wang}, T. Gast, J. Teran, A thermomechanical material point method for baking and cooking, ACM Transactions on Graphics (SIGGRAPH Asia 2019)}
-% \cvline{Jul 2019}{X. Han, T. Gast, Q. Guo, \textbf{S. Wang}, C. Jiang, J. Teran, A Hybrid Material Point Method for Frictional Contact with Diverse Materials, Proc ACM on Computer Graphics and Interactive Techniques (SCA 2019)}
-% \cvline{Jul 2019}{\textbf{S. Wang}, M. Ding, T. Gast, L. Zhu, S. Gagniere, C. Jiang, J. Teran, Simulation and Visualization of Ductile Fracture with the Material Point Method, Proc ACM on Computer Graphics and Interactive Techniques (SCA 2019 Best Paper)}
-% \cvline{Aug 2019}{J. Carlen, J. Pont, C. Mentus, S. Chang, \textbf{S. Wang}, M. Porter, Role Detection in Bicycle-Sharing Networks Using Multilayer Stochastic Block Models, arXiv:1908.09440}
-
+\cvline{}{
+    \href{https://dl.acm.org/doi/10.1145/3528223.3530120}{Covector fluids}. 
+    Mohammad Sina Nabizadeh, \underline{Stephanie Wang}, Ravi Ramamoorthi, and Albert Chern. SIGGRAPH 2022.
+}
+\cvline{}{
+    \href{https://openaccess.thecvf.com/content/CVPR2022/papers/Palmer_DeepCurrents_Learning_Implicit_Representations_of_Shapes_With_Boundaries_CVPR_2022_paper.pdf}{DeepCurrents: Learning implicit representations of shapes with boundaries}. 
+    David Palmer, Dmitriy Smirnov, \underline{Stephanie Wang}, Albert Chern, and Justin Solomon. CVPR 2022.
+}
+\cvline{}{
+    \href{https://dl.acm.org/doi/10.1145/3450626.3459781}{Computing minimal surfaces with differential forms}. 
+    \underline{Stephanie Wang} and Albert Chern. SIGGRAPH 2021.
+}
+\cvline{}{
+    \href{https://dl.acm.org/doi/10.1145/3355089.3356537}{A thermomechanical material point method for baking and cooking}. 
+    Mengyuan Ding, Xuchen Han, \underline{Stephanie Wang}, Theodore F. Gast, and Joseph M. Teran. SIGGRAPH Asia 2019.
+}
+\cvline{}{
+    \href{https://dl.acm.org/doi/10.1145/3340258}{A hybrid material point method for frictional contact with diverse materials}. 
+    Xuchen Han, Theodore F. Gast, Qi Guo, \underline{Stephanie Wang}, Chenfanfu Jiang, and Joseph Teran. SCA 2019.
+}
+\cvline{}{
+    \href{https://dl.acm.org/doi/10.1145/3340259}{Simulation and visualization of ductile fracture with the material point method}. 
+    \underline{Stephanie Wang}, Mengyuan Ding, Theodore F. Gast, Leyi Zhu, Steven Gagniere, Chenfanfu Jiang, and Joseph M. Teran. SCA 2019 (\textbf{Best Paper Award}).
+}
 \end{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{itemize}[leftmargin=1cm,itemsep=0.3ex]
+\item % \bibentry{Nabizadeh:2022} 
+    \href{https://dl.acm.org/doi/10.1145/3528223.3530120}{Covector fluids}. 
+    Mohammad Sina Nabizadeh, \underline{Stephanie Wang}, Ravi Ramamoorthi, and Albert Chern. SIGGRAPH 2022.
+\item % \bibentry{Palmer:2021} 
+    \href{https://openaccess.thecvf.com/content/CVPR2022/papers/Palmer_DeepCurrents_Learning_Implicit_Representations_of_Shapes_With_Boundaries_CVPR_2022_paper.pdf}{DeepCurrents: Learning implicit representations of shapes with boundaries}. 
+    David Palmer, Dmitriy Smirnov, \underline{Stephanie Wang}, Albert Chern, and Justin Solomon. CVPR 2022.
+\item % \bibentry{Wang:2021}
+    \href{https://dl.acm.org/doi/10.1145/3450626.3459781}{Computing minimal surfaces with differential forms}. 
+    \underline{Stephanie Wang} and Albert Chern. SIGGRAPH 2021.
+\item % \bibentry{Ding:2019}
+    \href{https://dl.acm.org/doi/10.1145/3355089.3356537}{A thermomechanical material point method for baking and cooking}. 
+    Mengyuan Ding, Xuchen Han, \underline{Stephanie Wang}, Theodore F. Gast, and Joseph M. Teran. SIGGRAPH Asia 2019.
+\item % \bibentry{Han:2019}
+    \href{https://dl.acm.org/doi/10.1145/3340258}{A hybrid material point method for frictional contact with diverse materials}. 
+    Xuchen Han, Theodore F. Gast, Qi Guo, \underline{Stephanie Wang}, Chenfanfu Jiang, and Joseph Teran. SCA 2019.
+\item % \bibentry{Wang:2019}
+    \href{https://dl.acm.org/doi/10.1145/3340259}{Simulation and visualization of ductile fracture with the material point method}. 
+    \underline{Stephanie Wang}, Mengyuan Ding, Theodore F. Gast, Leyi Zhu, Steven Gagniere, Chenfanfu Jiang, and Joseph M. Teran. SCA 2019 (\textbf{Best Paper Award}).
+\end{itemize}
