@@ -11,7 +11,7 @@ redirect_from:
 [TL;DR (one-page resume)](/files/Resume_Stephanie_Wang.pdf)   
 [TL;DR (CV)](/files/CV_Stephanie_Wang.pdf)  
 
-**I'm currently on medical leave (March 2022 - ongoing) and all academic activities are on hold. You can still reach me through emails. **
+**I was on medical leave March - July 2022. I have returned to work at 50% capacity. Thank you for your patience if I take longer to respond to your emails or requests.**
 
 I am a researcher specializing in geometric processing and physics-based simulations. My research goal is to bring mathematics advances from differential equations, optimization theory, and geometry into computer graphics and to develop new algorithms for architecture, fabrication, structural analysis, and animation. Right now, I am a Postdoc at [department of Computer Science and Engineering at University of California -- San Diego](https://cse.ucsd.edu/) working with Prof. [Albert Chern](https://cseweb.ucsd.edu/~alchern/). 
 I received my PhD in [Computational Applied Mathematics at University of California -- Los Angeles](https://www.math.ucla.edu/research/cam) in March 2020. 
