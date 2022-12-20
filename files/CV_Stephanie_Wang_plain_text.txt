@@ -1,0 +1,57 @@
+EDUCATION
+PhD and MS in Mathematics, UCLA, Los Angeles, 2014-2020
+BS in Mathematics, NTU, Taipei, 2009-2013
+
+RESEARCH EXPERIENCE
+Postdoc, UCSD, San Diego, 2020-present
+(Working with Prof. Albert Chern on geometry processing and physical simulation using mathematical insights from geometric measure theory, exterior calculus, PDE, and optimization theory.)
+PhD study, UCLA, Los Angeles, 2019-2020
+(Working with Prof. Wilfrid Gangbo on regularity of minimizers of polyconvex functionals related to Navier-Stokes equation.)
+Exchange study, EPFL, Lausanne, 2019 summer
+(Working with Prof. Johan Gaume on simulation, post-processing, and analysis of snow mechanics.)
+PhD study, UCLA, Los Angeles, 2016-2019
+(Working with Prof. Joseph Teran on physical simulations and fast numerical algorithms using continuum mechanics, convex and nonconvex optimization methods, numerical analysis, and C++ programing.)
+Technology Intern, Walt Disney Animation Studio, Burbank, 2018 summer
+(R&D for pioneering simulation technology in animated films.)
+
+TEACHING EXPERIENCE
+Assistant Adjunct Professor, UCLA, Los Angeles, 2020
+(Teaching upper and lower division undergratuate courses.)
+Graduate Student Instructor, UCLA, Los Angeles, 2019
+(Teaching one lower division undergratuate course.)
+Teaching Assistant, UCLA, Los Angeles, 2015-2020
+(Leading discussion sessions and grading homework/exams for 11 undergraduate and graduate level courses.)
+
+AWARDS
+Rising Stars in Computer Graphics Research, 2022
+Best Paper Award by ACM SIGGRAPH / Eurographics Symposium on Computer Animation, 2019
+Eugene V. Cota-Robles Fellowship, 2014
+Dean's Award by the College of Science at NTU, 2013
+Bronze Medal in Applied and Computational Mathematics by S.T. Yau College Student Mathematics Contest, 2012
+
+PUBLICATIONS
+ Mohammad Sina Nabizadeh, Stephanie Wang, Ravi Ramamoorthi, and Albert Chern. Covector fluids. ACM Trans.
+Graph., 41(4), July 2022
+2. DavidPalmer,DmitriySmirnov,StephanieWang,AlbertChern,andJustinSolomon.DeepCurrents:Learningimplicit representations of shapes with boundaries. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022
+3. Jane Carlen, Jaume de Dios Pont, Cassidy Mentus, Shyr-Shea Chang, Stephanie Wang, and Mason A Porter. Role detection in bicycle-sharing networks using multilayer stochastic block models. Network Science, 10(1):46–81, 2022
+4. Lars Blatny, Henning Löwe, Stephanie Wang, and Johan Gaume. Computational micromechanics of porous brittle solids. Computers and Geotechnics, 140:104284, 2021
+5. Stephanie Wang and Albert Chern. Computing minimal surfaces with differential forms. ACM Trans. Graph., 40(4), July 2021
+6. StephanieWang.AMaterialPointMethodforElastoplasticitywithDuctileFractureandFrictionalContact.University of California, Los Angeles, 2020
+7. MengyuanDing,XuchenHan,StephanieWang,TheodoreF.Gast,andJosephM.Teran.Athermomechanicalmaterial point method for baking and cooking. ACM Trans. Graph., 38(6), November 2019
+8. XuchenHan,TheodoreF.Gast,QiGuo,StephanieWang,ChenfanfuJiang,andJosephTeran.Ahybridmaterialpoint method for frictional contact with diverse materials. Proc. ACM Comput. Graph. Interact. Tech., 2(2), July 2019
+9. Stephanie Wang, Mengyuan Ding, Theodore F. Gast, Leyi Zhu, Steven Gagniere, Chenfanfu Jiang, and Joseph M. Teran. Simulation and visualization of ductile fracture with the material point method. Proc. ACM Comput. Graph. Interact. Tech., 2(2), July 2019
+
+INVITED TALKS
+2022: NCSU
+2021: MIT CSAIL, Autodesk, Online Seminar Geometric Analysis, Toronto Geometry Colloquium, Geometry Workshop in Obergurgl, UCSD Pixel Cafe, UCSD CCoM
+2020: CMU Graphics Lab, GAMES Webinar
+2019: College of the Holy Cross, ETH Zürich, Inria Grenoble
+
+SERVICES
+External Reviewer of SIGGRAPH, SIGGRAPH Asia, and Eurographics, 2021-present
+Research Project Mentor at MIT Summer Geometry Institute, 2021
+President of Graduate Student Organization at UCLA, 2017-2020
+Chief Organizer of Women in Math at UCLA, 2016-2018
+Creator of Women in Math Mentorship Program at UCLA, 2017
+
+
