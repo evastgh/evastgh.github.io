@@ -4,7 +4,6 @@ title: "Exterior Calculus in Graphics"
 author_profile: false
 redirect_from: 
   - /ECIG/
-  - /ECIG.html
 ---
 
 SIGGRAPH 2023 long course
