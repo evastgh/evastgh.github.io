@@ -190,7 +190,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  ECIG:
+  ExteriorCalculusInGraphics:
     output: true
     permalink: /:collection/:path/
 
