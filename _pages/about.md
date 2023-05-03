@@ -30,31 +30,31 @@ Publications
 
 ![fluidcohomology](/images/fluidcohomology_cover.jpeg)
 > ### Fluid Cohomology
-> H. Yin, M. Nabizadeh, Baichuan Wu, **S. Wang**, A. Chern  
-> ACM Transactions on Graphics (SIGGRAPH 2023) (accepted)
+> Hang Yin, Mohammad Sina Nabizadeh, Baichuan Wu, **Stephanie Wang**, Albert Chern  
+> ACM Transactions on Graphics (SIGGRAPH 2023) (accepted)  
 > Paper and Video coming soon!
 
 ![covectorfluids](/images/covectorfluids_cover.jpeg)
 > ### Covector Fluids
-> M. Nabizadeh, **S. Wang**, R. Ramamoorthi, A. Chern  
-> ACM Transactions on Graphics (SIGGRAPH 2022)
+> Mohammad Sina Nabizadeh, **Stephanie Wang**, Ravi Ramamoorthi, Albert Chern  
+> ACM Transactions on Graphics (SIGGRAPH 2022)  
 > Paper [(pdf)](https://cseweb.ucsd.edu/~viscomp/projects/SIG22CovectorFluids/paper/CovectorFluids.pdf) Video [(YouTube)](https://www.youtube.com/watch?v=jM1FNiVYofI&feature=emb_title)  
 
 ![deepcurr](/images/hands_latent.gif)
 > ### DeepCurrents: Learning Implicit Representations of Shapes with Boundaries
-> D. Palmer, D. Smirnov, **S. Wang**, A. Chern, J. Solomon  
+> David Palmer, Dmitriy Smirnov, **Stephanie Wang**, Albert Chern, Justin Solomon  
 > Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)  
 > Paper [(pdf)](https://openaccess.thecvf.com/content/CVPR2022/papers/Palmer_DeepCurrents_Learning_Implicit_Representations_of_Shapes_With_Boundaries_CVPR_2022_paper.pdf) CVPR talk [(YouTube)](https://www.youtube.com/watch?v=OhJC3rtzeoU)  
 
 ![bike](/images/bike_cover.png)
 > ### Role detection in bicycle-sharing networks using multilayer stochastic block models
-> J. Carlen, J. de Dios, C. Mentus, S. Chang, **S. Wang**, M. Porter  
+> Jane Carlen, Jaume de Dios Pont, Cassidy Mentus, Shyr-Shea Chang, **Stephanie Wang**, Mason A. Porter  
 > Network Science, 2022  
 > [Cambridge Core Link](https://www.cambridge.org/core/journals/network-science/article/role-detection-in-bicyclesharing-networks-using-multilayer-stochastic-block-models/5D73728650C5C3E2DB9455FCDF46F0E2)
 
 ![brittle](/images/brittle_cover.jpg)
 > ### Computational micromechanics of porous brittle solids
-> L. Blatny, H. Löwe, **S. Wang**, J. Gaume  
+> Lars Blatny, Henning Löwe, **Stephanie Wang**, Johan Gaume  
 > Computers and Geotechnics, 2021  
 > [Science Direct link](https://www.sciencedirect.com/science/article/pii/S0266352X21002822)
 
@@ -72,19 +72,19 @@ Publications
 
 ![baking](/images/baking_cover.png)
 > ### A thermomechanical material point method for baking and cooking
-> M. Ding, X. Han, **S. Wang**, T. Gast, J. Teran  
+> Mengyuan Ding, Xuchen Han, **Stephanie Wang**, Theodore F. Gast, Joseph M. Teran  
 > ACM Transactions on Graphics (SIGGRAPH Asia 2019)  
 > Paper [(pdf)](files/baking_paper.pdf) Video [(YouTube)](https://www.youtube.com/watch?v=iBpolaB4DqA) Tech Doc [(pdf)](files/baking_tech_doc.pdf)
 
 ![fracture](/images/fracture_cover.png)
 > ### Simulation and Visualization of Ductile Fracture with the Material Point Method
-> **S. Wang**, M. Ding, T. Gast, L. Zhu, S. Gagniere, C. Jiang, J. Teran  
+> **Stephanie Wang**, Mengyuan Ding, Theodore F. Gast, Leyi Zhu, Steven Gagniere, Chenfanfu Jiang, Joseph M. Teran  
 > ACM SIGGRAPH/Eurographics Symposium on Computer Animation **(Best Paper Awardee)** (PACM-CGIT), 2019  
 > Paper [(pdf)](files/fracture_paper.pdf) Video [(YouTube)](https://www.youtube.com/watch?v=JsHeG0nk7JU)[(Vimeo)](https://vimeo.com/353779419) Tech Doc [(pdf)](files/fracture_tech_doc.pdf)
 
 ![hybrid](/images/hybrid_cover.png)
 > ### Hybrid Material Point Method for Frictional Contact with Diverse Materials
-> X. Han, T. Gast, Q. Guo, **S. Wang**, C. Jiang, J. Teran  
+> Xuchen Han, Theodore F. Gast, Qi Guo, **Stephanie Wang**, Chenfanfu Jiang, Joseph Teran  
 > ACM SIGGRAPH/Eurographics Symposium on Computer Animation (PACM-CGIT), 2019  
 > Paper [(pdf)](files/hybrid_mpm_paper.pdf) Video [(YouTube)](https://www.youtube.com/watch?v=OQLYHusPAfw) Tech Doc [(pdf)](files/hybrid_tech_doc.pdf)
 
