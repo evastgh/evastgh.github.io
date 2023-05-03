@@ -3,7 +3,6 @@ permalink: /ECIG/
 title: "Exterior Calculus in Graphics"
 author_profile: false
 redirect_from: 
-  - /ECIG/
 ---
 
 SIGGRAPH 2023 long course
