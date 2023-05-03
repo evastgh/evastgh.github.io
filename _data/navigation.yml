@@ -12,9 +12,6 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
  
-  - title: "Gallery"
-    url: /gallery/
-        
   # - title: "Blog Posts"
   #   url: /year-archive/
     
@@ -26,3 +23,7 @@ main:
 
   - title: "Exterior Calculus in Graphics"
     url: /ExteriorCalculusInGraphics/
+
+  - title: "Gallery"
+    url: /gallery/
+        
