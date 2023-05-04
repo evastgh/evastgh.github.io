@@ -11,7 +11,7 @@ redirect_from:
 [TL;DR (one-page resume)](/files/Resume_Stephanie_Wang.pdf)   
 [TL;DR (CV)](/files/CV_Stephanie_Wang.pdf)  
 
-**I am only available at 50% time due to a health issus and might take longer to respond to your emails or requests. :)**
+**I am only available at 50% capacity due to a health issue and might take longer to respond to your email requests. Sorry!**
 
 I am a researcher specializing in geometric processing and physics-based simulations. My research goal is to bring mathematics advances from differential equations, optimization theory, and geometry into computer graphics and to develop new algorithms for architecture, fabrication, structural analysis, and animation. Right now, I am a Postdoc at [department of Computer Science and Engineering at University of California -- San Diego](https://cse.ucsd.edu/) working with Prof. [Albert Chern](https://cseweb.ucsd.edu/~alchern/). 
 I received my PhD in [Computational Applied Mathematics at University of California -- Los Angeles](https://www.math.ucla.edu/research/cam) in March 2020. 
@@ -28,23 +28,24 @@ I spent most of my free time climbing, hiking, and cooking (see [gallery](https:
 Publications
 ======
 
-![fluidcohomology](/images/fluidcohomology_cover.jpeg)
+[![fluidcohomology](/images/fluidcohomology_cover.jpeg)](https://yhesper.github.io/fc23/fc23.html)
 > ### Fluid Cohomology
 > Hang Yin, Mohammad Sina Nabizadeh, Baichuan Wu, **Stephanie Wang**, Albert Chern  
 > ACM Transactions on Graphics (SIGGRAPH 2023) (accepted)  
 > Paper and Video coming soon!
 
-![covectorfluids](/images/covectorfluids_cover.jpeg)
+[![covectorfluids](/images/covectorfluids_cover.jpeg)](https://cseweb.ucsd.edu/~viscomp/projects/SIG22CovectorFluids/)
 > ### Covector Fluids
 > Mohammad Sina Nabizadeh, **Stephanie Wang**, Ravi Ramamoorthi, Albert Chern  
 > ACM Transactions on Graphics (SIGGRAPH 2022)  
 > Paper [(pdf)](https://cseweb.ucsd.edu/~viscomp/projects/SIG22CovectorFluids/paper/CovectorFluids.pdf) Video [(YouTube)](https://www.youtube.com/watch?v=jM1FNiVYofI&feature=emb_title)  
 
-![deepcurr](/images/hands_latent.gif)
+[![deepcurr](/images/hands_latent.gif)](https://people.csail.mit.edu/smirnov/deep-currents/)
 > ### DeepCurrents: Learning Implicit Representations of Shapes with Boundaries
 > David Palmer, Dmitriy Smirnov, **Stephanie Wang**, Albert Chern, Justin Solomon  
 > Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)  
 > Paper [(pdf)](https://openaccess.thecvf.com/content/CVPR2022/papers/Palmer_DeepCurrents_Learning_Implicit_Representations_of_Shapes_With_Boundaries_CVPR_2022_paper.pdf) CVPR talk [(YouTube)](https://www.youtube.com/watch?v=OhJC3rtzeoU)  
+> Source code [(GitHub repo)](https://github.com/dmsm/DeepCurrents)
 
 ![bike](/images/bike_cover.png)
 > ### Role detection in bicycle-sharing networks using multilayer stochastic block models
@@ -58,12 +59,12 @@ Publications
 > Computers and Geotechnics, 2021  
 > [Science Direct link](https://www.sciencedirect.com/science/article/pii/S0266352X21002822)
 
-![mincurr](/images/mincurr_cover.jpg)
+[![mincurr](/images/mincurr_cover.jpg)](https://cseweb.ucsd.edu/~alchern/projects/MinimalCurrent/)
 > ### Computing minimal surfaces with differential forms ([replicability verified](http://www.replicabilitystamp.org/#https-github-com-evastgh-minimal-current))
 > **Stephanie Wang** and Albert Chern  
 > ACM Transactions on Graphics (SIGGRAPH 2021)  
-> Paper [(pdf)](files/mincurr_paper.pdf) Video [(Vimeo)](https://vimeo.com/542904902) SIGGRAPH talk [(Vimeo)](https://vimeo.com/558315135)  
-> Source code [(Houdini file)](files/mincurr_demo_04282021.hipnc) Houdini Demo [(Vimeo)](https://vimeo.com/543382749)
+> Project page [(link)](https://yhesper.github.io/fc23/fc23.html) Paper [(pdf)](files/mincurr_paper.pdf) Video [(Vimeo)](https://vimeo.com/542904902) SIGGRAPH talk [(Vimeo)](https://vimeo.com/558315135)  
+> Source code [(GitHub repo)](https://github.com/evastgh/Minimal_Current) Houdini Demo [(Vimeo)](https://vimeo.com/543382749)
 
 > ### A Material Point Method for Elastoplasticity with Ductile Fracture and Frictional Contact
 > **Stephanie Wang**
