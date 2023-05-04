@@ -21,7 +21,7 @@ My Doctoral Dissertation was on Material Point Method and its improvements, advi
 I volunteer and organize for causes of the community. I served at [Women in Math at UCLA](https://www.math.ucla.edu/grad/women-in-math), UCLA Math Grad Student Organization, [UCLA Math and Physical Sciences Council](https://www.math.ucla.edu/~mpsc/math/), and [UCLA Grad Student Association](https://gsa.asucla.ucla.edu/) for years. In 2017 I created the [UCLA Women In Math Mentorship Program](https://www.math.ucla.edu/grad/women-in-math-mentorship-program) to strengthen the community and encourage connection between undergraduate and graduate women in math.  
 
 **Personal**  
-I spent most of my free time climbing, hiking, and cooking (see [gallery](https://evastgh.github.io/gallery/)). 
+I spent most of my free time hiking and cooking (see [gallery](https://evastgh.github.io/gallery/)). 
 [WiGRAPH](https://www.wigraph.org/) featured me in an [interview](https://www.wigraph.org/post-postdocs.html) and you can find more about me there.
 
 
