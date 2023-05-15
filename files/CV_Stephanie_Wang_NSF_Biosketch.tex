@@ -1,0 +1,230 @@
+\documentclass[11pt,a4paper,unicode]{moderncv}
+
+\moderncvtheme{fancy}
+\definecolor{color1}{rgb}{0.22,0.45,0.45}
+\usepackage[utf8]{inputenc}
+
+\usepackage[top=.7in,bottom=.7in,left=.6in, right=.8in]{geometry}          % smaller number -> text takes more space
+% \usepackage[scale=0.89]{geometry}
+\AtBeginDocument{\recomputelengths}
+
+% The following lines include both bibentry and hyperref packages while resolving the clash
+% See https://tex.stackexchange.com/questions/65348/clash-between-bibentry-and-hyperref-with-bibstyle-elsart-harv
+\usepackage{bibentry} % using BibTeX for publication list
+\makeatletter\let\saved@bibitem\@bibitem\makeatother
+\usepackage[unicode]{hyperref} % hyperlinks
+\makeatletter\let\@bibitem\saved@bibitem\makeatother
+
+\definecolor{linkcolour}{rgb}{0,0.2,0.6}            % hyperlinks setup
+\hypersetup{colorlinks,breaklinks,urlcolor=linkcolour, linkcolor=linkcolour}
+
+\usepackage{enumitem} %customization for enumerate
+
+\firstname{Stephanie}
+\familyname{Wang \vspace*{-4mm}}
+\email{evast@g.ucla.edu}
+\homepage{stephaniewang.page}
+
+\renewcommand{\emailsymbol}{}
+\renewcommand{\homepagesymbol}{}
+\setlength{\hintscolumnwidth}{25mm}
+% \setlength{\separatorcolumnwidth}{3mm}
+\setlength{\maincolumnwidth}{20mm}
+
+\nopagenumbers{}                    
+
+\begin{document}
+\maketitle
+
+\vspace*{-2mm}
+\section{About}
+\cvline{}{
+    My research interests are in geometry processing and physics simulations. I love exploring mathematical solutions that improve existing algorithms and pipelines in computer graphics. 
+}
+\cvline{Geometric optimization}{
+    Many geometry processing tasks boil down to optimization problems, many of which are nonconvex. New mathematical insights can help discover the convex equivalent problems which comply with the fast and robust convex solvers. 
+}
+\cvline{Physics modeling}{
+    Physical phenomena like solids, fluids, friction, fracture are crucial in building a virtual world. Existing algorithms often have to choose between performance and accuracy. Mathematical theories can inspire novel discretization schemes that are both faster and better at conserving important physical quantities. 
+}
+% \cvline{}{I am currently looking for the next position that starts in \textbf{January 2024}. }
+
+
+\vspace*{-2mm}
+\section{Training}
+%\cventry{years}{degree/job title}{institution/employer}{localization}{grade}{description}
+\cventry{2020-present}{Postdoc}{UC San Diego}{}{}{Collaborated with and mentored by \href{https://cseweb.ucsd.edu/~ravir/}{Ravi Ramamoorthi}, \href{https://cseweb.ucsd.edu/~tzli/}{Tzu-Mao Li}, and \href{https://cseweb.ucsd.edu/~alchern/}{Albert Chern} (host)}
+\cventry{2014-2020}{Ph.D. and M.S. in Mathematics}{UCLA}{}{Eugene V. Cota-Robles Fellow}{Committee: \href{http://seas.ucla.edu/sofia/jeff/index.php}{Jeffrey D. Eldredge}, \href{https://wotaoyin.mathopt.com/}{Wotao Yin}, \href{https://www.math.ucla.edu/~lvese/}{Luminita Aura Vese}, and \href{https://www.math.ucla.edu/~jteran/}{Joseph M. Teran} (advisor)}
+\cventry{2009-2013}{B.S. in Mathematics}{National Taiwan University}{}{\textit{magna cum laude}}{}
+
+\vspace*{-2mm}
+\section{Appointments}
+\cventry{2020}{Assistant Adjunct Professor}{UCLA Math Dept}{}{Los Angeles, CA (virtual)}
+{Taught remote classes for upper and lower division undergratuate courses: Machine Learning (Math156) and Calculus of Several Variables (Math32A).}
+\cventry{2019 spring}{Graduate Student Instructor}{UCLA Math Dept}{}{Los Angeles, CA}
+{Taught course: Linear Algebra and Applications (Math33A).}
+\cventry{2015-2020}{Teaching Assistant}{UCLA Math Dept}{}{Los Angeles, CA}
+{Led discussion sessions and graded homework/exams for 11 undergraduate and graduate level courses: linear algebra and introduction to mathematical proofs (Math 115A), undergrad- and grad-level numerical methods (Math 151B, 269A), introductory, intermediate, and advanced C++ programming (PIC 10A, 10B, 10C).}
+\cventry{2019 summer}{Exchange Scholar and Lab Consultant}{EPFL}{}{Lausanne, Switzerland}
+{Simulations and data analysis of snow and tire interaction, avalanche release, and snow micro-structure.}
+\cventry{2018 summer}{Tech Intern}{Walt Disney Animation Studio}{}{Burbank, CA}
+{R\&D for pioneering simulation technology in animated feature films, teaming with VFX artists and developing in C++ and HDK. }
+
+\vspace*{-2mm}
+\section{Awards}
+\cventry{May 2022}{Rising Stars in Computer Graphics Research}{WiGRAPH}{}{}{}
+\cventry{Jul 2019}{Best Paper Award}{ACM SIGGRAPH/Eurographics Symposium on Computer Animation}{}{}{}
+\cventry{Sep 2014}{Eugene V. Cota-Robles Fellowship}{UCLA}{}{}{}
+\cventry{Jun 2013}{Dean's Award, College of Science}{National Taiwan University}{}{}{}
+\cventry{Aug 2012}{Bronze Medal in Applied and Computational Mathematics}{S.T. Yau College Student Mathematics Contest}{}{}{}
+
+% \vspace*{-2mm}
+% \section{Preprint}
+% \cvline{}{\bibentry{McKell:2023}}
+% \cvline{}{\bibentry{Yin:2023}}
+% \cvline{}{
+%     \href{}{\textbf{Wave Simulations in Infinite Spacetime}}
+%     \small\newline Chad McKell, Mohammad Sina Nabizadeh, \underline{Stephanie Wang}, Albert Chern
+% }
+% \cvline{}{
+%     {\textbf{Fluid Cohomology}}
+%     \small\newline Hang Yin, Mohammad Sina Nabizadeh, Baichuan Wu, \underline{Stephanie Wang}, Albert Chern
+%     \newline {ACM Transactions on Graphics (accepted for presentation at SIGGRAPH 2023)} 
+% }
+
+\nobibliography{PublicationsAndCitations}
+\bibliographystyle{plain}
+
+\vspace*{-2mm}
+\section{Publications}
+\cvline{}{\href{https://dl.acm.org/doi/10.1145/3528223.3530120}{\bibentry{Nabizadeh:2022}}}
+\cvline{}{\href{https://openaccess.thecvf.com/content/CVPR2022/papers/Palmer_DeepCurrents_Learning_Implicit_Representations_of_Shapes_With_Boundaries_CVPR_2022_paper.pdf}{\bibentry{Palmer:2022}}}
+\cvline{}{\href{https://www.cambridge.org/core/journals/network-science/article/role-detection-in-bicyclesharing-networks-using-multilayer-stochastic-block-models/5D73728650C5C3E2DB9455FCDF46F0E2}{\bibentry{Carlen:2022}}}
+\cvline{}{\href{https://www.sciencedirect.com/science/article/pii/S0266352X21002822}{\bibentry{Blatny:2021}}}
+\cvline{}{\href{https://dl.acm.org/doi/10.1145/3450626.3459781}{\bibentry{Wang:2021}}}
+% \cvline{}{\bibentry{Wang:2020}}
+\cvline{}{\href{https://dl.acm.org/doi/10.1145/3355089.3356537}{\bibentry{Ding:2019}}}
+\cvline{}{\href{https://dl.acm.org/doi/10.1145/3340258}{\bibentry{Han:2019}}}
+\cvline{}{\href{https://dl.acm.org/doi/10.1145/3340259}{\bibentry{Wang:2019}}}
+% \cvline{}{
+%     \href{https://dl.acm.org/doi/10.1145/3528223.3530120}{\textbf{Covector Fluids}}
+%     \small\newline Mohammad Sina Nabizadeh, \underline{Stephanie Wang}, Ravi Ramamoorthi, Albert Chern
+%     \newline {ACM Transactions on Graphics (SIGGRAPH 2022)} 
+% }
+% \cvline{}{
+%     \href{https://openaccess.thecvf.com/content/CVPR2022/papers/Palmer_DeepCurrents_Learning_Implicit_Representations_of_Shapes_With_Boundaries_CVPR_2022_paper.pdf}{\textbf{DeepCurrents: Learning Implicit Representations of Shapes with Boundaries}}
+%     \small\newline David Palmer, Dmitriy Smirnov, \underline{Stephanie Wang}, Albert Chern, Justin Solomon
+%     \newline {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2022)}
+% }
+% \cvline{}{
+%     \href{https://www.cambridge.org/core/journals/network-science/article/role-detection-in-bicyclesharing-networks-using-multilayer-stochastic-block-models/5D73728650C5C3E2DB9455FCDF46F0E2}{\textbf{Role Detection in Bicycle-Sharing Networks Using Multilayer Stochastic Block Models}}
+%     \small\newline Jane Carlen, Jaume de Dios Pont, Cassidy Mentus, Shyr-Shea Chang, \underline{Stephanie Wang}, Mason A. Porter
+%     \newline {Network Science, 2022}
+% }
+% \cvline{}{
+%     \href{https://dl.acm.org/doi/10.1145/3450626.3459781}{\textbf{Computing minimal surfaces with differential forms}}
+%     \small\newline \underline{Stephanie Wang} and Albert Chern
+%     \newline {ACM Transactions on Graphics (SIGGRAPH 2021)} 
+% }
+% \cvline{}{
+%     \href{https://www.sciencedirect.com/science/article/pii/S0266352X21002822}{\textbf{Computational micromechanics of porous brittle solids}}
+%     \small\newline Lars Blatny, Henning Löwe, \underline{Stephanie Wang}, Johan Gaume
+%     \newline {Computers and Geotechnics, 2021} 
+% }
+% \cvline{}{
+%     \href{https://www.proquest.com/docview/2389768700?pq-origsite=gscholar&fromopenview=true}{\textbf{A Material Point Method for Elastoplasticity with Ductile Fracture and Frictional Contact}}
+%     \small\newline \underline{Stephanie Wang}
+%     \newline UCLA Doctoral Dissertation, 2020
+% }
+% \cvline{}{
+%     \href{https://dl.acm.org/doi/10.1145/3355089.3356537}{\textbf{A thermomechanical material point method for baking and cooking}}
+%     \small\newline Mengyuan Ding, Xuchen Han, \underline{Stephanie Wang}, Theodore F. Gast, Joseph M. Teran
+%     \newline ACM Transactions on Graphics (SIGGRAPH Asia 2019) 
+% }
+% \cvline{}{
+%     \href{https://dl.acm.org/doi/10.1145/3340258}{\textbf{A Hybrid Material Point Method for Frictional Contact with Diverse Materials}} 
+%     \small\newline Xuchen Han, Theodore F. Gast, Qi Guo, \underline{Stephanie Wang}, Chenfanfi Jiang, Joseph M. Teran
+%     \newline Proceedings of the ACM on Computer Graphics and Interactive Techniques (SCA 2019) 
+% }
+% \cvline{}{
+%     \href{https://dl.acm.org/doi/10.1145/3340259}{\textbf{Simulation and Visualization of Ductile Fracture with the Material Point Method}}
+%     \small\newline \underline{Stephanie Wang}, Mengyuan Ding, Theodore F. Gast, Leyi Zhu, Steven Gagniere, Chenfanfu Jiang, Joseph M. Teran
+%     \newline Proceedings of the ACM on Computer Graphics and Interactive Techniques (\textbf{SCA 2019 Best Paper}) 
+% }
+
+% \vspace*{-2mm}
+% \section{Invited talks}
+% % \cventry[spacing]{years}{degree/job title}{institution/employer}{localization}{optionnal: grade/...}{optional: comment/job description}
+% % \cvline{}{\textcolor{color1}{Conferences and workshops}}
+% % \subsection{ }
+% \cvline{}{\textcolor{color1}{{\subsectionfont Conferences / Workshops}}}
+% \cventry{Sep 2021}{Geometry Workshop in Obergurgl}{}{Obergurgl, Austria}{}{}
+% \cventry{Aug 2021}{SIGGRAPH}{}{(virtual)}{}{}
+% \cventry{Aug 2019}{SCA}{}{Los Angeles, CA}{}{}
+
+% \subsection{ }
+% \cvline{}{\textcolor{color1}{\emph{Colloquia / Seminars}}}
+% \cventry{Feb 2022}{NCSU}{}{Raleigh, NC (virtual)}{}{}{} % Geometry and Topology Seminar
+% \cventry{Nov 2021}{MIT}{}{Cambridge, MA}{}{}{} % CSAIL talk
+% \newpage
+% \cventry{Nov 2021}{Autodesk}{}{(virtual)}{}{}
+% \cventry{Nov 2021}{Online Seminar Geometric Analysis}{}{(virtual)}{}{}
+% \cventry{Oct 2021}{Toronto Geometry Colloquium}{}{Toronto, ON (virtual)}{}{}
+% % \cventry{Sep 2021}{Geometry Workshop in Obergurgl}{}{Obergurgl, Austria}{}{}
+% % \cventry{Aug 2021}{SIGGRAPH}{}{(virtual)}{}{}
+% \cventry{Apr 2021}{UCSD (CSE Vis-Comp)}{}{San Diego, CA (virtual)}{}{}
+% \cventry{Jan 2021}{UCSD (CCoM)}{}{San Diego, CA (virtual)}{}{}
+% \cventry{Dec 2020}{CMU}{}{Pittsburgh, PA (virtual)}{}{}
+% \cventry{May 2020}{GAMES Webinar}{}{(virtual)}{}{}
+% \cventry{Nov 2019}{College of the Holy Cross}{}{Worcester, MA (virtual)}{}{}
+% \cventry{Sep 2019}{Inria Grenoble-Rh\^one-Alpes}{}{Grenoble, France}{}{}
+% \cventry{Aug 2019}{ETH Z\"urich}{}{Z\"urich, Switzerland}{}{}
+
+% \subsection{ }
+% \cvline{}{\textcolor{color1}{\emph{Graduate Student Seminars}}}
+% \cventry{Aug 2019}{EPFL}{}{Lausanne, Switzerland}{}{}
+% % \cventry{Aug 2019}{SCA}{}{Los Angeles, CA}{}{}
+% \cventry{Nov 2018}{UCLA}{}{Los Angeles, CA}{}{}
+
+\vspace*{-2mm}
+\section{Activities}
+% \cventry{2022-present}{Committee member}{Eurographics}{}{}{Served as committee member for the Eurographics 2023 short papers program.}
+% \cventry{2021-present}{External reviewer}{SIGGRAPH, SIGGRAPH Asia, Eurographics}{}{}{Reviewed technical papers in areas including geometry processing, physical simulation, and scientific computing.}
+\cventry{2021}{Research Project Mentor}{Summer Geometry Institute}{}{}{Designed a research project and advised undergraduate fellows on minimal surfaces using both Lagrangian and Eulerian representations.}
+\cventry{2017-2020}{Math Dept Representative}{Graduate Student Association, UCLA}{}{}{Advocated for student rights in campus-level organizations and organized cross-department social events. }
+\cventry{2015-2020}{Volunteer}{AWiSE STEM Day, Explore Your Universe}{}{}{Presented interactive math booth in annual science fair designated for middle school girls and general public. }
+\cventry{2016-2018}{Chief Organizer}{Women in Math, UCLA}{}{}{Organized social and volunteering events, represented and advocated for women in math dept. }
+\cventry{2017}{Creator}{Women in Math Mentorship Program, UCLA}{}{}{Negotiated for fundings and created the program that hosts regular mixers for undergraduate and graduate fellows to increase connection, awareness, and mentorship.}
+\cventry{2016-2018}{Fellow Mentor}{California Teach, UCLA}{}{}{Mentored and advised Math and Statistics undergraduate students from underrepresented demographics. }
+\cventry{2012-2013}{Vice President}{Lambda Club, National Taiwan University}{}{}{Organized academic and social events and grew the community from 3 people to 30+ during my service. }
+
+\vspace*{-2mm}
+\section{References}
+\cvline{}{\href{https://cseweb.ucsd.edu/~alchern/}{Prof. Albert Chern} (postdoc host and co-author)}
+\cvline{}{\href{https://cseweb.ucsd.edu/~tzli/}{Prof. Tzu-Mao Li} (co-author)}
+\cvline{}{\href{https://www.cse.iitd.ac.in/~narain/}{Prof. Rahul Narain} (invited me to serve as SIGGRAPH technical paper reviewer)}
+\cvline{}{\href{https://cseweb.ucsd.edu/~ravir/}{Prof. Ravi Ramamoorthi} (co-author)}
+\cvline{}{\href{https://people.csail.mit.edu/jsolomon/}{Prof. Justin Solomon} (co-author and invited me to serve at MIT Summer Geometry Institute)}
+\cvline{}{\href{https://jamestompkin.com/}{Prof. James Tompkin} (invited me to serve as SIGGRAPH poster juror)}
+\cvline{}{(Please contact me if more references is required.)}
+
+
+% \vspace*{-2mm}
+% \section{Skills}
+% \cvline{Programming}{C++ (Eigen, tbb), Python (PyTorch, SciPy), lua, MATLAB (CVX), \LaTeX, zsh}
+% \cvline{Tools}{Houdini, Vim, git, gdb, valgrind}
+% \cvline{Math}{Optimization, differential geometry, numerical and theoretical PDEs, scientific computing}
+% \cvline{Languages}{English and Mandarin Chinese - bilingual proficiency}{}
+% \cvline{Hobbies}{Rock climbing, hiking, cooking}
+
+% Note using moderncv + BibTeX because want to add hyperlinks manually
+% \nocite{*}
+% \bibliographystyle{plain}
+% \nobibliography{publications}
+% \renewcommand{\refname}{Selected Publications}
+
+\begin{center}
+    Last updated: \today.
+\end{center}
+
+\end{document}
