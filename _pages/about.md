@@ -28,7 +28,7 @@ I spent most of my free time hiking and cooking (see [gallery](https://evastgh.g
 Publications
 ======
 
-[![fluidcohomology](/images/fluidcohomology_cover.jpeg)](https://yhesper.github.io/fc23/fc23.html)
+[![fluidcohomology](/images/fluidcohomology_cover.png)](https://yhesper.github.io/fc23/fc23.html)
 > ### Fluid Cohomology
 > Hang Yin, Mohammad Sina Nabizadeh, Baichuan Wu, **Stephanie Wang**, Albert Chern  
 > ACM Transactions on Graphics (SIGGRAPH 2023) (accepted)  
@@ -63,7 +63,7 @@ Publications
 > ### Computing minimal surfaces with differential forms ([replicability verified](http://www.replicabilitystamp.org/#https-github-com-evastgh-minimal-current))
 > **Stephanie Wang** and Albert Chern  
 > ACM Transactions on Graphics (SIGGRAPH 2021)  
-> Project page [(link)](https://yhesper.github.io/fc23/fc23.html) Paper [(pdf)](files/mincurr_paper.pdf) Video [(Vimeo)](https://vimeo.com/542904902) SIGGRAPH talk [(Vimeo)](https://vimeo.com/558315135)  
+> Paper [(pdf)](files/mincurr_paper.pdf) Video [(Vimeo)](https://vimeo.com/542904902) SIGGRAPH talk [(Vimeo)](https://vimeo.com/558315135)  
 > Source code [(GitHub repo)](https://github.com/evastgh/Minimal_Current) Houdini Demo [(Vimeo)](https://vimeo.com/543382749)
 
 > ### A Material Point Method for Elastoplasticity with Ductile Fracture and Frictional Contact
