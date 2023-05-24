@@ -13,7 +13,7 @@ redirect_from:
 
 **I am only available at 50% capacity due to a health issue and might take longer to respond to your email requests. Sorry!**
 
-I am a researcher specializing in geometric processing and physics-based simulations. My research goal is to bring mathematics advances from differential equations, optimization theory, and geometry into computer graphics and to develop new algorithms for architecture, fabrication, structural analysis, and animation. Right now, I am a Postdoc at [department of Computer Science and Engineering at University of California -- San Diego](https://cse.ucsd.edu/) working with Prof. [Albert Chern](https://cseweb.ucsd.edu/~alchern/). 
+I am a researcher specializing in geometric optimizations and physics simulations. My research goal is to bring mathematical advances from differential equations, optimization theory, and geometry into computer graphics and to develop new algorithms for architecture, fabrication, structural analysis, and animation. Right now, I am a Postdoc at [department of Computer Science and Engineering at University of California -- San Diego](https://cse.ucsd.edu/) working with Prof. [Albert Chern](https://cseweb.ucsd.edu/~alchern/). 
 I received my PhD in [Computational Applied Mathematics at University of California -- Los Angeles](https://www.math.ucla.edu/research/cam) in March 2020. 
 My Doctoral Dissertation was on Material Point Method and its improvements, advised by Prof. [Joseph Teran](https://www.math.ucla.edu/~jteran/). 
 
@@ -25,8 +25,13 @@ I spent most of my free time hiking and cooking (see [gallery](https://evastgh.g
 [WiGRAPH](https://www.wigraph.org/) featured me in an [interview](https://www.wigraph.org/post-postdocs.html) and you can find more about me there.
 
 
-Publications
+Publications and Preprints
 ======
+
+[![kelvinwaves](/images/kelvinwaves_cover.png)](https://arxiv.org/abs/2305.08033)
+> ### Wave Simulations in Infinite Spacetime
+> Chad McKell, Mohammad Sina Nabizadeh, **Stephanie Wang**, Albert Chern  
+> Preprint [(arXiv pdf)](https://arxiv.org/abs/2305.08033)
 
 [![fluidcohomology](/images/fluidcohomology_cover.png)](https://yhesper.github.io/fc23/fc23.html)
 > ### Fluid Cohomology
