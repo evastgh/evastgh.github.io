@@ -6,7 +6,6 @@ author_profile: false
 redirect_from: 
   - /ECIG/
   - /ECIG.html
-  - /ExteriorCalculusInGraphics/
   - /ExteriorCalculusInGraphics.html
 ---
 
