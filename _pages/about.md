@@ -12,7 +12,6 @@ redirect_from:
 [TL;DR (CV)](/files/CV_Stephanie_Wang.pdf)  
 
 
-![sadge](/images/unfortunatelysick.jpg)
 **I am only available at 50% capacity due to a health issue and might take longer to respond to your email requests. Sorry!**
 
 I am a researcher specializing in geometric optimizations and physics simulations. My research goal is to bring mathematical advances from differential equations, optimization theory, and geometry into computer graphics and to develop new algorithms for architecture, fabrication, structural analysis, and animation. Right now, I am a Postdoc at [department of Computer Science and Engineering at University of California -- San Diego](https://cse.ucsd.edu/) working with Prof. [Albert Chern](https://cseweb.ucsd.edu/~alchern/). 
