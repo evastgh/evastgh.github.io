@@ -25,3 +25,15 @@ This work was funded by NSF CAREER Award 2239062 and UC San Diego Center for Vis
 [Lecture Notes (Version 1.00)](/files/ECIG_notes_v1.00.pdf)
 
 ### BibTeX
+```
+@article{Wang:2023:ECIG,
+author = {Wang, Stephanie and Nabizadeh, Mohammad Sina and Chern, Albert},
+title = {Exterior Calculus in Graphics},
+booktitle = {ACM SIGGRAPH 2023 courses},
+series = {SIGGRAPH '23},
+location = {Los Angeles, CA, USA},
+year = {2023},
+publisher = {ACM},
+address = {New York, NY, USA},
+}
+```
