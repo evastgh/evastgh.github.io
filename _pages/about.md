@@ -29,16 +29,28 @@ I spent most of my free time hiking and cooking (see [gallery](https://evastgh.g
 Publications and Preprints
 ======
 
+[![ECIG](/images/ECIG_cover.png)](/ECIG/)
+> ### Exterior Calculus in Graphics  
+> **Stephanie Wang**, Mohammad Sina Nabizadeh, Albert Chern  
+> SIGGRAPH 2023 course (accepted)  
+> Visit [project page](/ECIG/) for abstract, course notes, and SIGGRAPH 2023 presentation info!
+
+![loopyphysics](/images/loopy_cover.png)
+> ### Physical Cyclic Animations  
+> Shiyang Jia, **Stephanie Wang**, Mohammad Sina Nabizadeh, Tzu-Mao Li, Albert Chern  
+> Proceedings of the ACM SIGGRAPH / Eurographics Symposium on Computer Animation (accepted)  
+> Paper and video coming soon!
+
 [![kelvinwaves](/images/kelvinwaves_cover.png)](https://arxiv.org/abs/2305.08033)
-> ### Wave Simulations in Infinite Spacetime
+> ### Wave Simulations in Infinite Spacetime  
 > Chad McKell, Mohammad Sina Nabizadeh, **Stephanie Wang**, Albert Chern  
 > Preprint [(arXiv pdf)](https://arxiv.org/abs/2305.08033)
 
 [![fluidcohomology](/images/fluidcohomology_cover.png)](https://yhesper.github.io/fc23/fc23.html)
-> ### Fluid Cohomology
+> ### Fluid Cohomology  
 > Hang Yin, Mohammad Sina Nabizadeh, Baichuan Wu, **Stephanie Wang**, Albert Chern  
 > ACM Transactions on Graphics (SIGGRAPH 2023) (accepted)  
-> Paper and Video coming soon!
+> Paper and video coming soon!
 
 [![covectorfluids](/images/covectorfluids_cover.jpeg)](https://cseweb.ucsd.edu/~viscomp/projects/SIG22CovectorFluids/)
 > ### Covector Fluids
