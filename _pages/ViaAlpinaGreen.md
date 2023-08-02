@@ -37,6 +37,9 @@ The cost of the lodgings ranges from USD 69 to USD 160 per night. I suppose one 
 
 I highly recommend using the extremely convenient and reliable [SBB Mobile app](https://apps.apple.com/app/id294855237) to look up public transit schedules (frequency and duration of the trip) before booking lodgings that require transit. I bought a [half-fare card for all Swiss public transport](https://www.swiss-pass.ch/swiss-half-fare-card/) upon arrival at Zürich airport, which was a good deal as I was taking lots of public transit during my trip. Note: I did encounter a mishap where SBB canceled the trains that I was planning to take. To SBB’s credit, they only canceled the trains from 21h-00h due to engineering work. I was saved by a friend who lives nearby and let me crash in short notice for a night. Thank you, Theo.
 
+### Collecting stamps
+One can [order a passbook online](https://www.myswitzerland.com/en-us/experiences/summer-autumn/hiking/via-alpina/via-alpina-hiking-passbook/) and collect stamps along the hiking path. The exact locations are indicated on the same website under the second section. Note: The stamps for each mountain pass are actually located at the town immediately follows, e.g. the stamp for Foopass is in Elm. 
+
 ### Training for the hikes
 I did my best to hike as much as possible during the 2-3 months leading up to my trip. In particular, I hiked every weekend with 8-13 miles and 2k-4k ft elevation gain each time. If I could re-do it, I would add (a) hiking for 2-3 consecutive days and (b) getting used to trekking poles to my training schedule. 
 
@@ -52,12 +55,11 @@ I highly recommend [Switzerland Mobility app](https://apps.apple.com/app/id52719
 ![marker](/images/MyViaAlpinaExperience/marker2.JPG)
 ![marker](/images/MyViaAlpinaExperience/marker3.JPG)
 ![marker](/images/MyViaAlpinaExperience/marker4.JPG)
-![marker](/images/MyViaAlpinaExperience/marker5.JPG)
 ![marker](/images/MyViaAlpinaExperience/marker6.JPG)
 ![marker](/images/MyViaAlpinaExperience/marker7.JPG)
 
 ### Backpack content
-See [my Lighterpack list](https://lighterpack.com/r/90onsm) for the complete content of my backpack and the weight of each item. I intentionally chose to bring only 3 sets of clothing including the set I was wearing. I spent a lot of time doing laundry during this trip, but I got to pack light (28L backpack) so I could finish some long stretches as day-hikes with all my gears on my back. I bought the trekking poles after having my quadriceps destroyed by the 1450m (4756ft) elevation loss from Weisstannen - Elm, and wish that I had bought them at the beginning.  
+See [my Lighterpack list](https://lighterpack.com/r/90onsm) for the complete content of my backpack and the weight of each item. I intentionally chose to bring only 3 sets of clothing including the set I was wearing. I spent a lot of time doing laundry during this trip, but I got to pack light (28L backpack). I bought the trekking poles after having my quadriceps destroyed by the 1450m (4756ft) elevation loss from Weisstannen - Elm, and wish that I had bought them at the beginning.  
 
 # Things that I wish I had done differently
 I really wish I had saved myself a couple more rest days near the beginning. I had to forfeit two segments due to illness and soreness during the first week. On the other hand, I was feeling really good and didn’t need to take some rest days that I had scheduled near the end of my trip. Another thing I wish I had done was to wash my backpack on my rest days when I had at least 24h to hang dry it. It was smelling really really foul at the end of the trip, from the insurmountable amount of sweat that it has soaked up.
