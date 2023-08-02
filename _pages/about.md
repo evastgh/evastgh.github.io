@@ -1,4 +1,3 @@
----
 permalink: /
 title: "About me"
 excerpt: "About me"
@@ -32,13 +31,13 @@ Publications and Preprints
 [![ECIG](/images/ECIG_cover.png)](/ECIG/)
 > ### Exterior Calculus in Graphics  
 > **Stephanie Wang**, Mohammad Sina Nabizadeh, Albert Chern  
-> SIGGRAPH 2023 course (accepted)  
+> SIGGRAPH '23: ACM SIGGRAPH 2023 Courses
 > Visit [project page](/ECIG/) for abstract, course notes, and SIGGRAPH 2023 presentation info!
 
 ![loopyphysics](/images/loopy_cover.png)
 > ### Physical Cyclic Animations  
-> Shiyang Jia, **Stephanie Wang**, Mohammad Sina Nabizadeh, Tzu-Mao Li, Albert Chern  
-> Proceedings of the ACM SIGGRAPH / Eurographics Symposium on Computer Animation (accepted)  
+> Shiyang Jia, **Stephanie Wang**, Tzu-Mao Li, Albert Chern  
+> Proceedings of the ACM on Computer Graphics and Interactive Techniques (SCA 2023) (accepted)  
 > Paper and video coming soon!
 
 [![kelvinwaves](/images/kelvinwaves_cover.png)](https://arxiv.org/abs/2305.08033)
@@ -49,19 +48,21 @@ Publications and Preprints
 [![fluidcohomology](/images/fluidcohomology_cover.png)](https://yhesper.github.io/fc23/fc23.html)
 > ### Fluid Cohomology  
 > Hang Yin, Mohammad Sina Nabizadeh, Baichuan Wu, **Stephanie Wang**, Albert Chern  
-> ACM Transactions on Graphics (SIGGRAPH 2023) (accepted)  
-> Paper and video coming soon!
+> ACM Transactions on Graphics (SIGGRAPH 2023)  
+> Paper [(pdf)](https://yhesper.github.io/fc23/Fluid_Cohomology_Final.pdf) Video [(YouTube)](https://www.youtube.com/watch?v=eY8RUi5mrhc&embeds_referring_euri=https%3A%2F%2Fyhesper.github.io%2F&source_ve_path=MjM4NTE&feature=emb_title&themeRefresh=1)  
+> Source code [(Houdini and C++)](https://cseweb.ucsd.edu/~alchern/projects/FluidCohomology/code.zip)  
 
 [![covectorfluids](/images/covectorfluids_cover.jpeg)](https://cseweb.ucsd.edu/~viscomp/projects/SIG22CovectorFluids/)
 > ### Covector Fluids
 > Mohammad Sina Nabizadeh, **Stephanie Wang**, Ravi Ramamoorthi, Albert Chern  
 > ACM Transactions on Graphics (SIGGRAPH 2022)  
 > Paper [(pdf)](https://cseweb.ucsd.edu/~viscomp/projects/SIG22CovectorFluids/paper/CovectorFluids.pdf) Video [(YouTube)](https://www.youtube.com/watch?v=jM1FNiVYofI&feature=emb_title)  
+> Source code [(C++)](https://cseweb.ucsd.edu/~viscomp/projects/SIG22CovectorFluids/paper/CovectorFluids_code.zip)
 
 [![deepcurr](/images/hands_latent.gif)](https://people.csail.mit.edu/smirnov/deep-currents/)
 > ### DeepCurrents: Learning Implicit Representations of Shapes with Boundaries
 > David Palmer, Dmitriy Smirnov, **Stephanie Wang**, Albert Chern, Justin Solomon  
-> Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)  
+> Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2022)  
 > Paper [(pdf)](https://openaccess.thecvf.com/content/CVPR2022/papers/Palmer_DeepCurrents_Learning_Implicit_Representations_of_Shapes_With_Boundaries_CVPR_2022_paper.pdf) CVPR talk [(YouTube)](https://www.youtube.com/watch?v=OhJC3rtzeoU)  
 > Source code [(GitHub repo)](https://github.com/dmsm/DeepCurrents)
 
@@ -98,13 +99,13 @@ Publications and Preprints
 ![fracture](/images/fracture_cover.png)
 > ### Simulation and Visualization of Ductile Fracture with the Material Point Method
 > **Stephanie Wang**, Mengyuan Ding, Theodore F. Gast, Leyi Zhu, Steven Gagniere, Chenfanfu Jiang, Joseph M. Teran  
-> ACM SIGGRAPH/Eurographics Symposium on Computer Animation **(Best Paper Awardee)** (PACM-CGIT), 2019  
+> Proceedings of the ACM on Computer Graphics and Interactive Techniques (SCA 2019) **(Best Paper Awardee)**  
 > Paper [(pdf)](files/fracture_paper.pdf) Video [(YouTube)](https://www.youtube.com/watch?v=JsHeG0nk7JU)[(Vimeo)](https://vimeo.com/353779419) Tech Doc [(pdf)](files/fracture_tech_doc.pdf)
 
 ![hybrid](/images/hybrid_cover.png)
 > ### Hybrid Material Point Method for Frictional Contact with Diverse Materials
 > Xuchen Han, Theodore F. Gast, Qi Guo, **Stephanie Wang**, Chenfanfu Jiang, Joseph Teran  
-> ACM SIGGRAPH/Eurographics Symposium on Computer Animation (PACM-CGIT), 2019  
+> Proceedings of the ACM on Computer Graphics and Interactive Techniques (SCA 2019)  
 > Paper [(pdf)](files/hybrid_mpm_paper.pdf) Video [(YouTube)](https://www.youtube.com/watch?v=OQLYHusPAfw) Tech Doc [(pdf)](files/hybrid_tech_doc.pdf)
 
 

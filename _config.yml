@@ -193,6 +193,9 @@ collections:
   ExteriorCalculusInGraphics:
     output: true
     permalink: /:collection/:path/
+  MyViaAlpinaGreenExperience:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
