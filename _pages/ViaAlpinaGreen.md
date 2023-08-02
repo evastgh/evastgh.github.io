@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 
-# Intro
 Via Alpina Green is a through-hiking trail that traverses Switzerland. It is a part of the longer [Via Alpina Trail](http://www.via-alpina.org/en/) which traverses the Alps from Monaco to Slovenia. It is also labeled as the Swiss National Route 1. Hikers starts in Vaduz (Liechtenstein) and finishes in Montreux, crossing 14 mountain passes (saddle point of mountain ridges). The trail is divided into 20 sections with each section connecting one town to another. All these towns are accessible by public transit during the summer and have hotels and restaurants. Furthermore, hikers have the option to take funicular train / bus / cable car to skip through some parts of the hike, reducing the elevation gain / loss to accommodate one’s fitness level. I took these public transits at times to skip some steep parts / speed up the hike to make sure I finish in time / avoid getting rained on. This article is written with the intention to provide my own perspectives and to complement other existing online resources like the [official Via Alpina Green website by Swiss tourism](https://www.myswitzerland.com/en-us/experiences/summer-autumn/hiking/via-alpina/) or [Fabienne and Benoit's blog](https://www.novo-monde.com/en/backpacking-switzerland/via-alpina-hike/).
 
 # Planning the trip
@@ -36,7 +35,7 @@ My favorite weather for hiking is partially cloudy partially sunny. Unlike some 
 
 The cost of the lodgings ranges from USD 69 to USD 160 per night. I suppose one can further reduce the cost by staying at shared rooms and dormitary style [youth hostels](https://www.youthhostel.ch/en/hostels/), but that was not an option for me due to health issues. In general, cheaper options (youth hostels and cheap hotels) in towns on the Via Alpina route get booked out 2-3 months before the travel dates, but one can always get a more expensive one or book lodgings farther away from the trail (excluding the 5 remote towns Urnerboden, Engstlenalp, Griesalp, L’Etivaz, and Rochers de Naye). One advantage of staying at Airbnbs is the ease of doing laundry, as laundry service at hotels is not something I can / want to afford (often costs 5-10 franc per *piece of garment*, and takes more than 24h). Airbnbs are not really an option in the Grindelwald-Lauterbrunnen-Griesalp area, but I managed to find [a public laundry in Wengen](https://maps.app.goo.gl/QqtAKrqsjQBAjgNT6?g_st=ic).
 
-I highly recommend using the extremely convenient and reliable [SBB Mobile app](https://apps.apple.com/app/id294855237) to look up public transit schedules before booking lodgings that require transit. I bought a [half-fare card for all Swiss public transport](https://www.swiss-pass.ch/swiss-half-fare-card/) upon arrival at Zürich airport, which was a good deal as I was taking lots of public transit during my trip. Note: I did encounter a mishap where SBB canceled the trains that I was planning to take. To SBB’s credit, they only canceled the trains from 21h-00h due to engineering work. I was saved by a friend who lives nearby and let me crash in short notice for a night. Thank you, Theo.
+I highly recommend using the extremely convenient and reliable [SBB Mobile app](https://apps.apple.com/app/id294855237) to look up public transit schedules (frequency and duration of the trip) before booking lodgings that require transit. I bought a [half-fare card for all Swiss public transport](https://www.swiss-pass.ch/swiss-half-fare-card/) upon arrival at Zürich airport, which was a good deal as I was taking lots of public transit during my trip. Note: I did encounter a mishap where SBB canceled the trains that I was planning to take. To SBB’s credit, they only canceled the trains from 21h-00h due to engineering work. I was saved by a friend who lives nearby and let me crash in short notice for a night. Thank you, Theo.
 
 ### Training for the hikes
 I did my best to hike as much as possible during the 2-3 months leading up to my trip. In particular, I hiked every weekend with 8-13 miles and 2k-4k ft elevation gain each time. If I could re-do it, I would add (a) hiking for 2-3 consecutive days and (b) getting used to trekking poles to my training schedule. 
@@ -48,15 +47,14 @@ Restaurants in Switzerland are expensive. I buy food from grocery stores to keep
 There are many water fountains along hiking trails in Switzerland. In addition, one can often find little creeks on the trail for filtering water. I usually took 2L of water with me and I refilled whenever I encountered water source. (Note: I did take public transit to skip some steep sections and cannot report conditions of those sections.)
 
 ### Navigation
-I highly recommend [Switzerland Mobility app](https://apps.apple.com/app/id527194959) which is the official network for non-motorized traffic in Switzerland. Along the way you will also find clear signposts indicating the direction of “wanderweg” (walking trail) or “bergwanderweg / chemin de randonnée” (hiking trail), as well as white-red-white paint on rocks or trees or fences, or a yellow diamond-shaped marker. Here are some example:
-![marker](/images/MyViaAlpinaExperience/marker1.JPG)  
-![marker](/images/MyViaAlpinaExperience/marker2.JPG)  
-![marker](/images/MyViaAlpinaExperience/marker3.JPG)  
-![marker](/images/MyViaAlpinaExperience/marker4.JPG)  
-![marker](/images/MyViaAlpinaExperience/marker5.JPG)  
-![marker](/images/MyViaAlpinaExperience/marker6.JPG)  
-![marker](/images/MyViaAlpinaExperience/marker7.JPG)  
-![marker](/images/MyViaAlpinaExperience/marker8.JPG)  
+I highly recommend [Switzerland Mobility app](https://apps.apple.com/app/id527194959) which is the official network for non-motorized traffic in Switzerland. Along the way you will also find clear signposts indicating the direction of “wanderweg” (walking trail) or “bergwanderweg / chemin de randonnée” (hiking trail), as well as white-red-white paint on rocks or trees or fences, or a yellow diamond-shaped marker. Here are some examples:
+![marker](/images/MyViaAlpinaExperience/marker1.JPG)
+![marker](/images/MyViaAlpinaExperience/marker2.JPG)
+![marker](/images/MyViaAlpinaExperience/marker3.JPG)
+![marker](/images/MyViaAlpinaExperience/marker4.JPG)
+![marker](/images/MyViaAlpinaExperience/marker5.JPG)
+![marker](/images/MyViaAlpinaExperience/marker6.JPG)
+![marker](/images/MyViaAlpinaExperience/marker7.JPG)
 
 ### Backpack content
 See [my Lighterpack list](https://lighterpack.com/r/90onsm) for the complete content of my backpack and the weight of each item. I intentionally chose to bring only 3 sets of clothing including the set I was wearing. I spent a lot of time doing laundry during this trip, but I got to pack light (28L backpack) so I could finish some long stretches as day-hikes with all my gears on my back. I bought the trekking poles after having my quadriceps destroyed by the 1450m (4756ft) elevation loss from Weisstannen - Elm, and wish that I had bought them at the beginning.  
