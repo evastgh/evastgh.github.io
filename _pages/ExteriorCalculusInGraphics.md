@@ -17,7 +17,7 @@ SIGGRAPH 2023 Course
 ![Stef](/images/stef.jpg)
 [Stephanie Wang](https://stephaniewang.page/)  
 
-![Sina](/images/sina.jpeg)
+![Sina](/images/sina.jpg)
 [Mohammad Sina Nabizadeh](https://sinabiz.github.io/)  
 
 ![Albert](/images/albert.jpg)
