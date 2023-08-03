@@ -1,7 +1,7 @@
 ---
 permalink: /MyViaAlpinaGreenExperience/
 title: "My Via Alpina Green Experience"
-excerpt: "My Via Alpina Green Experience"
+excerpt: "My Via Alpina Green Experience"..
 author_profile: true
 redirect_from: 
   - /ViaAlpinaGreen/
@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Via Alpina Green is a through-hiking trail that traverses Switzerland. It is a part of the longer [Via Alpina Trail](http://www.via-alpina.org/en/) which traverses the Alps from Monaco to Slovenia. It is also labeled as the Swiss National Route 1. Hikers starts in Vaduz (Liechtenstein) and finishes in Montreux, crossing 14 mountain passes (saddle point of mountain ridges). The trail is divided into 20 sections with each section connecting one town to another. All these towns are accessible by public transit during the summer and have hotels and restaurants. Furthermore, hikers have the option to take funicular train / bus / cable car to skip through some parts of the hike, reducing the elevation gain / loss to accommodate one’s fitness level. I took these public transits at times to skip some steep parts / speed up the hike to make sure I finish in time / avoid getting rained on. This article is written with the intention to provide my own perspectives and to complement other existing online resources like the [official Via Alpina Green website by Swiss tourism](https://www.myswitzerland.com/en-us/experiences/summer-autumn/hiking/via-alpina/) or [Fabienne and Benoit's blog](https://www.novo-monde.com/en/backpacking-switzerland/via-alpina-hike/).
+Via Alpina Green is a through-hiking trail that traverses Switzerland. It is a part of the longer [Via Alpina Trail](http://www.via-alpina.org/en/) which traverses the Alps from Monaco to Slovenia. It is also labeled as the Swiss National Route 1. Hikers start in Vaduz (Liechtenstein) and finish in Montreux, crossing 14 mountain passes (saddle points of mountain ridges). The trail is divided into 20 sections, each connecting one town to another. All these towns are accessible by public transit during the summer and have hotels and restaurants. Furthermore, hikers have the option to take funicular trains / busses / cable cars to skip through some parts of the hike, reducing the elevation gain / loss to accommodate one’s fitness level. I took these at times to skip some steep parts, speed up the hike to make sure I finish in time, and avoid getting rained on. This article is written with the intention to provide my own perspective and to complement other existing online resources like the [official Via Alpina Green website by Swiss tourism](https://www.myswitzerland.com/en-us/experiences/summer-autumn/hiking/via-alpina/) or [Fabienne and Benoit's blog](https://www.novo-monde.com/en/backpacking-switzerland/via-alpina-hike/).
 
 # Planning the trip
 I used a large spreadsheet (here's my template in [.numbers](/files/ViaAlpinaGreen.numbers) or [.xlsx](/files/ViaAlpinaGreen.xlsx)) to plan my trip, filling it with hike info, lodging info, etc. I started planning and researching for the trip about half an year in advance, and I finished booking all my accommodations **two months in advance**. Most of the towns along Via Alpina are popular tourist desinations and have many hotels and frequent train / bus schedules, making the planning relatively easy. Amongst all towns on Via Alpina, Urnerboden, Engstlenalp, Griesalp, L’Etivaz, and Rochers de Naye are the more remote ones and they require more planning effort (the bus / funicular train schedule is sparse and ends early in the evening, fewer hotels means earlier booking, etc.) 
@@ -52,12 +52,12 @@ There are many water fountains along hiking trails in Switzerland. In addition, 
 ### Navigation
 I highly recommend [Switzerland Mobility app](https://apps.apple.com/app/id527194959) which is the official network for non-motorized traffic in Switzerland. Along the way you will also find clear signposts indicating the direction of “wanderweg” (walking trail) or “bergwanderweg / chemin de randonnée” (hiking trail), as well as white-red-white paint on rocks or trees or fences, or a yellow diamond-shaped marker. Here are some examples:
 
-![marker](/images/MyViaAlpinaExperience/marker1.JPG)
-![marker](/images/MyViaAlpinaExperience/marker2.JPG)
-![marker](/images/MyViaAlpinaExperience/marker3.JPG)
-![marker](/images/MyViaAlpinaExperience/marker4.JPG)
-![marker](/images/MyViaAlpinaExperience/marker6.JPG)
-![marker](/images/MyViaAlpinaExperience/marker7.JPG)
+![marker](/images/MyViaAlpinaExperience/marker1.JPG)  
+![marker](/images/MyViaAlpinaExperience/marker2.JPG)  
+![marker](/images/MyViaAlpinaExperience/marker3.JPG)  
+![marker](/images/MyViaAlpinaExperience/marker4.JPG)  
+![marker](/images/MyViaAlpinaExperience/marker6.JPG)  
+![marker](/images/MyViaAlpinaExperience/marker7.JPG)  
 
 When hiking in Switzerland, you'll frequently encounter cows and fences to enclose them to the farm. Remember to keep the gates closed after you pass it, and don't get close to mother cows when young calves are around! 
 
@@ -73,14 +73,15 @@ Other than training more thoroughly (with consecutive day-hikes and trekking pol
 During the first week of this trip, I was faced with the challenges coming from my own insufficient training and the over-exhaustion from hiking on consecutive days. My hip where the backpack's waist belt sits are mildly bruised. I got a blister on my toes for the very first time of my life (thankfully it was the only blister of this trip). I was sore my entire body and a night of sleep was simply not enough for recovery. I had to start taking public transit to skip through some parts because it didn't feel like I could make it without reenacting the severe illness that put me on full-time medical leave for half of 2022. I was very disappointed and felt like a failure. But I kept moving and hiked whenever I felt capable. Eventually I became strong enough and finished almost 2 sections on the last day: I hiked from Rossini\`er to Rochers de Naye to Glion on the same day, covering 19.19 miles, 6000 feet elevation gain, and 6700 feet elevation loss. Although I can't say "I finished Via Alpina Green!" at the end, I still got my rewards -- seeing the magnificent mountains and feeling in paradise. For me, it was a powerful lesson that the achievement can appear so pale when compared to the beautiful scenery one sees during the process. I may not get the certificate for finishing Via Alpina Green, but I will always remember shedding joyful tears at Rochers de Naye from the pure happiness of looking at the mountains. Compared to the official total length 241 miles with 77800 feet elevation gain, I hiked 196 miles with 56000 feet elevation gain. 
 
 # Some beautiful photos that I took
-![Urnerboden](/images/MyViaAlpinaExperience/urnerboden.JPG)
-![Engelberg](/images/MyViaAlpinaExperience/engelberg.JPG)
-![Trübsee](/images/MyViaAlpinaExperience/trübsee.JPG)
-![Blackenalp](/images/MyViaAlpinaExperience/blackenalp.JPG)
-![Kleine Scheidegg](/images/MyViaAlpinaExperience/kleinescheidegg.JPG)
-![Griesalp](/images/MyViaAlpinaExperience/griesalp.JPG)
-![from Hohtürli](/images/MyViaAlpinaExperience/fromhohtürli.JPG)
-![Oeschinensee](/images/MyViaAlpinaExperience/oeschinensee.JPG)
-![Col de Jable](/images/MyViaAlpinaExperience/coldejable.JPG)
-![Lac de l'Hongrin](/images/MyViaAlpinaExperience/lacdelhongrin.JPG)
-![Lac Leman](/images/MyViaAlpinaExperience/lacleman.JPG)
+![Urnerboden](/images/MyViaAlpinaExperience/urnerboden.JPG)  
+![Engelberg](/images/MyViaAlpinaExperience/engelberg.JPG)  
+![Trübsee](/images/MyViaAlpinaExperience/trübsee.JPG)  
+![Blackenalp](/images/MyViaAlpinaExperience/blackenalp.JPG)  
+![Kleine Scheidegg](/images/MyViaAlpinaExperience/kleinescheidegg.JPG)  
+![Griesalp](/images/MyViaAlpinaExperience/griesalp.JPG)  
+![from Hohtürli](/images/MyViaAlpinaExperience/fromhohtürli.JPG)  
+![Oeschinensee](/images/MyViaAlpinaExperience/oeschinensee.JPG)  
+![Col de Jable](/images/MyViaAlpinaExperience/coldejable.JPG)  
+![Lac de l'Hongrin](/images/MyViaAlpinaExperience/lacdelhongrin.JPG)  
+![Lac Leman](/images/MyViaAlpinaExperience/lacleman.JPG)  
+![Pointe d'Aveneyre](/images/MyViaAlpinaExperience/pointedaveneyre.JPG)  
