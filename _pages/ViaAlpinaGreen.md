@@ -57,15 +57,18 @@ I highly recommend [Switzerland Mobility app](https://apps.apple.com/app/id52719
 ![marker](/images/MyViaAlpinaExperience/marker4.JPG)
 ![marker](/images/MyViaAlpinaExperience/marker6.JPG)
 ![marker](/images/MyViaAlpinaExperience/marker7.JPG)
+When hiking in Switzerland, you'll frequently encounter cows and fences to enclose them to the farm. Remember to keep the gates closed after you pass it, and don't get close to mother cows when young calves are around! 
 
 ### Backpack content
 See [my Lighterpack list](https://lighterpack.com/r/90onsm) for the complete content of my backpack and the weight of each item. I intentionally chose to bring only 3 sets of clothing including the set I was wearing. I spent a lot of time doing laundry during this trip, but I got to pack light (28L backpack). I bought the trekking poles after having my quadriceps destroyed by the 1450m (4756ft) elevation loss from Weisstannen - Elm, and wish that I had bought them at the beginning.  
 
-# Things that I wish I had done differently
-I really wish I had saved myself a couple more rest days near the beginning. I had to forfeit two segments due to illness and soreness during the first week. On the other hand, I was feeling really good and didn’t need to take some rest days that I had scheduled near the end of my trip. Another thing I wish I had done was to wash my backpack on my rest days when I had at least 24h to hang dry it. It was smelling really really foul at the end of the trip, from the insurmountable amount of sweat that it has soaked up.
+# My thoughts
 
-# Statistics
-Coming soon~
+### Things that I wish I had done differently
+Other than training more thoroughly (with consecutive day-hikes and trekking poles), I really wish I had saved myself a couple more rest days near the beginning. I had to forfeit two segments due to illness and soreness during the first week. On the other hand, I was feeling really good and didn’t need to take some rest days that I had scheduled near the end of my trip. Another thing I wish I had done was to wash my backpack on my rest days when I had at least 24h to hang dry it. It was smelling really really foul at the end of the trip, from the insurmountable amount of sweat that it has soaked up.
+
+### To tough it out or to take public transit short-cuts?
+During the first week of this trip, I was faced with the challenges coming from my own insufficient training and the over-exhaustion from hiking on consecutive days. My hip where the backpack's waist belt sits are mildly bruised. I got a blister on my toes for the very first time of my life (thankfully it was the only blister of this trip). I was sore my entire body and a night of sleep was simply not enough for recovery. I had to start taking public transit to skip through some parts because it didn't feel like I could make it without reenacting the severe illness that put me on full-time medical leave for half of 2022. I was very disappointed and felt like a failure. But I kept moving and hiked whenever I felt capable. Eventually I became strong enough and finished almost 2 sections on the last day: I hiked from Rossini\`er to Rochers de Naye to Glion on the same day, covering 19.19 miles, 6000 feet elevation gain, and 6700 feet elevation loss. Although I can't say "I finished Via Alpina Green!" at the end, I still got my rewards -- seeing the magnificent mountains and feeling in paradise. For me, it was a powerful lesson that the achievement can appear so pale when compared to the beautiful scenery one sees during the process. I may not get the certificate for finishing Via Alpina Green, but I will always remember shedding joyful tears at Rochers de Naye from the pure happiness of looking at the mountains. Compared to the official total length 241 miles with 77800 feet elevation gain, I hiked 196 miles with 56000 feet elevation gain. 
 
 # Some beautiful photos that I’d taken
-Coming soon~
+
