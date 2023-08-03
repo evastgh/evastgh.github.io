@@ -38,10 +38,10 @@ The cost of the lodgings ranges from USD 69 to USD 160 per night. I suppose one 
 I highly recommend using the extremely convenient and reliable [SBB Mobile app](https://apps.apple.com/app/id294855237) to look up public transit schedules (frequency and duration of the trip) before booking lodgings that require transit. I bought a [half-fare card for all Swiss public transport](https://www.swiss-pass.ch/swiss-half-fare-card/) upon arrival at Zürich airport, which was a good deal as I was taking lots of public transit during my trip. Note: I did encounter a mishap where SBB canceled the trains that I was planning to take. To SBB’s credit, they only canceled the trains from 21h-00h due to engineering work. I was saved by a friend who lives nearby and let me crash in short notice for a night. Thank you, Theo.
 
 ### Collecting stamps
-One can [order a passbook online](https://www.myswitzerland.com/en-us/experiences/summer-autumn/hiking/via-alpina/via-alpina-hiking-passbook/) and collect stamps along the hiking path. The exact locations are indicated on the same website under the second section. Note: The stamps for each mountain pass are actually located at the town immediately follows, e.g. the stamp for Foopass is in Elm. 
+One can [order a passbook online](https://www.myswitzerland.com/en-us/experiences/summer-autumn/hiking/via-alpina/via-alpina-hiking-passbook/) and collect stamps along the hiking path. The exact locations are indicated on the same website under the second section. Note: The stamps for each mountain pass are actually located at the towns immediately follow, e.g. the stamp for Foopass is in Elm. 
 
 ### Training for the hikes
-I did my best to hike as much as possible during the 2-3 months leading up to my trip. In particular, I hiked every weekend with 8-13 miles and 2k-4k ft elevation gain each time. If I could re-do it, I would add (a) hiking for 2-3 consecutive days and (b) getting used to trekking poles to my training schedule. 
+I did my best to hike as much as possible during the 2-3 months leading up to my trip. In particular, I hiked every weekend with 8-13 miles and 2k-4k ft elevation gain each time. My training was insufficient and I needed more. If I could re-do it, I would add (a) hiking for 2-3 consecutive days and (b) getting used to trekking poles to my training schedule. 
 
 ### Food
 Restaurants in Switzerland are expensive. I buy food from grocery stores to keep my budget reasonable. Note that grocery stores (Migros, Coop, Aldi, etc) can close as early as 18h, especially in remote villages. Convenience stores (Migrolino, Coop Pronto, Avec, etc) near train stations are slightly more expensive and have less options but may have longer hours.
@@ -51,12 +51,14 @@ There are many water fountains along hiking trails in Switzerland. In addition, 
 
 ### Navigation
 I highly recommend [Switzerland Mobility app](https://apps.apple.com/app/id527194959) which is the official network for non-motorized traffic in Switzerland. Along the way you will also find clear signposts indicating the direction of “wanderweg” (walking trail) or “bergwanderweg / chemin de randonnée” (hiking trail), as well as white-red-white paint on rocks or trees or fences, or a yellow diamond-shaped marker. Here are some examples:
+
 ![marker](/images/MyViaAlpinaExperience/marker1.JPG)
 ![marker](/images/MyViaAlpinaExperience/marker2.JPG)
 ![marker](/images/MyViaAlpinaExperience/marker3.JPG)
 ![marker](/images/MyViaAlpinaExperience/marker4.JPG)
 ![marker](/images/MyViaAlpinaExperience/marker6.JPG)
 ![marker](/images/MyViaAlpinaExperience/marker7.JPG)
+
 When hiking in Switzerland, you'll frequently encounter cows and fences to enclose them to the farm. Remember to keep the gates closed after you pass it, and don't get close to mother cows when young calves are around! 
 
 ### Backpack content
@@ -70,5 +72,15 @@ Other than training more thoroughly (with consecutive day-hikes and trekking pol
 ### To tough it out or to take public transit short-cuts?
 During the first week of this trip, I was faced with the challenges coming from my own insufficient training and the over-exhaustion from hiking on consecutive days. My hip where the backpack's waist belt sits are mildly bruised. I got a blister on my toes for the very first time of my life (thankfully it was the only blister of this trip). I was sore my entire body and a night of sleep was simply not enough for recovery. I had to start taking public transit to skip through some parts because it didn't feel like I could make it without reenacting the severe illness that put me on full-time medical leave for half of 2022. I was very disappointed and felt like a failure. But I kept moving and hiked whenever I felt capable. Eventually I became strong enough and finished almost 2 sections on the last day: I hiked from Rossini\`er to Rochers de Naye to Glion on the same day, covering 19.19 miles, 6000 feet elevation gain, and 6700 feet elevation loss. Although I can't say "I finished Via Alpina Green!" at the end, I still got my rewards -- seeing the magnificent mountains and feeling in paradise. For me, it was a powerful lesson that the achievement can appear so pale when compared to the beautiful scenery one sees during the process. I may not get the certificate for finishing Via Alpina Green, but I will always remember shedding joyful tears at Rochers de Naye from the pure happiness of looking at the mountains. Compared to the official total length 241 miles with 77800 feet elevation gain, I hiked 196 miles with 56000 feet elevation gain. 
 
-# Some beautiful photos that I’d taken
-
+# Some beautiful photos that I took
+![Urnerboden](/images/MyViaAlpinaExperience/urnerboden.JPG)
+![Engelberg](/images/MyViaAlpinaExperience/engelberg.JPG)
+![Trübsee](/images/MyViaAlpinaExperience/trübsee.JPG)
+![Blackenalp](/images/MyViaAlpinaExperience/blackenalp.JPG)
+![Kleine Scheidegg](/images/MyViaAlpinaExperience/kleinescheidegg.JPG)
+![Griesalp](/images/MyViaAlpinaExperience/griesalp.JPG)
+![from Hohtürli](/images/MyViaAlpinaExperience/fromhohtürli.JPG)
+![Oeschinensee](/images/MyViaAlpinaExperience/oeschinensee.JPG)
+![Col de Jable](/images/MyViaAlpinaExperience/coldejable.JPG)
+![Lac de l'Hongrin](/images/MyViaAlpinaExperience/lacdelhongrin.JPG)
+![Lac Leman](/images/MyViaAlpinaExperience/lacleman.JPG)
