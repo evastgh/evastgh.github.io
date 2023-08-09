@@ -11,18 +11,17 @@ redirect_from:
 [TL;DR (one-page resume)](/files/Resume_Stephanie_Wang.pdf)   
 [TL;DR (CV)](/files/CV_Stephanie_Wang.pdf)  
 
+**I'm on the job market! I'm looking for Research Scientist / Research Engineer / Software Engineer positions where I can continue to use my mathematical skills to improve comoputer graphics algorithms / pipelines. I am looking to start in January 2024. [Let me know](mailto:evast+job@g.ucla.edu) if you have any leads!**
 
-**I am only available at 50% capacity due to a health issue and might take longer to respond to your email requests. Sorry!**
-
-I am a researcher specializing in geometric optimizations and physics simulations. My research goal is to bring mathematical advances from differential equations, optimization theory, and geometry into computer graphics and to develop new algorithms for architecture, fabrication, structural analysis, and animation. Right now, I am a Postdoc at [department of Computer Science and Engineering at University of California -- San Diego](https://cse.ucsd.edu/) working with Prof. [Albert Chern](https://cseweb.ucsd.edu/~alchern/). 
+I am a researcher specializing in geometric optimization and physics simulation. My research goal is to bring mathematical advances from differential equations, optimization, and geometry into computer graphics and to develop new algorithms for architecture, fabrication, structural analysis, and animation. Right now, I am a Postdoc at [department of Computer Science and Engineering at University of California -- San Diego](https://cse.ucsd.edu/) working with Prof. [Albert Chern](https://cseweb.ucsd.edu/~alchern/). 
 I received my PhD in [Computational Applied Mathematics at University of California -- Los Angeles](https://www.math.ucla.edu/research/cam) in March 2020. 
 My Doctoral Dissertation was on Material Point Method and its improvements, advised by Prof. [Joseph Teran](https://www.math.ucla.edu/~jteran/). 
 
 **Community Service**  
-I volunteer and organize for causes of the community. I served at [Women in Math at UCLA](https://www.math.ucla.edu/grad/women-in-math), UCLA Math Grad Student Organization, [UCLA Math and Physical Sciences Council](https://www.math.ucla.edu/~mpsc/math/), and [UCLA Grad Student Association](https://gsa.asucla.ucla.edu/) for years. In 2017 I created the [UCLA Women In Math Mentorship Program](https://www.math.ucla.edu/grad/women-in-math-mentorship-program) to strengthen the community and encourage connection between undergraduate and graduate women in math.  
+I served at [Women in Math at UCLA](https://www.math.ucla.edu/grad/women-in-math), UCLA Math Grad Student Organization, [UCLA Math and Physical Sciences Council](https://www.math.ucla.edu/~mpsc/math/), and [UCLA Grad Student Association](https://gsa.asucla.ucla.edu/) for years. In 2017 I created the [UCLA Women In Math Mentorship Program](https://www.math.ucla.edu/grad/women-in-math-mentorship-program) to strengthen the community and encourage connection between undergraduate and graduate women in math.  
 
 **Personal**  
-I spent most of my free time hiking and cooking (see [gallery](https://evastgh.github.io/gallery/)). 
+I spent most of my free time hiking (see [my Via Alpina experience](/MyViaAlpinaGreenExperience/)) and cooking (see [gallery](/gallery/)). 
 [WiGRAPH](https://www.wigraph.org/) featured me in an [interview](https://www.wigraph.org/post-postdocs.html) and you can find more about me there.
 
 
