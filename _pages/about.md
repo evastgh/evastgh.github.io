@@ -11,7 +11,7 @@ redirect_from:
 [TL;DR (one-page resume)](/files/Resume_Stephanie_Wang.pdf)   
 [TL;DR (CV)](/files/CV_Stephanie_Wang.pdf)  
 
-**I'm on the job market! I'm looking for Research Scientist / Research Engineer / Software Engineer positions where I can continue to use my mathematical skills to improve comoputer graphics algorithms / pipelines. I am looking to start in January 2024. [Let me know](mailto:evast+job@g.ucla.edu) if you have any leads!**
+**I'm on the job market! I'm looking for Research Scientist / Research Engineer / Software Engineer positions where I can continue to use my mathematical skills to improve computer graphics algorithms / pipelines. I am looking to start in January 2024. [Let me know](mailto:evast+job@g.ucla.edu) if you have any leads!**
 
 I am a researcher specializing in geometric optimization and physics simulation. My research goal is to bring mathematical advances from differential equations, optimization, and geometry into computer graphics and to develop new algorithms for architecture, fabrication, structural analysis, and animation. Right now, I am a Postdoc at [department of Computer Science and Engineering at University of California -- San Diego](https://cse.ucsd.edu/) working with Prof. [Albert Chern](https://cseweb.ucsd.edu/~alchern/). 
 I received my PhD in [Computational Applied Mathematics at University of California -- Los Angeles](https://www.math.ucla.edu/research/cam) in March 2020. 
