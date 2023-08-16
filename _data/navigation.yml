@@ -24,8 +24,8 @@ main:
   - title: "Exterior Calculus in Graphics"
     url: /ExteriorCalculusInGraphics/
 
-  - title: "Cooking"
-    url: /cooking/
+  # - title: "Cooking"
+  #   url: /cooking/
         
   - title: "My Via Alpina Green Experience"
     url: /ViaAlpinaGreen/

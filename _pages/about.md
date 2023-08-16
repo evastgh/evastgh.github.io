@@ -11,17 +11,20 @@ redirect_from:
 [TL;DR (one-page resume)](/files/Resume_Stephanie_Wang.pdf)   
 [TL;DR (CV)](/files/CV_Stephanie_Wang.pdf)  
 
-**I'm on the job market! I'm looking for Research Scientist / Research Engineer / Software Engineer positions where I can continue to use my mathematical skills to improve computer graphics algorithms / pipelines. I am looking to start in January 2024. [Let me know](mailto:evast+job@g.ucla.edu) if you have any leads!**
+**Hire me! I'm looking for Research Scientist / Research Engineer / Software Engineer positions where I can use my mathematical and research skills to improve computer graphics algorithms / pipelines. I am looking to start in January 2024. [Let me know](mailto:evast+job@g.ucla.edu) if you have any leads!**
 
-I am a researcher specializing in geometric optimization and physics simulation. My research goal is to bring mathematical advances from differential equations, optimization, and geometry into computer graphics and to develop new algorithms for architecture, fabrication, structural analysis, and animation. Right now, I am a Postdoc at [department of Computer Science and Engineering at University of California -- San Diego](https://cse.ucsd.edu/) working with Prof. [Albert Chern](https://cseweb.ucsd.edu/~alchern/). 
-I received my PhD in [Computational Applied Mathematics at University of California -- Los Angeles](https://www.math.ucla.edu/research/cam) in March 2020. 
+I am a computer graphics researcher who has worked in and published papers in the fields of geometric deep learning, geometry optimization, and physics-based simulation of all kinds of materials (solid, fluid, wave, cloth, hair, plasticity, visco-elasto-plasticity, and fracture). 
+From enhancing the physical dynamics in animation and games to improving industrial manufacturing processes, my work aims to provide mathematical and robust engineering solutions to bring the virtual world to reality. 
+I am very fluent with programming skills (C++ and python) as well as prototyping tools like Houdini. 
+I have extensive training and qualifications in applied and computational mathematics and received my PhD in mathematics from [University of California Los Angeles](https://www.math.ucla.edu/research/cam). 
 My Doctoral Dissertation was on Material Point Method and its improvements, advised by Prof. [Joseph Teran](https://www.math.ucla.edu/~jteran/). 
+Right now, I am a Postdoc at [department of Computer Science and Engineering at University of California San Diego](https://cse.ucsd.edu/) working with Prof. [Albert Chern](https://cseweb.ucsd.edu/~alchern/). 
 
 **Community Service**  
 I served at [Women in Math at UCLA](https://www.math.ucla.edu/grad/women-in-math), UCLA Math Grad Student Organization, [UCLA Math and Physical Sciences Council](https://www.math.ucla.edu/~mpsc/math/), and [UCLA Grad Student Association](https://gsa.asucla.ucla.edu/) for years. In 2017 I created the [UCLA Women In Math Mentorship Program](https://www.math.ucla.edu/grad/women-in-math-mentorship-program) to strengthen the community and encourage connection between undergraduate and graduate women in math.  
 
 **Personal**  
-I spent most of my free time hiking (see [my Via Alpina experience](/MyViaAlpinaGreenExperience/)) and cooking (see [gallery](/gallery/)). 
+I spent most of my free time hiking (see [my Via Alpina experience](/MyViaAlpinaGreenExperience/)) and cooking (see [my little cooking blog](/cooking/)). 
 [WiGRAPH](https://www.wigraph.org/) featured me in an [interview](https://www.wigraph.org/post-postdocs.html) and you can find more about me there.
 
 
