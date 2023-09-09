@@ -13,18 +13,18 @@ redirect_from:
 
 **Hire me! I'm looking for Research Scientist / Research Engineer / Software Engineer positions where I can use my mathematical and research skills to improve computer graphics algorithms / pipelines. I am looking to start in January 2024. [Let me know](mailto:evast+job@g.ucla.edu) if you have any leads!**
 
-I am a computer graphics researcher who has worked in and published papers in the fields of geometric deep learning, geometry optimization, and physics-based simulation of all kinds of materials (solid, fluid, wave, cloth, hair, plasticity, visco-elasto-plasticity, and fracture). 
-From enhancing the physical dynamics in animation and games to improving industrial manufacturing processes, my work aims to provide mathematical and robust engineering solutions to bring the virtual world to reality. 
-I am very fluent with programming skills (C++ and python) as well as prototyping tools like Houdini. 
-I have extensive training and qualifications in applied and computational mathematics and received my PhD in mathematics from [University of California Los Angeles](https://www.math.ucla.edu/research/cam). 
-My Doctoral Dissertation was on Material Point Method and its improvements, advised by Prof. [Joseph Teran](https://www.math.ucla.edu/~jteran/). 
-Right now, I am a Postdoc at [department of Computer Science and Engineering at University of California San Diego](https://cse.ucsd.edu/) working with Prof. [Albert Chern](https://cseweb.ucsd.edu/~alchern/). 
+I am a computer graphics researcher who has worked in and published papers in the fields of **geometric deep learning**, **geometry optimization**, and **physics-based simulation** of all kinds of materials (solids, fluids, waves, cloth, hair, friction / contact, deformable bodies, plasticity, visco-elasto-plasticity, and fracture / damage). 
+My research aims to provide mathematical and engineering solutions to bring the virtual world to reality by building robust and high-performance computer graphics algorithms. 
+I have 5-year experience in developing and maintaining large-scale C++ libraries and 5-year experience of prototyping and implementing research codes in Houdini. 
+I have extensive training and qualifications in applied and computational mathematics and received my PhD in (applied and computational) mathematics from [University of California Los Angeles](https://www.math.ucla.edu/research/cam). 
+My PhD advisor was Prof. [Joseph Teran](https://www.math.ucla.edu/~jteran/) and I worked on similating various materials using Material Point Method and Finite Element Method when I was at UCLA. 
+Right now, I am a Postdoc at [department of Computer Science and Engineering at University of California San Diego](https://cse.ucsd.edu/) working on geometry optimization and fluid simulation. My postdoc mentor is Prof. [Albert Chern](https://cseweb.ucsd.edu/~alchern/). 
 
 **Community Service**  
-I served at [Women in Math at UCLA](https://www.math.ucla.edu/grad/women-in-math), UCLA Math Grad Student Organization, [UCLA Math and Physical Sciences Council](https://www.math.ucla.edu/~mpsc/math/), and [UCLA Grad Student Association](https://gsa.asucla.ucla.edu/) for years. In 2017 I created the [UCLA Women In Math Mentorship Program](https://www.math.ucla.edu/grad/women-in-math-mentorship-program) to strengthen the community and encourage connection between undergraduate and graduate women in math.  
+I served at [Women in Math at UCLA](https://www.math.ucla.edu/grad/women-in-math), UCLA Math Grad Student Organization, [UCLA Math and Physical Sciences Council](https://www.math.ucla.edu/~mpsc/math/), and [UCLA Grad Student Association](https://gsa.asucla.ucla.edu/) for years. In 2017 I created the [UCLA Women In Math Mentorship Program](https://www.math.ucla.edu/grad/women-in-math-mentorship-program) to strengthen the community and encourage connections between undergraduate and graduate women in math.  
 
 **Personal**  
-I spent most of my free time hiking (see [my Via Alpina experience](/MyViaAlpinaGreenExperience/)) and cooking (see [my little cooking blog](/cooking/)). 
+I spend most of my free time hiking (see [my Via Alpina experience](/MyViaAlpinaGreenExperience/)) and cooking (see [my little cooking blog](/cooking/)). 
 [WiGRAPH](https://www.wigraph.org/) featured me in an [interview](https://www.wigraph.org/post-postdocs.html) and you can find more about me there.
 
 

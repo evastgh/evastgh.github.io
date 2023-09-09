@@ -1,4 +1,6 @@
 _site/
+.bundle/
+vendor/
 
 ## MacOS storage
 *.DS_store
@@ -272,6 +274,7 @@ TSWLatexianTemp*
 *.el
 
 # expex forward references with \gathertags
+tags
 *-tags.tex
 
 # standalone packages
@@ -279,3 +282,4 @@ TSWLatexianTemp*
 
 # Makeindex log files
 *.lpz
+
