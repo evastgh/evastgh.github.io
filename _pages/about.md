@@ -37,16 +37,16 @@ Publications and Preprints
 > SIGGRAPH '23: ACM SIGGRAPH 2023 Courses
 > Visit [project page](/ECIG/) for abstract, course notes, and SIGGRAPH 2023 presentation info!
 
-![loopyphysics](/images/loopy_cover.png)
+[![loopyphysics](/images/loopy_cover.png)](https://shiyang-jia.com/physical_cyclic_animations/)
 > ### Physical Cyclic Animations  
 > Shiyang Jia, **Stephanie Wang**, Tzu-Mao Li, Albert Chern  
-> Proceedings of the ACM on Computer Graphics and Interactive Techniques (SCA 2023) (accepted)  
-> Paper and video coming soon!
+> Proceedings of the ACM on Computer Graphics and Interactive Techniques (SCA 2023)
+> Paper [(pdf)](https://shiyang-jia.com/physical_cyclic_animations/paper.pdf) Video [(YouTube)](https://www.youtube.com/watch?v=y-cW0uWe68s&feature=youtu.be) 
 
 [![kelvinwaves](/images/kelvinwaves_cover.png)](https://arxiv.org/abs/2305.08033)
 > ### Wave Simulations in Infinite Spacetime  
 > Chad McKell, Mohammad Sina Nabizadeh, **Stephanie Wang**, Albert Chern  
-> Preprint [(arXiv pdf)](https://arxiv.org/abs/2305.08033)
+> Preprint [(arXiv pdf)](https://arxiv.org/abs/2305.08033) 
 
 [![fluidcohomology](/images/fluidcohomology_cover.png)](https://yhesper.github.io/fc23/fc23.html)
 > ### Fluid Cohomology  
