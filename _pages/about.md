@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+![banner](/images/Banner2023Dec.gif)
+
+
 [TL;DR (one-page resume)](/files/Resume_Stephanie_Wang.pdf)   
 [TL;DR (CV)](/files/CV_Stephanie_Wang.pdf)  
 
