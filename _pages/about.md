@@ -14,14 +14,10 @@ redirect_from:
 [TL;DR (one-page resume)](/files/Resume_Stephanie_Wang.pdf)   
 [TL;DR (CV)](/files/CV_Stephanie_Wang.pdf)  
 
-**Hire me! I'm looking for Research Scientist / Research Engineer / Software Engineer positions where I can use my mathematical and research skills to improve computer graphics algorithms / pipelines. I am looking to start in January 2024. [Let me know](mailto:evast+job@g.ucla.edu) if you have any leads!**
+I am a Research Engineer at [Adobe Research](https://research.adobe.com/) Seattle, working on geometry and physics related research and tools. I have worked in and published papers in the fields of **geometric deep learning**, **geometry optimization**, and **physics-based simulation** of all kinds of materials (solids, fluids, waves, cloth, hair, friction / contact, deformable bodies, plasticity, visco-elasto-plasticity, and fracture / damage). My research interests are in building fast and powerful mathematical models into robust engineering solutions to everything in computer graphics. 
 
-I am a computer graphics researcher who has worked in and published papers in the fields of **geometric deep learning**, **geometry optimization**, and **physics-based simulation** of all kinds of materials (solids, fluids, waves, cloth, hair, friction / contact, deformable bodies, plasticity, visco-elasto-plasticity, and fracture / damage). 
-My research aims to provide mathematical and engineering solutions to bring the virtual world to reality by building robust and high-performance computer graphics algorithms. 
-I have 5-year experience in developing and maintaining large-scale C++ libraries and 5-year experience of prototyping and implementing research codes in Houdini. 
-I have extensive training and qualifications in applied and computational mathematics and received my PhD in (applied and computational) mathematics from [University of California Los Angeles](https://www.math.ucla.edu/research/cam). 
-My PhD advisor was Prof. [Joseph Teran](https://www.math.ucla.edu/~jteran/) and I worked on similating various materials using Material Point Method and Finite Element Method when I was at UCLA. 
-Right now, I am a Postdoc at [department of Computer Science and Engineering at University of California San Diego](https://cse.ucsd.edu/) working on geometry optimization and fluid simulation. My postdoc mentor is Prof. [Albert Chern](https://cseweb.ucsd.edu/~alchern/). 
+I received my PhD in (Applied and Computational) Mathematics from [UCLA](https://www.math.ucla.edu/research/cam) advised by Prof. [Joseph Teran](https://www.math.ucla.edu/~jteran/), and worked as a postdoc at [UCSD](https://cse.ucsd.edu/) with Prof. [Albert Chern](https://cseweb.ucsd.edu/~alchern/).  
+
 
 **Community Service**  
 I served at [Women in Math at UCLA](https://www.math.ucla.edu/grad/women-in-math), UCLA Math Grad Student Organization, [UCLA Math and Physical Sciences Council](https://www.math.ucla.edu/~mpsc/math/), and [UCLA Grad Student Association](https://gsa.asucla.ucla.edu/) for years. In 2017 I created the [UCLA Women In Math Mentorship Program](https://www.math.ucla.edu/grad/women-in-math-mentorship-program) to strengthen the community and encourage connections between undergraduate and graduate women in math.  
