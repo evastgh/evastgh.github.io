@@ -11,7 +11,7 @@ title                    : "Stephanie Wang"
 title_separator          : "-"
 name                     : &name "Stephanie Wang"
 description              : &description "A close enough sketched protrait of myself."
-url                      : https://evastgh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://stephaniewang.page # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "evastgh/evastgh.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : # "Stephanie Wang"
   avatar           : "profile.jpg"
-  bio              : "Postdoc, UCSD Computer Science and Engineering"
-  location         : "San Diego, CA"
+  bio              : "Research Engineer at Adobe"
+  location         : "Seattle, WA, U.S.A."
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=uBOfliUAAAAJ"
