@@ -8,22 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-![banner](/images/Banner2023Dec.gif)
-
+<!-- ![banner](/images/Banner2023Dec.gif) -->
 
 [TL;DR (one-page resume)](/files/Resume_Stephanie_Wang.pdf)   
 [TL;DR (CV)](/files/CV_Stephanie_Wang.pdf)  
 
 I am a Research Engineer at [Adobe Research](https://research.adobe.com/) Seattle, working on geometry and physics related research and tools. I have worked in and published papers in the fields of **geometric deep learning**, **geometry optimization**, and **physics-based simulation** of all kinds of materials (solids, fluids, waves, cloth, hair, friction / contact, deformable bodies, plasticity, visco-elasto-plasticity, and fracture / damage). My research interests are in building fast and powerful mathematical models into robust engineering solutions to everything in computer graphics. 
 
-I received my PhD in (Applied and Computational) Mathematics from [UCLA](https://www.math.ucla.edu/research/cam) advised by Prof. [Joseph Teran](https://www.math.ucla.edu/~jteran/), and worked as a postdoc at [UCSD Computer Science and Engineering](https://cse.ucsd.edu/) with Prof. [Albert Chern](https://cseweb.ucsd.edu/~alchern/).  
+I went to the following schools:  
+Postdoc at [UCSD](https://cse.ucsd.edu/), mentored by  Prof. [Albert Chern](https://cseweb.ucsd.edu/~alchern/).  
+PhD in (Applied and Computational) Mathematics from [UCLA](https://www.math.ucla.edu/research/cam), advised by Prof. [Joseph Teran](https://www.math.ucla.edu/~jteran/).  
+BS in Mathematics from [NTU](http://www.math.ntu.edu.tw/en/).  
 
+I served at the following organizations:
+[Women in Math at UCLA](https://www.math.ucla.edu/grad/women-in-math).  
+UCLA Math Grad Student Organization.  
+[UCLA Math and Physical Sciences Council](https://www.math.ucla.edu/~mpsc/math/).  
+[UCLA Grad Student Association](https://gsa.asucla.ucla.edu/).  
+In 2017 I created the [UCLA Women In Math Mentorship Program](https://www.math.ucla.edu/grad/women-in-math-mentorship-program) to strengthen the community and encourage connections between undergraduate and graduate women in math.  
 
-**Community Service**  
-I served at [Women in Math at UCLA](https://www.math.ucla.edu/grad/women-in-math), [UCLA Math Grad Student Organization](https://ww3.math.ucla.edu/student-groups/), [UCLA Math and Physical Sciences Council](https://www.math.ucla.edu/~mpsc/math/), and [UCLA Grad Student Association](https://gsa.asucla.ucla.edu/) for years. In 2017 I created the [UCLA Women In Math Mentorship Program](https://www.math.ucla.edu/grad/women-in-math-mentorship-program) to encourage connections and mentorship between undergraduate and graduate women in math.  
-
-**Personal**  
-I like strength training, hiking (see [my Via Alpina experience](/MyViaAlpinaGreenExperience/)), and cooking. 
+I spend most of my free time hiking (see [my Via Alpina experience](/MyViaAlpinaGreenExperience/)) and cooking (see [my little cooking blog](/cooking/)). 
 [WiGRAPH](https://www.wigraph.org/) featured me in an [interview](https://www.wigraph.org/post-postdocs.html) and you can find more about me there.
 
 
@@ -81,7 +85,7 @@ Publications and Preprints
 > [Science Direct link](https://www.sciencedirect.com/science/article/pii/S0266352X21002822)
 
 [![mincurr](/images/mincurr_cover.jpg)](https://cseweb.ucsd.edu/~alchern/projects/MinimalCurrent/)
-> ### Computing minimal surfaces with differential forms ([replicability verified](http://www.replicabilitystamp.org/#https-github-com-evastgh-minimal-current))
+> ### Computing minimal surfaces with differential forms
 > **Stephanie Wang** and Albert Chern  
 > ACM Transactions on Graphics (SIGGRAPH 2021)  
 > Paper [(pdf)](files/mincurr_paper.pdf) Video [(Vimeo)](https://vimeo.com/542904902) SIGGRAPH talk [(Vimeo)](https://vimeo.com/558315135)  
