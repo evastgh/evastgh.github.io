@@ -13,22 +13,19 @@ redirect_from:
 [TL;DR (one-page resume)](/files/Resume_Stephanie_Wang.pdf)   
 [TL;DR (CV)](/files/CV_Stephanie_Wang.pdf)  
 
-I am a Research Engineer at [Adobe Research](https://research.adobe.com/) Seattle, working on geometry and physics related research and tools. I have worked in and published papers in the fields of **geometric deep learning**, **geometry optimization**, and **physics-based simulation** of all kinds of materials (solids, fluids, waves, cloth, hair, friction / contact, deformable bodies, plasticity, visco-elasto-plasticity, and fracture / damage). My research interests are in building fast and powerful mathematical models into robust engineering solutions to everything in computer graphics. 
+I am a Research Engineer at [Adobe Research](https://research.adobe.com/) based in Seattle, working on geometry- and physics-related research and tools. I have worked in and published papers in the fields of **geometric deep learning**, **geometry optimization**, and **physics-based simulation** of all kinds of materials (solids, fluids, waves, cloth, hair, friction/contact, deformable bodies, plasticity, visco-elasto-plasticity, and fracture/damage). I like to build powerful math into robust engineering solutions for everything in computer graphics and their GenAI models. At the moment, I find myself particularly excited about Geometric Measure Theory and its boundless applications in implicit geometry representations.   
 
-I went to the following schools:  
-Postdoc at [UCSD](https://cse.ucsd.edu/), mentored by  Prof. [Albert Chern](https://cseweb.ucsd.edu/~alchern/).  
-PhD in (Applied and Computational) Mathematics from [UCLA](https://www.math.ucla.edu/research/cam), advised by Prof. [Joseph Teran](https://www.math.ucla.edu/~jteran/).  
-BS in Mathematics from [NTU](http://www.math.ntu.edu.tw/en/).  
+My academic background includes [postdoc at UCSD](https://cse.ucsd.edu/) with mentor Prof. [Albert Chern](https://cseweb.ucsd.edu/~alchern/), [PhD in Math from UCLA](https://www.math.ucla.edu/research/cam) with advisor Prof. [Joseph Teran](https://www.math.ucla.edu/~jteran/), and [BS in Math from NTU](http://www.math.ntu.edu.tw/en/).   
 
-I served at the following organizations:
+I served in the following organizations:
 [Women in Math at UCLA](https://www.math.ucla.edu/grad/women-in-math).  
 UCLA Math Grad Student Organization.  
 [UCLA Math and Physical Sciences Council](https://www.math.ucla.edu/~mpsc/math/).  
 [UCLA Grad Student Association](https://gsa.asucla.ucla.edu/).  
-In 2017 I created the [UCLA Women In Math Mentorship Program](https://www.math.ucla.edu/grad/women-in-math-mentorship-program) to strengthen the community and encourage connections between undergraduate and graduate women in math.  
+In 2017, I created the [UCLA Women In Math Mentorship Program](https://www.math.ucla.edu/grad/women-in-math-mentorship-program) to strengthen the community and encourage connections between undergraduate and graduate women in math.  
 
 I spend most of my free time hiking (see [my Via Alpina experience](/MyViaAlpinaGreenExperience/)) and cooking (see [my little cooking blog](/cooking/)). 
-[WiGRAPH](https://www.wigraph.org/) featured me in an [interview](https://www.wigraph.org/post-postdocs.html) and you can find more about me there.
+[WiGRAPH](https://www.wigraph.org/) featured me in an [interview](https://www.wigraph.org/post-postdocs.html), and you can find out more about me there.
 
 
 Publications and Preprints
