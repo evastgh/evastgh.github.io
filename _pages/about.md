@@ -31,6 +31,12 @@ I spend most of my free time hiking (see [my Via Alpina experience](/MyViaAlpina
 Publications and Preprints
 ======
 
+[![implicitUVs](/images/implicitUVs_cover.jpg)](https://research.adobe.com/publication/implicit-uvs-real-time-semi-global-parameterization-of-implicit-surfaces/)
+> ### Implicit UVs: Real-time Semi-global Parameterization of Implicit Surfaces
+> Baptiste Genest, Pierre Gueth, Jérémy Levallois, Stephanie Wang
+> Computer Graphics Forum (Eurographics 2025)
+> Paper [(pdf)](https://diglib.eg.org/bitstreams/75070487-ef35-4e4c-9989-c7cb1c90ab50/download) Supplemental [(pdf)](https://diglib.eg.org/bitstreams/7346be19-36a8-41a9-8dd5-fc61bc63a460/download) Video [(download mp4)](https://diglib.eg.org/bitstreams/cac98f2c-bb44-41db-9a17-0b79b556302e/download) 
+
 [![ECIG](/images/ECIG_cover.png)](/ECIG/)
 > ### Exterior Calculus in Graphics  
 > **Stephanie Wang**, Mohammad Sina Nabizadeh, Albert Chern  
@@ -38,7 +44,7 @@ Publications and Preprints
 > Visit [project page](/ECIG/) for abstract, course notes, and SIGGRAPH 2023 presentation info!
 
 [![loopyphysics](/images/loopy_cover.png)](https://shiyang-jia.com/physical_cyclic_animations/)
-> ### Physical Cyclic Animations  
+> ### Physical Cyclic Animations
 > Shiyang Jia, **Stephanie Wang**, Tzu-Mao Li, Albert Chern  
 > Proceedings of the ACM on Computer Graphics and Interactive Techniques (SCA 2023)
 > Paper [(pdf)](https://shiyang-jia.com/physical_cyclic_animations/paper.pdf) Video [(YouTube)](https://www.youtube.com/watch?v=y-cW0uWe68s&feature=youtu.be) 
