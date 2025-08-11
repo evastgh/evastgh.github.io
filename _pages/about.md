@@ -13,8 +13,10 @@ redirect_from:
 [TL;DR (one-page resume)](/files/Resume_Stephanie_Wang.pdf)   
 [TL;DR (CV)](/files/CV_Stephanie_Wang.pdf)  
 
-I am a Research Engineer at [Adobe Research](https://research.adobe.com/) based in Seattle, working on geometry- and physics-related research and tools. I have worked in and published papers in the fields of **geometric deep learning**, **geometry optimization**, and **physics-based simulation** of all kinds of materials (solids, fluids, waves, cloth, hair, friction/contact, deformable bodies, plasticity, visco-elasto-plasticity, and fracture/damage). I like to build powerful math into robust engineering solutions for everything in computer graphics and their GenAI models. At the moment, I find myself particularly excited about Geometric Measure Theory and its boundless applications in implicit geometry representations.   
+I am an unaffiliated researcher working on geometry, physics simulation, and computer graphics. 
+I have worked in and published papers in the fields of **geometric deep learning**, **geometry optimization**, and **physics-based simulation** of all kinds of materials (solids, fluids, waves, cloth, hair, friction/contact, deformable bodies, plasticity, visco-elasto-plasticity, and fracture/damage). I like to build powerful math into robust engineering solutions for everything in computer graphics and their GenAI models. At the moment, I find myself particularly excited about Geometric Measure Theory and its boundless applications in implicit geometry representations.   
 
+Previously I worked as a Research Engineer at [Adobe Research](https://research.adobe.com/). 
 My academic background includes [postdoc at UCSD](https://cse.ucsd.edu/) with mentor Prof. [Albert Chern](https://cseweb.ucsd.edu/~alchern/), [PhD in Math from UCLA](https://www.math.ucla.edu/research/cam) with advisor Prof. [Joseph Teran](https://www.math.ucla.edu/~jteran/), and [BS in Math from NTU](http://www.math.ntu.edu.tw/en/).   
 
 I served in the following organizations:
