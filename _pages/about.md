@@ -37,7 +37,7 @@ Publications and Preprints
 > ### Implicit UVs: Real-time Semi-global Parameterization of Implicit Surfaces  
 > Baptiste Genest, Pierre Gueth, Jérémy Levallois, Stephanie Wang  
 > Computer Graphics Forum (Eurographics 2025)  
-> Paper [(pdf)](https://diglib.eg.org/bitstreams/75070487-ef35-4e4c-9989-c7cb1c90ab50/download) Supplemental [(pdf)](https://diglib.eg.org/bitstreams/7346be19-36a8-41a9-8dd5-fc61bc63a460/download) Video [(download mp4)](https://diglib.eg.org/bitstreams/cac98f2c-bb44-41db-9a17-0b79b556302e/download) Fast-forward [(YouTube)](https://youtu.be/dK5JPHylzOg)
+> Paper [(pdf)](https://diglib.eg.org/bitstreams/75070487-ef35-4e4c-9989-c7cb1c90ab50/download) Supplemental [(pdf)](https://diglib.eg.org/bitstreams/7346be19-36a8-41a9-8dd5-fc61bc63a460/download) Video [(download mp4)](https://diglib.eg.org/bitstreams/cac98f2c-bb44-41db-9a17-0b79b556302e/download) Fast-forward [(YouTube)](https://youtu.be/dK5JPHylzOg) 23-min talk [(YouTube)](https://www.youtube.com/watch?v=CxpEMMbf5UM)
 
 [![ECIG](/images/ECIG_cover.png)](/ECIG/)
 > ### Exterior Calculus in Graphics  
