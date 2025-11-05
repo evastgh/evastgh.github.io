@@ -33,6 +33,13 @@ I spend most of my free time hiking (see [my Via Alpina experience](/MyViaAlpina
 Publications and Preprints
 ======
 
+![neuralsurfacing3dsketches](/images/neuralsurfacing3dsketches.png)
+> ### Variational Neural Surfacing of 3D Sketches  
+> Yutao Zhang, Stephanie Wang, Mikhail Bessmeltsev  
+> SA '25: ACM SIGGRAPH Asia 2025 Conference Papers  
+> Paper [(pdf)](http://www-labs.iro.umontreal.ca/~bmpix/pdf/surfacing_3d_sketches.pdf)
+
+
 [![implicitUVs](/images/implicitUVs_cover.jpg)](https://research.adobe.com/publication/implicit-uvs-real-time-semi-global-parameterization-of-implicit-surfaces/)
 > ### Implicit UVs: Real-time Semi-global Parameterization of Implicit Surfaces  
 > Baptiste Genest, Pierre Gueth, Jérémy Levallois, Stephanie Wang  
