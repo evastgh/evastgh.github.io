@@ -35,51 +35,51 @@ Publications and Preprints
 
 ![neuralsurfacing3dsketches](/images/neuralsurfacing3dsketches.png)
 > ### Variational Neural Surfacing of 3D Sketches  
-> Yutao Zhang, Stephanie Wang, Mikhail Bessmeltsev  
+> [Yutao Zhang](https://zytadam.github.io/), Stephanie Wang, [Mikhail Bessmeltsev](http://www-labs.iro.umontreal.ca/~bmpix/)  
 > SA '25: ACM SIGGRAPH Asia 2025 Conference Papers  
-> Paper [(pdf)](http://www-labs.iro.umontreal.ca/~bmpix/pdf/surfacing_3d_sketches.pdf)
+> Paper [(pdf)](http://www-labs.iro.umontreal.ca/~bmpix/pdf/surfacing_3d_sketches.pdf) Source code [(Python)](https://github.com/zytadam/Variational-Neural-Surfacing-of-3D-Sketches)
 
 
 [![implicitUVs](/images/implicitUVs_cover.jpg)](https://research.adobe.com/publication/implicit-uvs-real-time-semi-global-parameterization-of-implicit-surfaces/)
 > ### Implicit UVs: Real-time Semi-global Parameterization of Implicit Surfaces  
-> Baptiste Genest, Pierre Gueth, Jérémy Levallois, Stephanie Wang  
+> [Baptiste Genest](https://baptiste-genest.github.io/), [Pierre Gueth](https://research.adobe.com/person/pierre-gueth-2/), [Jérémy Levallois](https://research.adobe.com/person/jeremy-levallois/), Stephanie Wang  
 > Computer Graphics Forum (Eurographics 2025)  
-> Paper [(pdf)](https://diglib.eg.org/bitstreams/75070487-ef35-4e4c-9989-c7cb1c90ab50/download) Supplemental [(pdf)](https://diglib.eg.org/bitstreams/7346be19-36a8-41a9-8dd5-fc61bc63a460/download) Video [(download mp4)](https://diglib.eg.org/bitstreams/cac98f2c-bb44-41db-9a17-0b79b556302e/download) Fast-forward [(YouTube)](https://youtu.be/dK5JPHylzOg) 23-min talk [(YouTube)](https://www.youtube.com/watch?v=CxpEMMbf5UM)
+e Paper [(pdf)](https://diglib.eg.org/bitstreams/75070487-ef35-4e4c-9989-c7cb1c90ab50/download) Supplemental [(pdf)](https://diglib.eg.org/bitstreams/7346be19-36a8-41a9-8dd5-fc61bc63a460/download) Video [(download mp4)](https://diglib.eg.org/bitstreams/cac98f2c-bb44-41db-9a17-0b79b556302e/download) Fast-forward [(YouTube)](https://youtu.be/dK5JPHylzOg) 23-min talk [(YouTube)](https://www.youtube.com/watch?v=CxpEMMbf5UM)
 
 [![ECIG](/images/ECIG_cover.png)](/ECIG/)
 > ### Exterior Calculus in Graphics  
-> **Stephanie Wang**, Mohammad Sina Nabizadeh, Albert Chern  
+> **Stephanie Wang**, [Mohammad Sina Nabizadeh](https://sinabiz.github.io/), [Albert Chern](https://cseweb.ucsd.edu/~alchern/)  
 > SIGGRAPH '23: ACM SIGGRAPH 2023 Courses  
 > Visit [project page](/ECIG/) for abstract, course notes, and SIGGRAPH 2023 presentation info!
 
 [![loopyphysics](/images/loopy_cover.png)](https://shiyang-jia.com/physical_cyclic_animations/)
 > ### Physical Cyclic Animations  
-> Shiyang Jia, **Stephanie Wang**, Tzu-Mao Li, Albert Chern  
+> [Shiyang Jia](https://pielet.github.io/), **Stephanie Wang**, [Tzu-Mao Li](https://cseweb.ucsd.edu/~tzli/), [Albert Chern](https://cseweb.ucsd.edu/~alchern/)  
 > Proceedings of the ACM on Computer Graphics and Interactive Techniques (SCA 2023)  
 > Paper [(pdf)](https://shiyang-jia.com/physical_cyclic_animations/paper.pdf) Video [(YouTube)](https://www.youtube.com/watch?v=y-cW0uWe68s&feature=youtu.be) 
 
 [![kelvinwaves](/images/kelvinwaves_cover.png)](https://arxiv.org/abs/2305.08033)
 > ### Wave Simulations in Infinite Spacetime  
-> Chad McKell, Mohammad Sina Nabizadeh, **Stephanie Wang**, Albert Chern  
+> [Chad McKell](https://chadmckell.com/), [Mohammad Sina Nabizadeh](https://sinabiz.github.io/), **Stephanie Wang**, [Albert Chern](https://cseweb.ucsd.edu/~alchern/)  
 > Preprint [(arXiv pdf)](https://arxiv.org/abs/2305.08033) 
 
 [![fluidcohomology](/images/fluidcohomology_cover.png)](https://yhesper.github.io/fc23/fc23.html)
 > ### Fluid Cohomology  
-> Hang Yin, Mohammad Sina Nabizadeh, Baichuan Wu, **Stephanie Wang**, Albert Chern  
+> [Hang Yin](https://yhesper.github.io/), [Mohammad Sina Nabizadeh](https://sinabiz.github.io/), [Baichuan Wu](https://acsweb.ucsd.edu/~bwu/), **Stephanie Wang**, [Albert Chern](https://cseweb.ucsd.edu/~alchern/)  
 > ACM Transactions on Graphics (SIGGRAPH 2023)  
 > Paper [(pdf)](https://yhesper.github.io/fc23/Fluid_Cohomology_Final.pdf) Video [(YouTube)](https://www.youtube.com/watch?v=eY8RUi5mrhc&embeds_referring_euri=https%3A%2F%2Fyhesper.github.io%2F&source_ve_path=MjM4NTE&feature=emb_title&themeRefresh=1)  
 > Source code [(Houdini and C++)](https://cseweb.ucsd.edu/~alchern/projects/FluidCohomology/code.zip)  
 
 [![covectorfluids](/images/covectorfluids_cover.jpeg)](https://cseweb.ucsd.edu/~viscomp/projects/SIG22CovectorFluids/)
 > ### Covector Fluids
-> Mohammad Sina Nabizadeh, **Stephanie Wang**, Ravi Ramamoorthi, Albert Chern  
+> [Mohammad Sina Nabizadeh](https://sinabiz.github.io/), **Stephanie Wang**, [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/), [Albert Chern](https://cseweb.ucsd.edu/~alchern/)  
 > ACM Transactions on Graphics (SIGGRAPH 2022)  
 > Paper [(pdf)](https://cseweb.ucsd.edu/~viscomp/projects/SIG22CovectorFluids/paper/CovectorFluids.pdf) Video [(YouTube)](https://www.youtube.com/watch?v=jM1FNiVYofI&feature=emb_title)  
 > Source code [(C++)](https://cseweb.ucsd.edu/~viscomp/projects/SIG22CovectorFluids/paper/CovectorFluids_code.zip)
 
 [![deepcurr](/images/hands_latent.gif)](https://people.csail.mit.edu/smirnov/deep-currents/)
 > ### DeepCurrents: Learning Implicit Representations of Shapes with Boundaries
-> David Palmer, Dmitriy Smirnov, **Stephanie Wang**, Albert Chern, Justin Solomon  
+> [David Palmer](https://dpa1mer.github.io/), [Dmitriy Smirnov](https://dsmirnov.com/), **Stephanie Wang**, [Albert Chern](https://cseweb.ucsd.edu/~alchern/), [Justin Solomon](https://people.csail.mit.edu/jsolomon/)  
 > Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2022)  
 > Paper [(pdf)](https://openaccess.thecvf.com/content/CVPR2022/papers/Palmer_DeepCurrents_Learning_Implicit_Representations_of_Shapes_With_Boundaries_CVPR_2022_paper.pdf) CVPR talk [(YouTube)](https://www.youtube.com/watch?v=OhJC3rtzeoU)  
 > Source code [(GitHub repo)](https://github.com/dmsm/DeepCurrents)
@@ -98,7 +98,7 @@ Publications and Preprints
 
 [![mincurr](/images/mincurr_cover.jpg)](https://cseweb.ucsd.edu/~alchern/projects/MinimalCurrent/)
 > ### Computing minimal surfaces with differential forms
-> **Stephanie Wang** and Albert Chern  
+> **Stephanie Wang** and [Albert Chern](https://cseweb.ucsd.edu/~alchern/)  
 > ACM Transactions on Graphics (SIGGRAPH 2021)  
 > Paper [(pdf)](files/mincurr_paper.pdf) Video [(Vimeo)](https://vimeo.com/542904902) SIGGRAPH talk [(Vimeo)](https://vimeo.com/558315135)  
 > Source code [(GitHub repo)](https://github.com/evastgh/Minimal_Current) Houdini Demo [(Vimeo)](https://vimeo.com/543382749)
