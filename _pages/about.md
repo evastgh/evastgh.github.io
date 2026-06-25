@@ -10,9 +10,8 @@ redirect_from:
 
 <!-- ![banner](/images/Banner2023Dec.gif) -->
 
-[TL;DR (one-page resume)](/files/Resume_Stephanie_Wang.pdf)   
-[TL;DR (CV)](/files/CV_Stephanie_Wang.pdf)  
 
+* TL;DR: [one-page resume](/files/Resume_Stephanie_Wang.pdf), [CV](/files/CV_Stephanie_Wang.pdf)  
 * Currently a postdoc at [TU Berlin](https://www.cg.tu-berlin.de/) working with [Prof. Dr. Marc Alexa](https://www.cg.tu-berlin.de/people/marc-alexa).  
 * Research interests ⊃ { geometry processing, physics simulation, fabrication, general computer graphics, ... }  
 * Experienced (published papers) in **geometric deep learning**, **geometry optimization**, and **physics-based simulation** of all kinds of materials (solids, fluids, waves, cloth, hair, friction/contact, deformable bodies, plasticity, visco-elasto-plasticity, and fracture/damage).  
