@@ -13,9 +13,9 @@ redirect_from:
 
 * TL;DR: [one-page resume](/files/Resume_Stephanie_Wang.pdf), [CV](/files/CV_Stephanie_Wang.pdf)  
 * Currently a postdoc at [TU Berlin](https://www.cg.tu-berlin.de/) working with [Prof. Dr. Marc Alexa](https://www.cg.tu-berlin.de/people/marc-alexa).  
-* Research interests ⊃ { geometry processing, physics simulation, fabrication, general computer graphics, ... }  
+* Research interests ⊃ { geometry processing, physics simulation, fabrication, general computer graphics }  
 * Experienced (published papers) in **geometric deep learning**, **geometry optimization**, and **physics-based simulation** of all kinds of materials (solids, fluids, waves, cloth, hair, friction/contact, deformable bodies, plasticity, visco-elasto-plasticity, and fracture/damage).  
-* Research meta-strategy ⊃ { formulating the continuous optimization problem, embracing distributional spaces, **fast** prototyping, LLM-assisted paper survey, unit testing, ... }
+* Research meta-strategy ⊃ { formulating the continuous optimization problem, embracing distributional spaces, **fast** prototyping, LLM-assisted paper survey, unit testing }
 * Previously a Research Engineer at [Adobe Research](https://research.adobe.com/) (supervisor: [Qingnan Zhou](https://research.adobe.com/person/qingnan-zhou/)), a postdoc at [UC San Diego](https://cse.ucsd.edu/) (mentor: [Albert Chern](https://cseweb.ucsd.edu/~alchern/)).  
 * PhD in Mathematics from [UCLA](https://www.math.ucla.edu/research/cam) (advisor: [Joseph Teran](https://www.math.ucla.edu/~jteran/)) and BS in Mathematics from [NTU](http://www.math.ntu.edu.tw/en/).  
 * I served in the following organizations: [Women in Math at UCLA](https://www.math.ucla.edu/grad/women-in-math), UCLA Math Grad Student Organization, [UCLA Math and Physical Sciences Council](https://www.math.ucla.edu/~mpsc/math/), [UCLA Grad Student Association](https://gsa.asucla.ucla.edu/). In 2017, I created the [UCLA Women In Math Mentorship Program](https://www.math.ucla.edu/grad/women-in-math-mentorship-program) to strengthen the community and encourage connections between undergraduate and graduate women in math.  
