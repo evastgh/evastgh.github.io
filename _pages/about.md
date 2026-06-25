@@ -120,27 +120,11 @@ e Paper [(pdf)](https://diglib.eg.org/bitstreams/75070487-ef35-4e4c-9989-c7cb1c9
 > Paper [(pdf)](files/hybrid_mpm_paper.pdf) Video [(YouTube)](https://www.youtube.com/watch?v=OQLYHusPAfw) Tech Doc [(pdf)](files/hybrid_tech_doc.pdf)
 
 
-Invited Talks
+Talks and Slides
 ======
-
-Capturing Surfaces using Differential Forms  
-Feb 16th, 2022 **NCSU** (virtual)  
-Nov 29th, 2021 **MIT CSAIL** (in-person in Cambridge, Massachusetts)  
-Nov 22nd, 2021 **Autodesk** (virtual)  
-Nov 16th, 2021 **Online Seminar Geometric Analysis** (virtual)  
-Oct 1st, 2021, **Toronto Geometry Colloquium** [(full content available on YouTube)](https://www.youtube.com/watch?v=EKnPi7R3P2M)  
-Sep 24th, 2021, **Geometry Workshop in Obergurgl**  (in-person in Obergurgl, Austria)  
-Apr 23rd, 2021, **UCSD Pixel Cafe** (virtual)  
-Jan 12th, 2021, **UCSD CCoM** (virtual)  
-Dec 15th, 2020, **CMU Graphics Lab** (virtual)   
-Slides [(pdf, updated Oct 1, 2021)](files/slides_20211001_Obergurgl.pdf)
-Slides [(pdf, updated Apr 23, 2021)](files/slides_20210423_PixelCafe.pdf)  
-
-Simulation and Visualization of Ductile Fracture with the Material Point Method  
-May 7th, 2020, **GAMES Webinar** (virtual)  
-November 4th, 2019, **College of the Holy Cross** (virtual)  
-August 28th, 2019, **ETH Zurich**  
-September 9th, 2019, **Inria Grenoble**  
-Slides [(pdf)](files/slides_20190828_ETHZ.pdf)
+* Your implicit geometries can be more explicit [(slides, short version)](https://docs.google.com/presentation/d/1FXB1bHoDLIDmERokKx80_z7UuSF7t3bSs9GzLG9A9RE/edit?usp=sharing) (long version slides are available upon request)  
+* Exterior Calculus in Graphics [(full content available on ACM DL)](https://dl.acm.org/doi/10.1145/3587423.3595525) [(lecture notes ver 1.00)](/files/ECIG_notes_v1.00.pdf)  
+* Capturing Surfaces using Differential Forms [(full content available on YouTube)](https://www.youtube.com/watch?v=EKnPi7R3P2M) [(slides)](files/slides_20211001_Obergurgl.pdf)  
+* Simulation and Visualization of Ductile Fracture with the Material Point Method [(slides)](files/slides_20190828_ETHZ.pdf)  
 
 
