@@ -27,5 +27,11 @@ main:
   # - title: "Cooking"
   #   url: /cooking/
         
-  - title: "My Via Alpina Green Experience"
+  - title: "Via Alpina Green"
     url: /ViaAlpinaGreen/
+
+  - title: "Resume"
+    url: /files/Resume_Stephanie_Wang.pdf
+
+  - title: "CV"
+    url: /files/CV_Stephanie_Wang.pdf
